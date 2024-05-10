@@ -1,4 +1,4 @@
-baseurl: "/dfi-rave"
+baseurl: "/dfi-rave-search-terms"
 plugins:
     - jekyll-seo-tag
 gems:
