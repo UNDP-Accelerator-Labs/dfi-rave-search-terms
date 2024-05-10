@@ -1,12 +1,12 @@
-# Semantic Analysis of Digital Financial Inclusion
+## Semantic Analysis of Digital Financial Inclusion
 
 Welcome to the Semantic Analysis repository for Digital Financial Inclusion Rave! This repository contains the results of Natural Language Processing (NLP) processing of content from across the Accelerator Lab network, focusing on digital financial inclusion.
 
-# Overview
+##  Overview
 
 Digital financial inclusion plays a pivotal role in empowering individuals and communities by providing access to financial services through digital channels. This semantic analysis aims to uncover insights and trends within the realm of digital financial inclusion by analyzing content from various sources.
 
-# Search Terms
+##  Search Terms
 
 The following search terms were used for the analysis:
 
@@ -34,7 +34,7 @@ The following search terms were used for the analysis:
 - Cryptocurrency
 - Fintech
 
-# Analysis Results
+##  Analysis Results
 
 The semantic analysis has generated insights into various aspects of digital financial inclusion, including trends, challenges, and opportunities. We encourage you to explore the results and contribute to further understanding in this field.
 
