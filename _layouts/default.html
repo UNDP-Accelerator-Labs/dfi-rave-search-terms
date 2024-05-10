@@ -51,7 +51,9 @@
     href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
   />
   
-
+<script data-goatcounter="https://signature-solution.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+    
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
@@ -79,7 +81,7 @@
         <section class="header">
           <div class="grid-container fluid">
             <div class="grid-x grid-margin-x align-content-middle">
-              <div class="cell small-8 large-8 shrink align-self-middle top-left">
+              <div class="cell small-6 large-6 shrink align-self-middle top-left">
                 <a href="{{ site.baseurl }}/" class="logo" tabindex="0" title="UNDP Logo homepage link">
                   <img
                     src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
@@ -88,7 +90,7 @@
                   />
                 </a>
                 <div class="site-title" style="padding-left: 10em">
-                  <span><a href="#" title="UNDP homepage link">TOOLKITS</a></span>
+                  <span><a href="#" title="UNDP homepage link">RAVE</a></span>
                   <span><a href="#" title="UNDP homepage link">{{ site.data.site_info.title }}</a></span>
                 </div>
               </div>
@@ -149,6 +151,7 @@
                       <li data-menu-id="headerlink2">
                         <a href="{{ site.data.site_info.github_url }}" target="_blank" >Contribute  </a>
                       </li>
+
                       {% assign ordered_pages = site.pages | sort: 'menu' %}
                             {% for page in ordered_pages %}
                             {% if page.menu %}
@@ -184,7 +187,6 @@
         </div>
         <!-- END SIDEBAR FRO MOBILE -->
         
-        {% include components/partial-header.html %}
         <div class="grid-container fluid content-bottom">
           <div class="grid-x margin-top-72">
             
@@ -194,6 +196,17 @@
                 <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
                   <div class="grid-x">
                     <div class="cell medium-12">
+
+                      <div class="expand-search">
+                        <button class="expand-button">
+                          <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                        </button>
+                        <input type="text" aria-label="expand-search" id="search" />
+                        <button class="close-button">
+                          <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                        </button>
+                      </div>
+
                       <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
                       <ul>
                         {% assign ordered_pages = site.pages | sort: 'menu' %}
@@ -231,8 +244,13 @@
                 <div class="search-filter">
                   <div class="select-wrapper">
                     <div id="tag-div"></div>
-                    <div id="sdg-div"></div>
                     
+                    <div id="signature_solutions_div"></div>
+                    <div id="enablers_div"></div>
+                    <div id="rblac_priorities_div"></div>
+
+
+                    <div id="sdg-div"></div>
                     
                     <span class="active-filter">Active Filters:</span>
                     <div class="selected-chips"></div>
@@ -260,7 +278,7 @@
                   </div>
 
                   <!-- BEGIN TAGS AND SDG CHIPS -->
-                  {% if page.tags or page.sdg %}
+                  <!-- {% if page.tags or page.sdg %} -->
                   <div class="pt-3" >
                   <hr/>
                   <div>
@@ -271,13 +289,35 @@
                   </div>
 
                   <div>
+                    {% if page.signature_solutions %}
+                    <h5> Signature Solutions</h5>
+                    {% include corporate/signature-solution-chip.html %}
+                    {% endif %}
+                  </div>
+
+                  <div>
+                    {% if page.enablers %}
+                    <h5> Enablers</h5>
+                    {% include corporate/enabler-chip.html %}
+                    {% endif %}
+                  </div>
+
+                  <div>
+                    {% if page.rblac_priorities %}
+                    <h5> RBLAC Priorities </h5>
+                    {% include corporate/rb-priority-chip.html %}
+                    {% endif %}
+                  </div>
+
+                  <div>
                     {% if page.sdg %}
                     <h5> SDG</h5>
                     {% include corporate/category-chip.html %}
                     {% endif %}
                   </div>
+
                 </div>
-                {% endif %}
+                <!-- {% endif %} -->
                   <!-- END TAGS AND CATEGORY CHIPS -->
 
                 </div>

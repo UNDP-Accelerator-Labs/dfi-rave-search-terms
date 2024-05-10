@@ -117,85 +117,85 @@ $(document).ready(function() {
 var tagsdiv = $('#tag-div');
 var sdgdiv = $('#sdg-div')
 
-if(tags.length > 0){
-    tags = tags.sort(customSort);
-    let tg = `
-    <div class="multi-select" data-multi-select="">
-        <button aria-label="Region" aria-expanded="false" data-id="tag">
-        Tags
-        </button>
-        <ul
-        data-type="region"
-        role="listbox"
-        aria-multiselectable="true"
-        aria-hidden="true"
-        aria-modal="true"
-        >
-    `;
+// if(tags && tags.length > 0){
+//     tags = tags.sort(customSort);
+//     let tg = `
+//     <div class="multi-select" data-multi-select="">
+//         <button aria-label="Region" aria-expanded="false" data-id="tag">
+//         Tags
+//         </button>
+//         <ul
+//         data-type="region"
+//         role="listbox"
+//         aria-multiselectable="true"
+//         aria-hidden="true"
+//         aria-modal="true"
+//         >
+//     `;
 
-    for(let i = 0; i < tags.length; i++) {
-        tg += `
-            <li role="option">
-                <div class="form-check">
-                    <label for="tag${i+1}">${tags[i]?.toUpperCase()}</label>
-                    <input
-                        type="checkbox"
-                        id="${tags[i]}"
-                        name="tags"
-                        value="${tags[i]}"
-                    />
-                </div>
-            </li>  
-        `;
-    }
+//     for(let i = 0; i < tags.length; i++) {
+//         tg += `
+//             <li role="option">
+//                 <div class="form-check">
+//                     <label for="tag${i+1}">${tags[i]?.toUpperCase()}</label>
+//                     <input
+//                         type="checkbox"
+//                         id="${tags[i]}"
+//                         name="tags"
+//                         value="${tags[i]}"
+//                     />
+//                 </div>
+//             </li>  
+//         `;
+//     }
 
-    tg += `
-            </ul>
-        </div>
-    `;
+//     tg += `
+//             </ul>
+//         </div>
+//     `;
 
-    tagsdiv.append(tg)
-}
+//     tagsdiv.append(tg)
+// }
 
-if(sdg.length > 0){
-    sdg = sdg.sort(customSort);
-    let tg = `
-    <div class="multi-select" data-multi-select="">
-        <button aria-label="Region" aria-expanded="false" data-id="sdg">
-        SDG
-        </button>
-        <ul
-        data-type="region"
-        role="listbox"
-        aria-multiselectable="true"
-        aria-hidden="true"
-        aria-modal="true"
-        >
-    `;
+// if(sdg.length > 0){
+//     sdg = sdg.sort(customSort);
+//     let tg = `
+//     <div class="multi-select" data-multi-select="">
+//         <button aria-label="Region" aria-expanded="false" data-id="sdg">
+//         SDG
+//         </button>
+//         <ul
+//         data-type="region"
+//         role="listbox"
+//         aria-multiselectable="true"
+//         aria-hidden="true"
+//         aria-modal="true"
+//         >
+//     `;
 
-    for(let i = 0; i < sdg.length; i++) {
-        tg += `
-            <li role="option">
-                <div class="form-check">
-                    <label for="sdg${i+1}">${sdg[i]}</label>
-                    <input
-                        type="checkbox"
-                        id="${sdg[i]}"
-                        name="sdg"
-                        value="${sdg[i]}"
-                    />
-                </div>
-            </li>  
-        `;
-    }
+//     for(let i = 0; i < sdg.length; i++) {
+//         tg += `
+//             <li role="option">
+//                 <div class="form-check">
+//                     <label for="sdg${i+1}">${sdg[i]}</label>
+//                     <input
+//                         type="checkbox"
+//                         id="${sdg[i]}"
+//                         name="sdg"
+//                         value="${sdg[i]}"
+//                     />
+//                 </div>
+//             </li>  
+//         `;
+//     }
 
-    tg += `
-            </ul>
-        </div>
-    `;
+//     tg += `
+//             </ul>
+//         </div>
+//     `;
 
-    sdgdiv.append(tg)
-}
+//     sdgdiv.append(tg)
+// }
 
 let taglist = []
 let sdglist = []

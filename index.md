@@ -1,86 +1,56 @@
 ---
-title: Getting Started
+title: 
 layout: default
 has_children: true
 
-# CONFIGURATION BELOW IS ONLY NEEDED IF YOU WANT TO USE TAGS AND CATEGORY IN THE TOOLKIT
-tags: [poverty, inequality, women empoverment]
-
-sdg: [No Poverty, Zero Hunger]
-
 ---
 
+### Semantic Analysis of Digital Financial Inclusion
 
-# Markdown Basics
+Welcome to the Semantic Analysis repository for Digital Financial Inclusion Rave! This repository contains the results of Natural Language Processing (NLP) processing of content from across the Accelerator Lab network, focusing on digital financial inclusion.
 
-## Introduction
+### Overview
 
-This page serves as a reference guide to the Markdown syntax used for creating different elements in your micro-site. You can use this guide to populate your micro-site with various content elements.
+Digital financial inclusion plays a pivotal role in empowering individuals and communities by providing access to financial services through digital channels. This semantic analysis aims to uncover insights and trends within the realm of digital financial inclusion by analyzing content from various sources.
+
+### Analysis Results
+
+The semantic analysis has generated insights into various aspects of digital financial inclusion, including trends, challenges, and opportunities. We encourage you to explore the results and contribute to further understanding in this field.
 
 
-## Headers
+- [Geospatial Analysis](./maps.html)
 
-Use hash symbols (#) for headers. The number of hashes indicates the header level.
+<!-- <iframe src="network_graph.html" width="1000" height="600"></iframe> -->
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+<!-- <br><br>
 
-## Text Formatting
+<iframe src="co_matrix.html" width="1000" height="600"></iframe> -->
 
-*Italic Text*  
-**Bold Text**  
-~~Strikethrough Text~~  
+### Search Terms
 
-## Links
+The following search terms were used for the analysis:
 
-[Link Text](https://www.example.com)
+- Mobile banking
+- Microfinance
+- Village Banks
+- Lending Groups
+- Saving Groups
+- Digital Literacy
+- Digital Inclusion
+- Financial literacy
+- Peer-to-peer lending
+- Financial services
+- E-commerce
+- Smart contracts
+- Remittances
+- Digital identity
+- Access to credit
+- Unbanked
+- E-wallets
+- Digital Wallets
+- Online lending
+- Financial empowerment
+- Inclusive banking
+- Cryptocurrency
+- Fintech
 
-## Lists
-
-Unordered List:
-- Item 1
-- Item 2
-- Item 3
-
-Ordered List:
-1. First Item
-2. Second Item
-3. Third Item
-
-## Images
-
-![Alt Text](./public/imgs/NIE1.png)
-
-## Blockquotes
-
-> This is a blockquote.
-
-## Code Blocks
-
-Inline code: `code here`
-
-Code Block:
-\```python
-def hello():
-    print("Hello, World!")
-\```
-
-## Horizontal Lines
-
----
-
-## Tables
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Content 1| Content 2|
-
-## Footnotes
-
-This is a sentence with a footnote.[^1]
-
-[^1]: This is the footnote content.
