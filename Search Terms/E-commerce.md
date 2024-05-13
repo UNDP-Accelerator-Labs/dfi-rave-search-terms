@@ -1,6 +1,6 @@
 ---
 title: E-commerce
-parent_order: 1
+parent_order: 2
 nav_order: 11
 layout: default
 
@@ -356,7 +356,7 @@ Empo
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a>
 
 #### Type: blog
 
@@ -373,7 +373,7 @@ Empo
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a>
+#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------</a>
 
 #### Type: blog
 

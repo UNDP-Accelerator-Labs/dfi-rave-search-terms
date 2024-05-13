@@ -1,6 +1,6 @@
 ---
 title: Peer-to-peer lending
-parent_order: 1
+parent_order: 2
 nav_order: 9
 layout: default
 
@@ -1696,24 +1696,6 @@ Where We
 
 
 ## Skip to main content About us
-Funding and delivery
-
-#### Date: 01 May, 2024
-
-#### Country: Jordan
-
-#### URL: <a href="https://www.undp.org/jordan/sustainable-development-goals" target="_blank">https://www.undp.org/jordan/sustainable-development-goals</a>
-
-#### Type: webpage
-
-#### Tags: ['Microfinance', 'Village Banks', 'Financial literacy', 'Peer-to-peer lending', 'Inclusive banking']
-
-#### Snippets:
-- cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in
-<br/><br/><br/>
-
-
-## Skip to main content About us
 Funding and Delivery
 Legal
 
@@ -1726,6 +1708,24 @@ Legal
 #### Type: webpage
 
 #### Tags: ['Microfinance', 'Village Banks', 'Financial literacy', 'Peer-to-peer lending']
+
+#### Snippets:
+- cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in
+<br/><br/><br/>
+
+
+## Skip to main content About us
+Funding and delivery
+
+#### Date: 01 May, 2024
+
+#### Country: Jordan
+
+#### URL: <a href="https://www.undp.org/jordan/sustainable-development-goals" target="_blank">https://www.undp.org/jordan/sustainable-development-goals</a>
+
+#### Type: webpage
+
+#### Tags: ['Microfinance', 'Village Banks', 'Financial literacy', 'Peer-to-peer lending', 'Inclusive banking']
 
 #### Snippets:
 - cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in

@@ -1,6 +1,6 @@
 ---
 title: Village Banks
-parent_order: 1
+parent_order: 2
 nav_order: 3
 layout: default
 
@@ -293,11 +293,11 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Mobile banking', 'Village Banks', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
+#### Tags: ['Mobile banking', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - ve 2020 yılları arasında Root Capital 2,3 milyon aileye 63 https://www.providence.bank/wp-content/uploads/sites/225/PBT_AbouUs_Brochure_ADA.pdf 64 https://www.
@@ -313,11 +313,11 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Mobile banking', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Cryptocurrency', 'Fintech']
+#### Tags: ['Mobile banking', 'Village Banks', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - ve 2020 yılları arasında Root Capital 2,3 milyon aileye 63 https://www.providence.bank/wp-content/uploads/sites/225/PBT_AbouUs_Brochure_ADA.pdf 64 https://www.

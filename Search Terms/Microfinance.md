@@ -1,6 +1,6 @@
 ---
 title: Microfinance
-parent_order: 1
+parent_order: 2
 nav_order: 2
 layout: default
 
@@ -235,7 +235,7 @@ Legal
 
 #### Country: Tunisia
 
-#### URL: <a href="https://www.undp.org/arab-states/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust" target="_blank">https://www.undp.org/arab-states/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust</a>
+#### URL: <a href="https://www.undp.org/fr/tunisia/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust" target="_blank">https://www.undp.org/fr/tunisia/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust</a>
 
 #### Type: blog
 
@@ -252,7 +252,7 @@ Legal
 
 #### Country: Tunisia
 
-#### URL: <a href="https://www.undp.org/fr/tunisia/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust" target="_blank">https://www.undp.org/fr/tunisia/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust</a>
+#### URL: <a href="https://www.undp.org/arab-states/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust" target="_blank">https://www.undp.org/arab-states/blog/financial-inclusion-women-entrepreneurs-building-bridge-trust</a>
 
 #### Type: blog
 
@@ -718,13 +718,13 @@ Legal Framework
 
 #### Date: 01 May, 2024
 
-#### Country: 
+#### Country: Kuwait
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/23384Kuwait_VNR_FINAL.PDF" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/23384Kuwait_VNR_FINAL.PDF</a>
+#### URL: <a href="https://www.undp.org/kuwait/sustainable-development-goals" target="_blank">https://www.undp.org/kuwait/sustainable-development-goals</a>
 
 #### Type: webpage
 
-#### Tags: ['Microfinance', 'Digital Literacy', 'Financial literacy', 'Financial empowerment']
+#### Tags: ['Microfinance', 'Digital Literacy', 'Financial literacy']
 
 #### Snippets:
 - new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in vulnerable situations and reduce their
@@ -737,13 +737,13 @@ Legal Framework
 
 #### Date: 01 May, 2024
 
-#### Country: Kuwait
+#### Country: 
 
-#### URL: <a href="https://www.undp.org/kuwait/sustainable-development-goals" target="_blank">https://www.undp.org/kuwait/sustainable-development-goals</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/23384Kuwait_VNR_FINAL.PDF" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/23384Kuwait_VNR_FINAL.PDF</a>
 
 #### Type: webpage
 
-#### Tags: ['Microfinance', 'Digital Literacy', 'Financial literacy']
+#### Tags: ['Microfinance', 'Digital Literacy', 'Financial literacy', 'Financial empowerment']
 
 #### Snippets:
 - new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in vulnerable situations and reduce their
@@ -896,25 +896,6 @@ Contact us Work with us
 
 
 ## Skip to main content About us
-Our leadership
-Funding and
-
-#### Date: 01 May, 2024
-
-#### Country: Mongolia
-
-#### URL: <a href="https://www.undp.org/mongolia/sustainable-development-goals" target="_blank">https://www.undp.org/mongolia/sustainable-development-goals</a>
-
-#### Type: webpage
-
-#### Tags: ['Microfinance', 'Village Banks', 'Digital Literacy', 'Financial literacy', 'Remittances']
-
-#### Snippets:
-- natural resources, appropriate new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in
-<br/><br/><br/>
-
-
-## Skip to main content About us
 Our team About us
 The UNDP Seoul
 
@@ -927,6 +908,25 @@ The UNDP Seoul
 #### Type: webpage
 
 #### Tags: ['Microfinance', 'Financial literacy', 'Financial services', 'Financial empowerment']
+
+#### Snippets:
+- natural resources, appropriate new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in
+<br/><br/><br/>
+
+
+## Skip to main content About us
+Our leadership
+Funding and
+
+#### Date: 01 May, 2024
+
+#### Country: Mongolia
+
+#### URL: <a href="https://www.undp.org/mongolia/sustainable-development-goals" target="_blank">https://www.undp.org/mongolia/sustainable-development-goals</a>
+
+#### Type: webpage
+
+#### Tags: ['Microfinance', 'Village Banks', 'Digital Literacy', 'Financial literacy', 'Remittances']
 
 #### Snippets:
 - natural resources, appropriate new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in
@@ -988,26 +988,6 @@ United Nati
 <br/><br/><br/>
 
 
-## Skip to main content About Us
-Our Team
-Legal Framework
-Funding
-
-#### Date: 01 May, 2024
-
-#### Country: Sierra Leone
-
-#### URL: <a href="https://www.undp.org/sierra-leone/sustainable-development-goals" target="_blank">https://www.undp.org/sierra-leone/sustainable-development-goals</a>
-
-#### Type: webpage
-
-#### Tags: ['Microfinance', 'Financial literacy', 'Financial services', 'Remittances', 'Financial empowerment']
-
-#### Snippets:
-- natural resources, appropriate new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in
-<br/><br/><br/>
-
-
 ## Skip to main content About us
 Our team
 Our partners
@@ -1022,6 +1002,26 @@ Legal
 #### Type: webpage
 
 #### Tags: ['Microfinance', 'Financial literacy', 'Remittances']
+
+#### Snippets:
+- natural resources, appropriate new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in
+<br/><br/><br/>
+
+
+## Skip to main content About Us
+Our Team
+Legal Framework
+Funding
+
+#### Date: 01 May, 2024
+
+#### Country: Sierra Leone
+
+#### URL: <a href="https://www.undp.org/sierra-leone/sustainable-development-goals" target="_blank">https://www.undp.org/sierra-leone/sustainable-development-goals</a>
+
+#### Type: webpage
+
+#### Tags: ['Microfinance', 'Financial literacy', 'Financial services', 'Remittances', 'Financial empowerment']
 
 #### Snippets:
 - natural resources, appropriate new technology and financial services, including microfinance By 2030, build the resilience of the poor and those in
@@ -1061,7 +1061,7 @@ United Nati
 
 #### Type: document
 
-#### Tags: ['Microfinance', 'Access to credit']
+#### Tags: ['Microfinance']
 
 #### Snippets:
 - of the PFM reform process, the government has received two disbursements totaling $226 Million under the IMF Rapid Credit Facility (RCF).
@@ -1081,7 +1081,7 @@ United Nati
 
 #### Type: document
 
-#### Tags: ['Microfinance']
+#### Tags: ['Microfinance', 'Access to credit']
 
 #### Snippets:
 - of the PFM reform process, the government has received two disbursements totaling $226 Million under the IMF Rapid Credit Facility (RCF).

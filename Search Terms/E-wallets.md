@@ -1,6 +1,6 @@
 ---
 title: E-wallets
-parent_order: 1
+parent_order: 2
 nav_order: 17
 layout: default
 
@@ -1341,7 +1341,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
 
 #### Type: document
 
@@ -1413,7 +1413,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
 
 #### Type: document
 
@@ -1505,11 +1505,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
 
 #### Snippets:
 - facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
@@ -1529,11 +1529,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
 
 #### Snippets:
 - facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support

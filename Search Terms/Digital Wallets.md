@@ -1,6 +1,6 @@
 ---
 title: Digital Wallets
-parent_order: 1
+parent_order: 2
 nav_order: 18
 layout: default
 
@@ -592,7 +592,7 @@ Empo
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
 
 #### Type: blog
 
@@ -609,7 +609,7 @@ Empo
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
 
 #### Type: blog
 
@@ -959,30 +959,6 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
-
-#### Type: document
-
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
-
-#### Snippets:
-- forms of ID and verification, civil registration, digital transactions and money transfers, data exchange, and information systems.) • We launched
-<br/><br/><br/>
-
-
-## 1
-ANNUAL REPORT 2022
-UNITED NATIONS
-DEVELOPMENT PROGRAMME
-23
-HOPEFUL/4
-ALREADY HERE/12
-MADE POSSI
-
-#### Date: 25 April, 2023
-
-#### Country: 
-
 #### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a>
 
 #### Type: document
@@ -1007,11 +983,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
 
 #### Snippets:
 - forms of ID and verification, civil registration, digital transactions and money transfers, data exchange, and information systems.) • We launched
@@ -1055,7 +1031,31 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
+
+#### Type: document
+
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
+
+#### Snippets:
+- forms of ID and verification, civil registration, digital transactions and money transfers, data exchange, and information systems.) • We launched
+<br/><br/><br/>
+
+
+## 1
+ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI
+
+#### Date: 25 April, 2023
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
 
 #### Type: document
 
@@ -1147,7 +1147,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737</a>
+#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------</a>
 
 #### Type: blog
 
@@ -1164,7 +1164,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737</a>
 
 #### Type: blog
 
@@ -1558,7 +1558,7 @@ Rapport sur la coopé
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final_0.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final.pdf</a>
 
 #### Type: document
 
@@ -1576,7 +1576,7 @@ Rapport sur la coopé
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-09/UNDP%20SSC%20Report%20FRENCH%2016%20Final_0.pdf</a>
 
 #### Type: document
 

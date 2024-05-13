@@ -1,6 +1,6 @@
 ---
 title: Smart contracts
-parent_order: 1
+parent_order: 2
 nav_order: 12
 layout: default
 
@@ -927,7 +927,7 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
 
 #### Type: document
 
@@ -947,7 +947,7 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
 
 #### Type: document
 
@@ -1072,7 +1072,7 @@ Where We
 
 #### Country: Barbados
 
-#### URL: <a href="https://www.undp.org/barbados/our-focus" target="_blank">https://www.undp.org/barbados/our-focus</a>
+#### URL: <a href="https://www.undp.org/barbados/sargassum" target="_blank">https://www.undp.org/barbados/sargassum</a>
 
 #### Type: webpage
 
@@ -1091,7 +1091,7 @@ Where We
 
 #### Country: Barbados
 
-#### URL: <a href="https://www.undp.org/barbados/sargassum" target="_blank">https://www.undp.org/barbados/sargassum</a>
+#### URL: <a href="https://www.undp.org/barbados/our-focus" target="_blank">https://www.undp.org/barbados/our-focus</a>
 
 #### Type: webpage
 
@@ -1248,15 +1248,15 @@ Funding & Delivery
 Legal framework
 Funding and
 
-#### Date: 30 April, 2024
+#### Date: 01 May, 2024
 
 #### Country: Malawi
 
-#### URL: <a href="https://www.undp.org/malawi/accelerator-lab" target="_blank">https://www.undp.org/malawi/accelerator-lab</a>
+#### URL: <a href="https://www.undp.org/malawi/our-focus" target="_blank">https://www.undp.org/malawi/our-focus</a>
 
 #### Type: webpage
 
-#### Tags: ['Smart contracts']
+#### Tags: ['Smart contracts', 'Inclusive banking']
 
 #### Snippets:
 - development. Close mega menu Jobs Procurement Contact us Jobs UNDP works in more than 170 countries and territories, helping to achieve the eradication of
@@ -1267,15 +1267,15 @@ Funding and
 Legal framework
 Funding and
 
-#### Date: 01 May, 2024
+#### Date: 30 April, 2024
 
 #### Country: Malawi
 
-#### URL: <a href="https://www.undp.org/malawi/our-focus" target="_blank">https://www.undp.org/malawi/our-focus</a>
+#### URL: <a href="https://www.undp.org/malawi/accelerator-lab" target="_blank">https://www.undp.org/malawi/accelerator-lab</a>
 
 #### Type: webpage
 
-#### Tags: ['Smart contracts', 'Inclusive banking']
+#### Tags: ['Smart contracts']
 
 #### Snippets:
 - development. Close mega menu Jobs Procurement Contact us Jobs UNDP works in more than 170 countries and territories, helping to achieve the eradication of

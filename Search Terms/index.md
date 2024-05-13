@@ -1,5 +1,5 @@
 ---
 title: Search Terms
-menu: 1
+menu: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cryptocurrency
-parent_order: 1
+parent_order: 2
 nav_order: 22
 layout: default
 
@@ -283,7 +283,7 @@ The next f
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737</a>
 
 #### Type: blog
 
@@ -300,7 +300,7 @@ The next f
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737</a>
+#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------</a>
 
 #### Type: blog
 

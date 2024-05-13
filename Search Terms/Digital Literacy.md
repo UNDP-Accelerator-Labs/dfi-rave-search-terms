@@ -1,6 +1,6 @@
 ---
 title: Digital Literacy
-parent_order: 1
+parent_order: 2
 nav_order: 6
 layout: default
 
@@ -1112,11 +1112,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Peer-to-peer lending', 'Financial services', 'E-wallets', 'Digital Wallets']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
 
 #### Snippets:
 - implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
@@ -1136,11 +1136,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Peer-to-peer lending', 'Financial services', 'E-wallets', 'Digital Wallets']
 
 #### Snippets:
 - implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
@@ -1215,7 +1215,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
 
 #### Type: document
 
@@ -1263,7 +1263,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
 
 #### Type: document
 

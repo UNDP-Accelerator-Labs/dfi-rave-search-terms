@@ -1,6 +1,6 @@
 ---
 title: Financial empowerment
-parent_order: 1
+parent_order: 2
 nav_order: 20
 layout: default
 
@@ -697,7 +697,7 @@ Copyright ©️ UNDP 2022
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a>
+#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------</a>
 
 #### Type: blog
 
@@ -714,7 +714,7 @@ Copyright ©️ UNDP 2022
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a>
 
 #### Type: blog
 
@@ -1612,11 +1612,11 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Mobile banking', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Cryptocurrency', 'Fintech']
+#### Tags: ['Mobile banking', 'Village Banks', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - ve eylem planlarının tasarlanmasından sorumludur. 24 The G20 Sustainable Finance Roadmap adlı dokümana buradan ulaşabilirsiniz. https://g20sfwg.org/wp-
@@ -1632,11 +1632,11 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Mobile banking', 'Village Banks', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
+#### Tags: ['Mobile banking', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - ve eylem planlarının tasarlanmasından sorumludur. 24 The G20 Sustainable Finance Roadmap adlı dokümana buradan ulaşabilirsiniz. https://g20sfwg.org/wp-
@@ -1729,7 +1729,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
 
 #### Type: document
 
@@ -1753,7 +1753,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a>
 
 #### Type: document
 

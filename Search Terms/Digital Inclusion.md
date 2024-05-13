@@ -1,6 +1,6 @@
 ---
 title: Digital Inclusion
-parent_order: 1
+parent_order: 2
 nav_order: 7
 layout: default
 
@@ -568,11 +568,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Peer-to-peer lending', 'Financial services', 'E-wallets', 'Digital Wallets']
 
 #### Snippets:
 - implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
@@ -592,11 +592,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Peer-to-peer lending', 'Financial services', 'E-wallets', 'Digital Wallets']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
 
 #### Snippets:
 - implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
@@ -684,6 +684,30 @@ MADE POSSI
 
 #### Country: 
 
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
+
+#### Type: document
+
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
+
+#### Snippets:
+- implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br/><br/><br/>
+
+
+## 1
+ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI
+
+#### Date: 25 April, 2023
+
+#### Country: 
+
 #### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a>
 
 #### Type: document
@@ -709,30 +733,6 @@ MADE POSSI
 #### Country: 
 
 #### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a>
-
-#### Type: document
-
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
-
-#### Snippets:
-- implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
-<br/><br/><br/>
-
-
-## 1
-ANNUAL REPORT 2022
-UNITED NATIONS
-DEVELOPMENT PROGRAMME
-23
-HOPEFUL/4
-ALREADY HERE/12
-MADE POSSI
-
-#### Date: 25 April, 2023
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
 
 #### Type: document
 
@@ -1185,7 +1185,7 @@ ET D’ÉGALITÉ DE GENRE dans le
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a>
+#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------</a>
 
 #### Type: blog
 
@@ -1202,7 +1202,7 @@ ET D’ÉGALITÉ DE GENRE dans le
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a>
 
 #### Type: blog
 

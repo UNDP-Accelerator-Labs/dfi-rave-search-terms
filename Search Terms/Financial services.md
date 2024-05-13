@@ -1,6 +1,6 @@
 ---
 title: Financial services
-parent_order: 1
+parent_order: 2
 nav_order: 10
 layout: default
 
@@ -722,7 +722,7 @@ Funding and delivery Legal
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a>
 
 #### Type: blog
 
@@ -739,7 +739,7 @@ Funding and delivery Legal
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a>
+#### URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------</a>
 
 #### Type: blog
 
@@ -1264,7 +1264,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
 
 #### Type: document
 
@@ -1288,7 +1288,7 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a>
 
 #### Type: document
 

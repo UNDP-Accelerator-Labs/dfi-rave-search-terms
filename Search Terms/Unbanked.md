@@ -1,6 +1,6 @@
 ---
 title: Unbanked
-parent_order: 1
+parent_order: 2
 nav_order: 16
 layout: default
 
@@ -327,13 +327,13 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 <br/><br/><br/>
 
 
-## First Regular Session of the UNDP Executive Board
+## First regular session of the UNDP Executive Board
 
-#### Date: 21 January, 2019
+#### Date: 01 February, 2019
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/latin-america/speeches/first-regular-session-undp-executive-board" target="_blank">https://www.undp.org/latin-america/speeches/first-regular-session-undp-executive-board</a>
+#### URL: <a href="https://www.undp.org/africa/speeches/first-regular-session-undp-executive-board" target="_blank">https://www.undp.org/africa/speeches/first-regular-session-undp-executive-board</a>
 
 #### Type: speeches
 
@@ -344,13 +344,13 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 <br/><br/><br/>
 
 
-## First regular session of the UNDP Executive Board
+## First Regular Session of the UNDP Executive Board
 
-#### Date: 01 February, 2019
+#### Date: 21 January, 2019
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/africa/speeches/first-regular-session-undp-executive-board" target="_blank">https://www.undp.org/africa/speeches/first-regular-session-undp-executive-board</a>
+#### URL: <a href="https://www.undp.org/latin-america/speeches/first-regular-session-undp-executive-board" target="_blank">https://www.undp.org/latin-america/speeches/first-regular-session-undp-executive-board</a>
 
 #### Type: speeches
 
@@ -491,11 +491,11 @@ Legal
 
 #### Country: Armenia
 
-#### URL: <a href="https://www.undp.org/armenia/our-focus" target="_blank">https://www.undp.org/armenia/our-focus</a>
+#### URL: <a href="https://www.undp.org/armenia/about-us" target="_blank">https://www.undp.org/armenia/about-us</a>
 
 #### Type: webpage
 
-#### Tags: ['Unbanked']
+#### Tags: ['Unbanked', 'Online lending']
 
 #### Snippets:
 - resident and non-resident agencies.​ The World Bank (WB), International Finance Corporation (IFC) and International Monetary Fund (IMF) also have
@@ -510,11 +510,11 @@ Legal
 
 #### Country: Armenia
 
-#### URL: <a href="https://www.undp.org/armenia/about-us" target="_blank">https://www.undp.org/armenia/about-us</a>
+#### URL: <a href="https://www.undp.org/armenia/our-focus" target="_blank">https://www.undp.org/armenia/our-focus</a>
 
 #### Type: webpage
 
-#### Tags: ['Unbanked', 'Online lending']
+#### Tags: ['Unbanked']
 
 #### Snippets:
 - resident and non-resident agencies.​ The World Bank (WB), International Finance Corporation (IFC) and International Monetary Fund (IMF) also have
@@ -530,7 +530,7 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
 
 #### Type: document
 
@@ -550,7 +550,7 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
 
 #### Type: document
 
@@ -1622,23 +1622,6 @@ Funding and delivery Legal
 <br/><br/><br/>
 
 
-## L’empowerment par le digital : le cas des « ambassadrices numériques » dans le tiers-secteur au Maroc
-
-#### Date: 17 February, 2023
-
-#### Country: Morocco
-
-#### URL: <a href="https://www.undp.org/fr/morocco/publications/lempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc" target="_blank">https://www.undp.org/fr/morocco/publications/lempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc</a>
-
-#### Type: publications
-
-#### Tags: ['Mobile banking', 'Lending Groups', 'Digital Inclusion', 'Financial services', 'E-commerce', 'Remittances', 'Digital identity', 'Access to credit', 'Unbanked', 'E-wallets', 'Digital Wallets', 'Inclusive banking', 'Fintech']
-
-#### Snippets:
-- Solutions Group Ltd, UK. HOP (2022), Rapport Economique et financier, Ministre de "économie et des finances, Royaume du Maroc. KUBR, M. (2002),
-<br/><br/><br/>
-
-
 ## Aquahack winners announced
 
 #### Date: 07 July, 2020
@@ -1653,6 +1636,23 @@ Funding and delivery Legal
 
 #### Snippets:
 - and Water Farm Open Joint Stock Company, Cyber Security Academy, Sumaks, Techland, Caspian European Club, Innoland, eaziSTART, Next Step Innovations
+<br/><br/><br/>
+
+
+## L’empowerment par le digital : le cas des « ambassadrices numériques » dans le tiers-secteur au Maroc
+
+#### Date: 17 February, 2023
+
+#### Country: Morocco
+
+#### URL: <a href="https://www.undp.org/fr/morocco/publications/lempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc" target="_blank">https://www.undp.org/fr/morocco/publications/lempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc</a>
+
+#### Type: publications
+
+#### Tags: ['Mobile banking', 'Lending Groups', 'Digital Inclusion', 'Financial services', 'E-commerce', 'Remittances', 'Digital identity', 'Access to credit', 'Unbanked', 'E-wallets', 'Digital Wallets', 'Inclusive banking', 'Fintech']
+
+#### Snippets:
+- Solutions Group Ltd, UK. HOP (2022), Rapport Economique et financier, Ministre de "économie et des finances, Royaume du Maroc. KUBR, M. (2002),
 <br/><br/><br/>
 
 

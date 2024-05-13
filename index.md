@@ -20,7 +20,7 @@ The semantic analysis has generated insights into various aspects of digital fin
 
 - [Geospatial Analysis](./maps.html)
 
-<iframe src="network_graph.html" width="1000" height="600"></iframe>
+<!-- <iframe src="network_graph.html" width="1000" height="600"></iframe> -->
 
 <br><br>
 

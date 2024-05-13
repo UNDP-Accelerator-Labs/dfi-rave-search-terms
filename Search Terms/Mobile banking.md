@@ -1,6 +1,6 @@
 ---
 title: Mobile banking
-parent_order: 1
+parent_order: 2
 nav_order: 1
 layout: default
 
@@ -421,7 +421,7 @@ Disclaim
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737</a>
+#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------</a>
 
 #### Type: blog
 
@@ -438,7 +438,7 @@ Disclaim
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737?source=user_profile---------37----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737" target="_blank">https://acclabs.medium.com/agile-minds-quarantined-bodies-responding-to-socio-economic-impacts-of-covid-19-5bb457fbb737</a>
 
 #### Type: blog
 
@@ -1106,7 +1106,7 @@ Rapport sur la coopé
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
 
 #### Type: blog
 
@@ -1123,7 +1123,7 @@ Rapport sur la coopé
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
 
 #### Type: blog
 
@@ -1633,11 +1633,11 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Mobile banking', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Cryptocurrency', 'Fintech']
+#### Tags: ['Mobile banking', 'Village Banks', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - yeşil kredi kullandırmıştır (World Bank Group, 2021). 2018 yılında Garanti BBVA ve Zorlu Enerji arasında yapılan anlaşma Türkiye’nin ilk kredi
@@ -1653,11 +1653,11 @@ TKİ YATIRIMCILIĞI: TEMEL KAVRAMLARI, GENEL GÖRÜNÜMÜ, SKA İL
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki_Yatirimciligi.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Etki%20Yat%C4%B1r%C4%B1mc%C4%B1l%C4%B1g%CC%86%C4%B1_311022.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Mobile banking', 'Village Banks', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
+#### Tags: ['Mobile banking', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Unbanked', 'Online lending', 'Financial empowerment', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - yeşil kredi kullandırmıştır (World Bank Group, 2021). 2018 yılında Garanti BBVA ve Zorlu Enerji arasında yapılan anlaşma Türkiye’nin ilk kredi

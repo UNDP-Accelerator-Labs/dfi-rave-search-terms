@@ -5,7 +5,7 @@ layout: default
 parent: Home
 has_children: false
 
-menu: 2
+menu: 1
 ---
 
 ## Geospatial Analysis

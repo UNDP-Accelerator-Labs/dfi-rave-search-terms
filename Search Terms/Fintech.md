@@ -1,6 +1,6 @@
 ---
 title: Fintech
-parent_order: 1
+parent_order: 2
 nav_order: 23
 layout: default
 
@@ -191,7 +191,7 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
 
 #### Type: document
 
@@ -211,7 +211,7 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
 
 #### Type: document
 
@@ -310,6 +310,23 @@ Inequalities in human
 <br/><br/><br/>
 
 
+## Understanding and engaging with the complexity of Informal Urban Markets in Angola
+
+#### Date: 30 April, 2024
+
+#### Country: Angola
+
+#### URL: <a href="https://www.undp.org/pt/angola/blog/understanding-and-engaging-complexity-informal-urban-markets-angola" target="_blank">https://www.undp.org/pt/angola/blog/understanding-and-engaging-complexity-informal-urban-markets-angola</a>
+
+#### Type: blog
+
+#### Tags: ['Financial literacy', 'Financial services', 'Fintech']
+
+#### Snippets:
+- sandbox for Fintech, established by the National Bank, where startups are developing innovative digital financial instruments, will reach many
+<br/><br/><br/>
+
+
 ## Skip to main content About us
 Funding and delivery Legal
 
@@ -325,23 +342,6 @@ Funding and delivery Legal
 
 #### Snippets:
 - Most notably, financial technology (fintech) is becoming a popular innovative method in everyday business transactions. Accordingly, studies have
-<br/><br/><br/>
-
-
-## Understanding and engaging with the complexity of Informal Urban Markets in Angola
-
-#### Date: 30 April, 2024
-
-#### Country: Angola
-
-#### URL: <a href="https://www.undp.org/pt/angola/blog/understanding-and-engaging-complexity-informal-urban-markets-angola" target="_blank">https://www.undp.org/pt/angola/blog/understanding-and-engaging-complexity-informal-urban-markets-angola</a>
-
-#### Type: blog
-
-#### Tags: ['Financial literacy', 'Financial services', 'Fintech']
-
-#### Snippets:
-- sandbox for Fintech, established by the National Bank, where startups are developing innovative digital financial instruments, will reach many
 <br/><br/><br/>
 
 
@@ -755,7 +755,7 @@ The African Centre for Techno
 
 #### Country: Indonesia, Netherlands, Cyprus, Moldova, Armenia, Egypt, Sri Lanka, United States of America, United Kingdom, New Zealand
 
-#### URL: <a href="https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131" target="_blank">https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131</a>
+#### URL: <a href="https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131?source=user_profile---------64----------------------------" target="_blank">https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131?source=user_profile---------64----------------------------</a>
 
 #### Type: blog
 
@@ -772,7 +772,7 @@ The African Centre for Techno
 
 #### Country: Indonesia, Netherlands, Cyprus, Moldova, Armenia, Egypt, Sri Lanka, United States of America, United Kingdom, New Zealand
 
-#### URL: <a href="https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131?source=user_profile---------64----------------------------" target="_blank">https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131?source=user_profile---------64----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131" target="_blank">https://acclabs.medium.com/what-are-the-new-skills-we-need-in-development-ad4dde64d131</a>
 
 #### Type: blog
 
@@ -1015,7 +1015,7 @@ Funding
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
 
 #### Type: blog
 
@@ -1032,7 +1032,7 @@ Funding
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
 
 #### Type: blog
 
@@ -1642,7 +1642,7 @@ OUR
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f?source=user_profile---------11----------------------------" target="_blank">https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f?source=user_profile---------11----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f" target="_blank">https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f</a>
 
 #### Type: blog
 
@@ -1659,7 +1659,7 @@ OUR
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f" target="_blank">https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f</a>
+#### URL: <a href="https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f?source=user_profile---------11----------------------------" target="_blank">https://acclabs.medium.com/three-signals-of-change-how-digitalization-is-changing-what-informality-looks-like-d4e53241a41f?source=user_profile---------11----------------------------</a>
 
 #### Type: blog
 

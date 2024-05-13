@@ -1,6 +1,6 @@
 ---
 title: Inclusive banking
-parent_order: 1
+parent_order: 2
 nav_order: 21
 layout: default
 
@@ -1495,7 +1495,7 @@ Legal
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
 
 #### Type: blog
 
@@ -1512,7 +1512,7 @@ Legal
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
 
 #### Type: blog
 

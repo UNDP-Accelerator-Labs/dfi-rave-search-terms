@@ -1,6 +1,6 @@
 ---
 title: Saving Groups
-parent_order: 1
+parent_order: 2
 nav_order: 5
 layout: default
 
@@ -195,32 +195,13 @@ JOURNEY TO EXTREMISM IN
 <br/><br/><br/>
 
 
-## Skip to main content About Us About us
-The secret to success
+## How do we work
 
 #### Date: 01 May, 2024
 
-#### Country: 
+#### Country: Uganda
 
-#### URL: <a href="https://www.undp.org/sgtechcentre/digitalisation" target="_blank">https://www.undp.org/sgtechcentre/digitalisation</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups', 'Digital Literacy', 'Digital Inclusion', 'Digital identity']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Pasar al contenido principal Sobre nosotras y nosotros
-Nuestro
-
-#### Date: 30 April, 2024
-
-#### Country: El Salvador
-
-#### URL: <a href="https://www.undp.org/es/el-salvador/publicaciones/kit-de-aceleracion" target="_blank">https://www.undp.org/es/el-salvador/publicaciones/kit-de-aceleracion</a>
+#### URL: <a href="https://www.undp.org/uganda/how-do-we-work" target="_blank">https://www.undp.org/uganda/how-do-we-work</a>
 
 #### Type: webpage
 
@@ -231,174 +212,15 @@ Nuestro
 <br/><br/><br/>
 
 
-## Aller au contenu principal A propos
-Cadre légal
-Financement
-
-#### Date: 30 April, 2024
-
-#### Country: Democratic Republic of the Congo
-
-#### URL: <a href="https://www.undp.org/fr/congo/climat-et-adaptation-0" target="_blank">https://www.undp.org/fr/congo/climat-et-adaptation-0</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Pasar al contenido principal Sobre nosotros
-Financiamiento y
+## Skip to main content Om os
+Vores fokus
+Vores partnerskab Om os
 
 #### Date: 01 May, 2024
 
-#### Country: Paraguay
+#### Country: Denmark
 
-#### URL: <a href="https://www.undp.org/es/paraguay/publicaciones/documentodetrabajo06" target="_blank">https://www.undp.org/es/paraguay/publicaciones/documentodetrabajo06</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Clearing the pond
-
-#### Date: 01 May, 2024
-
-#### Country: Trinidad and Tobago
-
-#### URL: <a href="https://www.undp.org/trinidad-and-tobago/clearing-pond" target="_blank">https://www.undp.org/trinidad-and-tobago/clearing-pond</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content About us
-Leadership
-Funding
-
-#### Date: 30 April, 2024
-
-#### Country: Kyrgyzstan
-
-#### URL: <a href="https://www.undp.org/kyrgyzstan/accelerator-lab" target="_blank">https://www.undp.org/kyrgyzstan/accelerator-lab</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups', 'Fintech']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## UNDP launches 2021/22 Human Development Report in Korea, emphasizing opportunities in times of uncertainty
-
-#### Date: 03 October, 2022
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/seoul/press-releases/undp-launches-2021/22-human-development-report-korea-emphasizing-opportunities-times-uncertainty" target="_blank">https://www.undp.org/policy-centre/seoul/press-releases/undp-launches-2021/22-human-development-report-korea-emphasizing-opportunities-times-uncertainty</a>
-
-#### Type: press release
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content About us
-Funding and delivery
-Legal
-
-#### Date: 01 May, 2024
-
-#### Country: Bahrain
-
-#### URL: <a href="https://www.undp.org/bahrain/undp-and-un" target="_blank">https://www.undp.org/bahrain/undp-and-un</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## iHRIS
-
-#### Date: 01 May, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/singapore/ihris" target="_blank">https://www.undp.org/policy-centre/singapore/ihris</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Accelerator Lab
-
-#### Date: 01 May, 2024
-
-#### Country: Trinidad and Tobago
-
-#### URL: <a href="https://www.undp.org/trinidad-and-tobago/accelerator-lab" target="_blank">https://www.undp.org/trinidad-and-tobago/accelerator-lab</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content Page content
-Accelerator Lab in the Pacific
-
-#### Date: 30 April, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/pacific/accelerator-lab" target="_blank">https://www.undp.org/pacific/accelerator-lab</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## UN Secretary-General's message on World Environment Day | 5 June 2022
-
-#### Date: 01 May, 2024
-
-#### Country: Suriname
-
-#### URL: <a href="https://www.undp.org/suriname/un-secretary-generals-message-world-environment-day-5-june-2022" target="_blank">https://www.undp.org/suriname/un-secretary-generals-message-world-environment-day-5-june-2022</a>
+#### URL: <a href="https://www.undp.org/da/denmark/vores-partnerskab" target="_blank">https://www.undp.org/da/denmark/vores-partnerskab</a>
 
 #### Type: webpage
 
@@ -426,15 +248,67 @@ Accelerator Lab in the Pacific
 <br/><br/><br/>
 
 
-## UNDP energy damage assessment for Ukraine reveals continued vulnerabilities
+## Accelerator Lab
 
-#### Date: 27 June, 2023
+#### Date: 01 May, 2024
 
-#### Country: Denmark
+#### Country: Trinidad and Tobago
 
-#### URL: <a href="https://www.undp.org/da/denmark/press-releases/undp-energy-damage-assessment-ukraine-reveals-continued-vulnerabilities" target="_blank">https://www.undp.org/da/denmark/press-releases/undp-energy-damage-assessment-ukraine-reveals-continued-vulnerabilities</a>
+#### URL: <a href="https://www.undp.org/trinidad-and-tobago/accelerator-lab" target="_blank">https://www.undp.org/trinidad-and-tobago/accelerator-lab</a>
 
-#### Type: press release
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## iHRIS
+
+#### Date: 01 May, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/policy-centre/singapore/ihris" target="_blank">https://www.undp.org/policy-centre/singapore/ihris</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Pasar al contenido principal Sobre el país
+Sobre nosotros
+
+#### Date: 30 April, 2024
+
+#### Country: Colombia
+
+#### URL: <a href="https://www.undp.org/es/colombia/laboratorio-aceleracion/que-es" target="_blank">https://www.undp.org/es/colombia/laboratorio-aceleracion/que-es</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Coronavirus disease COVID-19 pandemic
+
+#### Date: 01 May, 2024
+
+#### Country: Botswana
+
+#### URL: <a href="https://www.undp.org/botswana/coronavirus-disease-covid-19-pandemic" target="_blank">https://www.undp.org/botswana/coronavirus-disease-covid-19-pandemic</a>
+
+#### Type: webpage
 
 #### Tags: ['Saving Groups']
 
@@ -479,17 +353,37 @@ Legal
 <br/><br/><br/>
 
 
-## COVID-19 Open-Source Innovation: Selfcheck Contactless Accurate Body Thermometer
+## Skip to main content About us
+Leadership
+Funding
+
+#### Date: 30 April, 2024
+
+#### Country: Kyrgyzstan
+
+#### URL: <a href="https://www.undp.org/kyrgyzstan/accelerator-lab" target="_blank">https://www.undp.org/kyrgyzstan/accelerator-lab</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups', 'Fintech']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content About Us About us
+The secret to success
 
 #### Date: 01 May, 2024
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-selfcheck-contactless-accurate-body-thermometer" target="_blank">https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-selfcheck-contactless-accurate-body-thermometer</a>
+#### URL: <a href="https://www.undp.org/sgtechcentre/digitalisation" target="_blank">https://www.undp.org/sgtechcentre/digitalisation</a>
 
 #### Type: webpage
 
-#### Tags: ['Saving Groups']
+#### Tags: ['Saving Groups', 'Digital Literacy', 'Digital Inclusion', 'Digital identity']
 
 #### Snippets:
 - save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
@@ -513,13 +407,173 @@ Legal
 <br/><br/><br/>
 
 
-## How do we work
+## Pasar al contenido principal Sobre nosotras y nosotros
+Nuestro
+
+#### Date: 30 April, 2024
+
+#### Country: El Salvador
+
+#### URL: <a href="https://www.undp.org/es/el-salvador/publicaciones/kit-de-aceleracion" target="_blank">https://www.undp.org/es/el-salvador/publicaciones/kit-de-aceleracion</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## COVID-19 Open-Source Innovation: Selfcheck Contactless Accurate Body Thermometer
 
 #### Date: 01 May, 2024
 
-#### Country: Uganda
+#### Country: 
 
-#### URL: <a href="https://www.undp.org/uganda/how-do-we-work" target="_blank">https://www.undp.org/uganda/how-do-we-work</a>
+#### URL: <a href="https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-selfcheck-contactless-accurate-body-thermometer" target="_blank">https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-selfcheck-contactless-accurate-body-thermometer</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Clearing the pond
+
+#### Date: 01 May, 2024
+
+#### Country: Trinidad and Tobago
+
+#### URL: <a href="https://www.undp.org/trinidad-and-tobago/clearing-pond" target="_blank">https://www.undp.org/trinidad-and-tobago/clearing-pond</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## UN Secretary-General's message on World Environment Day | 5 June 2022
+
+#### Date: 01 May, 2024
+
+#### Country: Suriname
+
+#### URL: <a href="https://www.undp.org/suriname/un-secretary-generals-message-world-environment-day-5-june-2022" target="_blank">https://www.undp.org/suriname/un-secretary-generals-message-world-environment-day-5-june-2022</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content Page content
+Accelerator Lab in the Pacific
+
+#### Date: 30 April, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/pacific/accelerator-lab" target="_blank">https://www.undp.org/pacific/accelerator-lab</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## UNDP energy damage assessment for Ukraine reveals continued vulnerabilities
+
+#### Date: 27 June, 2023
+
+#### Country: Denmark
+
+#### URL: <a href="https://www.undp.org/da/denmark/press-releases/undp-energy-damage-assessment-ukraine-reveals-continued-vulnerabilities" target="_blank">https://www.undp.org/da/denmark/press-releases/undp-energy-damage-assessment-ukraine-reveals-continued-vulnerabilities</a>
+
+#### Type: press release
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Pasar al contenido principal Sobre nosotros
+Nuestro equipo
+
+#### Date: 13 May, 2020
+
+#### Country: Argentina
+
+#### URL: <a href="https://www.undp.org/es/argentina/noticias/covid-19-finanzas-inclusivas-y-seguras-en-comedores-comunitarios" target="_blank">https://www.undp.org/es/argentina/noticias/covid-19-finanzas-inclusivas-y-seguras-en-comedores-comunitarios</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content About us
+Funding and delivery
+Legal
+
+#### Date: 01 May, 2024
+
+#### Country: Bahrain
+
+#### URL: <a href="https://www.undp.org/bahrain/undp-and-un" target="_blank">https://www.undp.org/bahrain/undp-and-un</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## UNDP launches 2021/22 Human Development Report in Korea, emphasizing opportunities in times of uncertainty
+
+#### Date: 03 October, 2022
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/policy-centre/seoul/press-releases/undp-launches-2021/22-human-development-report-korea-emphasizing-opportunities-times-uncertainty" target="_blank">https://www.undp.org/policy-centre/seoul/press-releases/undp-launches-2021/22-human-development-report-korea-emphasizing-opportunities-times-uncertainty</a>
+
+#### Type: press release
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Aller au contenu principal A propos
+Cadre légal
+Financement
+
+#### Date: 30 April, 2024
+
+#### Country: Democratic Republic of the Congo
+
+#### URL: <a href="https://www.undp.org/fr/congo/climat-et-adaptation-0" target="_blank">https://www.undp.org/fr/congo/climat-et-adaptation-0</a>
 
 #### Type: webpage
 
@@ -581,68 +635,14 @@ Legal
 <br/><br/><br/>
 
 
-## Coronavirus disease COVID-19 pandemic
-
-#### Date: 01 May, 2024
-
-#### Country: Botswana
-
-#### URL: <a href="https://www.undp.org/botswana/coronavirus-disease-covid-19-pandemic" target="_blank">https://www.undp.org/botswana/coronavirus-disease-covid-19-pandemic</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
 ## Pasar al contenido principal Sobre nosotros
-Nuestro equipo
-
-#### Date: 13 May, 2020
-
-#### Country: Argentina
-
-#### URL: <a href="https://www.undp.org/es/argentina/noticias/covid-19-finanzas-inclusivas-y-seguras-en-comedores-comunitarios" target="_blank">https://www.undp.org/es/argentina/noticias/covid-19-finanzas-inclusivas-y-seguras-en-comedores-comunitarios</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Pasar al contenido principal Sobre el país
-Sobre nosotros
-
-#### Date: 30 April, 2024
-
-#### Country: Colombia
-
-#### URL: <a href="https://www.undp.org/es/colombia/laboratorio-aceleracion/que-es" target="_blank">https://www.undp.org/es/colombia/laboratorio-aceleracion/que-es</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content Om os
-Vores fokus
-Vores partnerskab Om os
+Financiamiento y
 
 #### Date: 01 May, 2024
 
-#### Country: Denmark
+#### Country: Paraguay
 
-#### URL: <a href="https://www.undp.org/da/denmark/vores-partnerskab" target="_blank">https://www.undp.org/da/denmark/vores-partnerskab</a>
+#### URL: <a href="https://www.undp.org/es/paraguay/publicaciones/documentodetrabajo06" target="_blank">https://www.undp.org/es/paraguay/publicaciones/documentodetrabajo06</a>
 
 #### Type: webpage
 
@@ -670,6 +670,24 @@ Vores partnerskab Om os
 <br/><br/><br/>
 
 
+## Skip to main content About Us About us
+The secret to success
+
+#### Date: 01 May, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-project-theia" target="_blank">https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-project-theia</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
 ## What do the social entrepreneurs say about the ecosystem in Azerbaijan?
 
 #### Date: 03 August, 2022
@@ -679,127 +697,6 @@ Vores partnerskab Om os
 #### URL: <a href="https://www.undp.org/azerbaijan/press-releases/what-do-social-entrepreneurs-say-about-ecosystem-azerbaijan" target="_blank">https://www.undp.org/azerbaijan/press-releases/what-do-social-entrepreneurs-say-about-ecosystem-azerbaijan</a>
 
 #### Type: press release
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Official Inauguration of the UN House in Belmopan, Belize
-
-#### Date: 14 April, 2023
-
-#### Country: Belize
-
-#### URL: <a href="https://www.undp.org/belize/press-releases/official-inauguration-un-house-belmopan-belize" target="_blank">https://www.undp.org/belize/press-releases/official-inauguration-un-house-belmopan-belize</a>
-
-#### Type: press release
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Pasar al contenido principal Sobre nosotros
-Financiamiento y
-
-#### Date: 01 May, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/es/tavarandu" target="_blank">https://www.undp.org/es/tavarandu</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## « VISION 2030, le TCHAD que nous voulons » Lancement du processus d'élaboration du 2e Plan National de Développement 2022-2026
-
-#### Date: 30 April, 2024
-
-#### Country: Chad
-
-#### URL: <a href="https://www.undp.org/fr/chad/%C2%AB-vision-2030-le-tchad-que-nous-voulons-%C2%BB-lancement-du-processus-d%C3%A9laboration-du-2e-plan-national-de-d%C3%A9veloppement-2022-2026" target="_blank">https://www.undp.org/fr/chad/%C2%AB-vision-2030-le-tchad-que-nous-voulons-%C2%BB-lancement-du-processus-d%C3%A9laboration-du-2e-plan-national-de-d%C3%A9veloppement-2022-2026</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups', 'Remittances']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## MULTIDIMENSIONAL POVERTY INDEX IN DJIBOUTI
-
-#### Date: 01 May, 2024
-
-#### Country: Djibouti
-
-#### URL: <a href="https://www.undp.org/djibouti/multidimensional-poverty-index-djibouti" target="_blank">https://www.undp.org/djibouti/multidimensional-poverty-index-djibouti</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## تجاوز إلى المحتوى الرئيسي من نحن About us
-UNDP works in
-
-#### Date: 01 May, 2024
-
-#### Country: Egypt
-
-#### URL: <a href="https://www.undp.org/ar/egypt/tsry-altqdm-nhw-ahdaf-altnmyt-almstdamt" target="_blank">https://www.undp.org/ar/egypt/tsry-altqdm-nhw-ahdaf-altnmyt-almstdamt</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Regional Training on Measuring SDG 16 in Africa
-
-#### Date: 20 December, 2020
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/oslo/events/regional-training-measuring-sdg-16-africa" target="_blank">https://www.undp.org/policy-centre/oslo/events/regional-training-measuring-sdg-16-africa</a>
-
-#### Type: event
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## International Day of Democracy 2022
-
-#### Date: 15 September, 2022
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/oslo/events/international-day-democracy-2022" target="_blank">https://www.undp.org/policy-centre/oslo/events/international-day-democracy-2022</a>
-
-#### Type: event
 
 #### Tags: ['Saving Groups']
 
@@ -825,35 +722,15 @@ UNDP works in
 <br/><br/><br/>
 
 
-## Platform #5 Launched
+## International Day of Democracy 2022
 
-#### Date: 09 February, 2023
+#### Date: 15 September, 2022
 
-#### Country: Armenia
+#### Country: 
 
-#### URL: <a href="https://www.undp.org/armenia/press-releases/platform-5-launched" target="_blank">https://www.undp.org/armenia/press-releases/platform-5-launched</a>
+#### URL: <a href="https://www.undp.org/policy-centre/oslo/events/international-day-democracy-2022" target="_blank">https://www.undp.org/policy-centre/oslo/events/international-day-democracy-2022</a>
 
-#### Type: press release
-
-#### Tags: ['Saving Groups', 'Unbanked']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content About us
-Our team
-UNDP in Mauritius
-UNDP
-
-#### Date: 30 April, 2024
-
-#### Country: Mauritius
-
-#### URL: <a href="https://www.undp.org/mauritius-seychelles/accelerator-lab-0" target="_blank">https://www.undp.org/mauritius-seychelles/accelerator-lab-0</a>
-
-#### Type: webpage
+#### Type: event
 
 #### Tags: ['Saving Groups']
 
@@ -862,13 +739,13 @@ UNDP
 <br/><br/><br/>
 
 
-## Partnerships for development; launch of the Crowd Funding Academy in Jordan
+## EU and UNDP present policy recommendations to develop social entrepreneurship in Azerbaijan
 
-#### Date: 28 March, 2023
+#### Date: 31 October, 2022
 
-#### Country: Jordan
+#### Country: Azerbaijan
 
-#### URL: <a href="https://www.undp.org/jordan/press-releases/partnerships-development-launch-crowd-funding-academy-jordan" target="_blank">https://www.undp.org/jordan/press-releases/partnerships-development-launch-crowd-funding-academy-jordan</a>
+#### URL: <a href="https://www.undp.org/azerbaijan/press-releases/eu-and-undp-present-policy-recommendations-develop-social-entrepreneurship-azerbaijan" target="_blank">https://www.undp.org/azerbaijan/press-releases/eu-and-undp-present-policy-recommendations-develop-social-entrepreneurship-azerbaijan</a>
 
 #### Type: press release
 
@@ -879,13 +756,13 @@ UNDP
 <br/><br/><br/>
 
 
-## Skip to main content Page content Home Partnerschaft Deutschland - UNDP
+## In depth
 
-#### Date: 30 April, 2024
+#### Date: 01 May, 2024
 
-#### Country: Germany
+#### Country: Trinidad and Tobago
 
-#### URL: <a href="https://www.undp.org/de/germany/partnerschaft" target="_blank">https://www.undp.org/de/germany/partnerschaft</a>
+#### URL: <a href="https://www.undp.org/trinidad-and-tobago/depth-0" target="_blank">https://www.undp.org/trinidad-and-tobago/depth-0</a>
 
 #### Type: webpage
 
@@ -896,14 +773,66 @@ UNDP
 <br/><br/><br/>
 
 
-## Skip to main content About Us About us
-The secret to success
+## healthsites.io
 
 #### Date: 01 May, 2024
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sgtechcentre/sids-youth-digital-future-consent" target="_blank">https://www.undp.org/sgtechcentre/sids-youth-digital-future-consent</a>
+#### URL: <a href="https://www.undp.org/policy-centre/singapore/healthsitesio" target="_blank">https://www.undp.org/policy-centre/singapore/healthsitesio</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Pasar al contenido principal Sobre nosotros
+Nuestro equipo
+
+#### Date: 09 September, 2021
+
+#### Country: Argentina
+
+#### URL: <a href="https://www.undp.org/es/argentina/noticias/pnud-y-mincyt-acuerdan-impulsar-la-ciencia-ciudadana-con-foco-en-ambiente" target="_blank">https://www.undp.org/es/argentina/noticias/pnud-y-mincyt-acuerdan-impulsar-la-ciencia-ciudadana-con-foco-en-ambiente</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## COVID-19 Open-Source Innovation: Esp8266 Shop Door Assistant
+
+#### Date: 01 May, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-esp8266-shop-door-assistant" target="_blank">https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-esp8266-shop-door-assistant</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Pasar al contenido principal Sobre nosotros
+Nuestro equipo
+
+#### Date: 15 November, 2021
+
+#### Country: Argentina
+
+#### URL: <a href="https://www.undp.org/es/argentina/noticias/ciencia-ciudadana-ambiental-30-proyectos-para-el-desarrollo-sostenible" target="_blank">https://www.undp.org/es/argentina/noticias/ciencia-ciudadana-ambiental-30-proyectos-para-el-desarrollo-sostenible</a>
 
 #### Type: webpage
 
@@ -948,30 +877,13 @@ The secret to success
 <br/><br/><br/>
 
 
-## EU and UNDP present policy recommendations to develop social entrepreneurship in Azerbaijan
+## Official Inauguration of the UN House in Belmopan, Belize
 
-#### Date: 31 October, 2022
-
-#### Country: Azerbaijan
-
-#### URL: <a href="https://www.undp.org/azerbaijan/press-releases/eu-and-undp-present-policy-recommendations-develop-social-entrepreneurship-azerbaijan" target="_blank">https://www.undp.org/azerbaijan/press-releases/eu-and-undp-present-policy-recommendations-develop-social-entrepreneurship-azerbaijan</a>
-
-#### Type: press release
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content Home Belize USAID-Funded InfoSegura Project
-
-#### Date: 01 May, 2024
+#### Date: 14 April, 2023
 
 #### Country: Belize
 
-#### URL: <a href="https://www.undp.org/belize/press-releases/usaid-funded-infosegura-project-supports-citizen-security-belize-through-judiciary" target="_blank">https://www.undp.org/belize/press-releases/usaid-funded-infosegura-project-supports-citizen-security-belize-through-judiciary</a>
+#### URL: <a href="https://www.undp.org/belize/press-releases/official-inauguration-un-house-belmopan-belize" target="_blank">https://www.undp.org/belize/press-releases/official-inauguration-un-house-belmopan-belize</a>
 
 #### Type: press release
 
@@ -982,13 +894,66 @@ The secret to success
 <br/><br/><br/>
 
 
-## healthsites.io
+## Skip to main content About us
+Funding and delivery
+Legal
 
 #### Date: 01 May, 2024
 
+#### Country: Bahrain
+
+#### URL: <a href="https://www.undp.org/bahrain/our-focus" target="_blank">https://www.undp.org/bahrain/our-focus</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Partnerships for development; launch of the Crowd Funding Academy in Jordan
+
+#### Date: 28 March, 2023
+
+#### Country: Jordan
+
+#### URL: <a href="https://www.undp.org/jordan/press-releases/partnerships-development-launch-crowd-funding-academy-jordan" target="_blank">https://www.undp.org/jordan/press-releases/partnerships-development-launch-crowd-funding-academy-jordan</a>
+
+#### Type: press release
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Regional Training on Measuring SDG 16 in Africa
+
+#### Date: 20 December, 2020
+
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/policy-centre/singapore/healthsitesio" target="_blank">https://www.undp.org/policy-centre/singapore/healthsitesio</a>
+#### URL: <a href="https://www.undp.org/policy-centre/oslo/events/regional-training-measuring-sdg-16-africa" target="_blank">https://www.undp.org/policy-centre/oslo/events/regional-training-measuring-sdg-16-africa</a>
+
+#### Type: event
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content Page content Home Partnerschaft Deutschland - UNDP
+
+#### Date: 30 April, 2024
+
+#### Country: Germany
+
+#### URL: <a href="https://www.undp.org/de/germany/partnerschaft" target="_blank">https://www.undp.org/de/germany/partnerschaft</a>
 
 #### Type: webpage
 
@@ -1018,19 +983,34 @@ Funding & Delivery
 <br/><br/><br/>
 
 
-## Skip to main content About us
-Funding and delivery
-Legal
+## Skip to main content Home Belize USAID-Funded InfoSegura Project
 
 #### Date: 01 May, 2024
 
-#### Country: Bahrain
+#### Country: Belize
 
-#### URL: <a href="https://www.undp.org/bahrain/our-focus" target="_blank">https://www.undp.org/bahrain/our-focus</a>
+#### URL: <a href="https://www.undp.org/belize/press-releases/usaid-funded-infosegura-project-supports-citizen-security-belize-through-judiciary" target="_blank">https://www.undp.org/belize/press-releases/usaid-funded-infosegura-project-supports-citizen-security-belize-through-judiciary</a>
 
-#### Type: webpage
+#### Type: press release
 
 #### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Platform #5 Launched
+
+#### Date: 09 February, 2023
+
+#### Country: Armenia
+
+#### URL: <a href="https://www.undp.org/armenia/press-releases/platform-5-launched" target="_blank">https://www.undp.org/armenia/press-releases/platform-5-launched</a>
+
+#### Type: press release
+
+#### Tags: ['Saving Groups', 'Unbanked']
 
 #### Snippets:
 - save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
@@ -1056,14 +1036,141 @@ El
 <br/><br/><br/>
 
 
+## MULTIDIMENSIONAL POVERTY INDEX IN DJIBOUTI
+
+#### Date: 01 May, 2024
+
+#### Country: Djibouti
+
+#### URL: <a href="https://www.undp.org/djibouti/multidimensional-poverty-index-djibouti" target="_blank">https://www.undp.org/djibouti/multidimensional-poverty-index-djibouti</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content About us
+Funding and delivery
+Legal
+
+#### Date: 01 May, 2024
+
+#### Country: Bahrain
+
+#### URL: <a href="https://www.undp.org/bahrain/about-us" target="_blank">https://www.undp.org/bahrain/about-us</a>
+
+#### Type: webpage
+
+#### Tags: ['Microfinance', 'Saving Groups', 'Smart contracts', 'Unbanked', 'E-wallets']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
 ## Pasar al contenido principal Sobre nosotros
-Nuestro equipo
+Financiamiento y
 
-#### Date: 09 September, 2021
+#### Date: 01 May, 2024
 
-#### Country: Argentina
+#### Country: 
 
-#### URL: <a href="https://www.undp.org/es/argentina/noticias/pnud-y-mincyt-acuerdan-impulsar-la-ciencia-ciudadana-con-foco-en-ambiente" target="_blank">https://www.undp.org/es/argentina/noticias/pnud-y-mincyt-acuerdan-impulsar-la-ciencia-ciudadana-con-foco-en-ambiente</a>
+#### URL: <a href="https://www.undp.org/es/tavarandu" target="_blank">https://www.undp.org/es/tavarandu</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content About Us About us
+The secret to success
+
+#### Date: 01 May, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/sgtechcentre/sids-youth-digital-future-consent" target="_blank">https://www.undp.org/sgtechcentre/sids-youth-digital-future-consent</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Moodle
+
+#### Date: 01 May, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/policy-centre/singapore/moodle" target="_blank">https://www.undp.org/policy-centre/singapore/moodle</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## Skip to main content About us
+Our team
+UNDP in Mauritius
+UNDP
+
+#### Date: 30 April, 2024
+
+#### Country: Mauritius
+
+#### URL: <a href="https://www.undp.org/mauritius-seychelles/accelerator-lab-0" target="_blank">https://www.undp.org/mauritius-seychelles/accelerator-lab-0</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## تجاوز إلى المحتوى الرئيسي من نحن About us
+UNDP works in
+
+#### Date: 01 May, 2024
+
+#### Country: Egypt
+
+#### URL: <a href="https://www.undp.org/ar/egypt/tmym-mraat-mnzwr-alnw-alajtmay" target="_blank">https://www.undp.org/ar/egypt/tmym-mraat-mnzwr-alnw-alajtmay</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
+<br/><br/><br/>
+
+
+## تجاوز إلى المحتوى الرئيسي من نحن About us
+UNDP works in
+
+#### Date: 01 May, 2024
+
+#### Country: Egypt
+
+#### URL: <a href="https://www.undp.org/ar/egypt/tsry-altqdm-nhw-ahdaf-altnmyt-almstdamt" target="_blank">https://www.undp.org/ar/egypt/tsry-altqdm-nhw-ahdaf-altnmyt-almstdamt</a>
 
 #### Type: webpage
 
@@ -1094,24 +1201,6 @@ Funding
 <br/><br/><br/>
 
 
-## Pasar al contenido principal Sobre nosotros
-Nuestro equipo
-
-#### Date: 15 November, 2021
-
-#### Country: Argentina
-
-#### URL: <a href="https://www.undp.org/es/argentina/noticias/ciencia-ciudadana-ambiental-30-proyectos-para-el-desarrollo-sostenible" target="_blank">https://www.undp.org/es/argentina/noticias/ciencia-ciudadana-ambiental-30-proyectos-para-el-desarrollo-sostenible</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
 ## COVID-19 pandemic
 
 #### Date: 01 May, 2024
@@ -1129,72 +1218,17 @@ Nuestro equipo
 <br/><br/><br/>
 
 
-## تجاوز إلى المحتوى الرئيسي من نحن About us
-UNDP works in
+## « VISION 2030, le TCHAD que nous voulons » Lancement du processus d'élaboration du 2e Plan National de Développement 2022-2026
 
-#### Date: 01 May, 2024
+#### Date: 30 April, 2024
 
-#### Country: Egypt
+#### Country: Chad
 
-#### URL: <a href="https://www.undp.org/ar/egypt/tmym-mraat-mnzwr-alnw-alajtmay" target="_blank">https://www.undp.org/ar/egypt/tmym-mraat-mnzwr-alnw-alajtmay</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## COVID-19 Open-Source Innovation: Esp8266 Shop Door Assistant
-
-#### Date: 01 May, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-esp8266-shop-door-assistant" target="_blank">https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-esp8266-shop-door-assistant</a>
+#### URL: <a href="https://www.undp.org/fr/chad/%C2%AB-vision-2030-le-tchad-que-nous-voulons-%C2%BB-lancement-du-processus-d%C3%A9laboration-du-2e-plan-national-de-d%C3%A9veloppement-2022-2026" target="_blank">https://www.undp.org/fr/chad/%C2%AB-vision-2030-le-tchad-que-nous-voulons-%C2%BB-lancement-du-processus-d%C3%A9laboration-du-2e-plan-national-de-d%C3%A9veloppement-2022-2026</a>
 
 #### Type: webpage
 
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content About us
-Funding and delivery
-Legal
-
-#### Date: 01 May, 2024
-
-#### Country: Bahrain
-
-#### URL: <a href="https://www.undp.org/bahrain/about-us" target="_blank">https://www.undp.org/bahrain/about-us</a>
-
-#### Type: webpage
-
-#### Tags: ['Microfinance', 'Saving Groups', 'Smart contracts', 'Unbanked', 'E-wallets']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Skip to main content About Us About us
-The secret to success
-
-#### Date: 01 May, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-project-theia" target="_blank">https://www.undp.org/policy-centre/singapore/covid-19-open-source-innovation-project-theia</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
+#### Tags: ['Saving Groups', 'Remittances']
 
 #### Snippets:
 - save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
@@ -1212,40 +1246,6 @@ Legal
 #### URL: <a href="https://www.undp.org/azerbaijan/press-releases/eu-and-undp-team-support-2nd-vocational-education-festival-azerbaijan" target="_blank">https://www.undp.org/azerbaijan/press-releases/eu-and-undp-team-support-2nd-vocational-education-festival-azerbaijan</a>
 
 #### Type: press release
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## Moodle
-
-#### Date: 01 May, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/policy-centre/singapore/moodle" target="_blank">https://www.undp.org/policy-centre/singapore/moodle</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- save":"modals.style_helper_save"},"property_group_options":{"accordion-tabs-container":"property_group_options.accordion_tabs_container","accordion-tabs-
-<br/><br/><br/>
-
-
-## In depth
-
-#### Date: 01 May, 2024
-
-#### Country: Trinidad and Tobago
-
-#### URL: <a href="https://www.undp.org/trinidad-and-tobago/depth-0" target="_blank">https://www.undp.org/trinidad-and-tobago/depth-0</a>
-
-#### Type: webpage
 
 #### Tags: ['Saving Groups']
 
@@ -1670,6 +1670,23 @@ Rapport sur la coopé
 <br/><br/><br/>
 
 
+## Accelerator Labs
+
+#### Date: 01 May, 2024
+
+#### Country: Azerbaijan
+
+#### URL: <a href="https://www.undp.org/azerbaijan/accelerator-labs" target="_blank">https://www.undp.org/azerbaijan/accelerator-labs</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups']
+
+#### Snippets:
+- pattern-repeater":"property_group_options.
+<br/><br/><br/>
+
+
 ## Skip to main content About us
 Funding and delivery
 Legal
@@ -1683,23 +1700,6 @@ Legal
 #### Type: webpage
 
 #### Tags: ['Saving Groups']
-
-#### Snippets:
-- pattern-repeater":"property_group_options.
-<br/><br/><br/>
-
-
-## The Process
-
-#### Date: 01 May, 2024
-
-#### Country: 
-
-#### URL: <a href="https://www.undp.org/south-sudan/process" target="_blank">https://www.undp.org/south-sudan/process</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups', 'Smart contracts']
 
 #### Snippets:
 - pattern-repeater":"property_group_options.
@@ -1723,23 +1723,6 @@ Legal
 <br/><br/><br/>
 
 
-## Accelerator Labs
-
-#### Date: 01 May, 2024
-
-#### Country: Azerbaijan
-
-#### URL: <a href="https://www.undp.org/azerbaijan/accelerator-labs" target="_blank">https://www.undp.org/azerbaijan/accelerator-labs</a>
-
-#### Type: webpage
-
-#### Tags: ['Saving Groups']
-
-#### Snippets:
-- pattern-repeater":"property_group_options.
-<br/><br/><br/>
-
-
 ## Laboratoire d'innovations du PNUD Niger
 
 #### Date: 30 April, 2024
@@ -1751,6 +1734,23 @@ Legal
 #### Type: webpage
 
 #### Tags: ['Saving Groups']
+
+#### Snippets:
+- pattern-repeater":"property_group_options.
+<br/><br/><br/>
+
+
+## The Process
+
+#### Date: 01 May, 2024
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/south-sudan/process" target="_blank">https://www.undp.org/south-sudan/process</a>
+
+#### Type: webpage
+
+#### Tags: ['Saving Groups', 'Smart contracts']
 
 #### Snippets:
 - pattern-repeater":"property_group_options.

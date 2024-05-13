@@ -1,6 +1,6 @@
 ---
 title: Lending Groups
-parent_order: 1
+parent_order: 2
 nav_order: 4
 layout: default
 
@@ -834,25 +834,6 @@ Rapport sur la coopé
 
 
 ## Skip to main content About us
-Funding and delivery
-Legal
-
-#### Date: 01 May, 2024
-
-#### Country: Eritrea
-
-#### URL: <a href="https://www.undp.org/eritrea/sustainable-development-goals" target="_blank">https://www.undp.org/eritrea/sustainable-development-goals</a>
-
-#### Type: webpage
-
-#### Tags: ['Microfinance', 'Village Banks', 'Lending Groups', 'Digital Literacy', 'Financial literacy', 'Remittances', 'Online lending', 'Financial empowerment']
-
-#### Snippets:
-- multiple sources Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing,
-<br/><br/><br/>
-
-
-## Skip to main content About us
 Funding and Delivery
 Where We
 
@@ -865,6 +846,25 @@ Where We
 #### Type: webpage
 
 #### Tags: ['Microfinance', 'Village Banks', 'Lending Groups', 'Peer-to-peer lending', 'Smart contracts', 'Online lending']
+
+#### Snippets:
+- multiple sources Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing,
+<br/><br/><br/>
+
+
+## Skip to main content About us
+Funding and delivery
+Legal
+
+#### Date: 01 May, 2024
+
+#### Country: Eritrea
+
+#### URL: <a href="https://www.undp.org/eritrea/sustainable-development-goals" target="_blank">https://www.undp.org/eritrea/sustainable-development-goals</a>
+
+#### Type: webpage
+
+#### Tags: ['Microfinance', 'Village Banks', 'Lending Groups', 'Digital Literacy', 'Financial literacy', 'Remittances', 'Online lending', 'Financial empowerment']
 
 #### Snippets:
 - multiple sources Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing,
@@ -1348,7 +1348,7 @@ Temps incertain
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
 
 #### Type: blog
 
@@ -1365,7 +1365,7 @@ Temps incertain
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
 
 #### Type: blog
 
@@ -1697,11 +1697,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
 
 #### Snippets:
 - partners to provide integrated development responses • 134 programme countries received pooled financing across the humanitarian, peace, development and
@@ -1745,11 +1745,11 @@ MADE POSSI
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a>
 
 #### Type: document
 
-#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets']
+#### Tags: ['Lending Groups', 'Digital Literacy', 'Digital Inclusion', 'Financial services', 'E-wallets', 'Digital Wallets', 'Financial empowerment']
 
 #### Snippets:
 - partners to provide integrated development responses • 134 programme countries received pooled financing across the humanitarian, peace, development and

@@ -1,6 +1,6 @@
 ---
 title: Access to credit
-parent_order: 1
+parent_order: 2
 nav_order: 15
 layout: default
 
@@ -1177,7 +1177,7 @@ By
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
 
 #### Type: blog
 
@@ -1194,7 +1194,7 @@ By
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea?source=user_profile---------18----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea" target="_blank">https://acclabs.medium.com/when-informal-markets-go-digital-emerging-signals-from-our-lab-network-6e6dadacc1ea</a>
 
 #### Type: blog
 
@@ -1777,7 +1777,7 @@ United Nati
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-02/Brief%20Pack%20-%20RD%20Visit%20to%20SS%20-%20Web%20version.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-02/Brief%20Pack%20-%20RD%20Visit%20to%20SS%20-%20Web%20version.pdf</a>
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-02/Brief%20Pack%20-%20RD%20Visit%20to%20SS%20-%20Web%20version_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-02/Brief%20Pack%20-%20RD%20Visit%20to%20SS%20-%20Web%20version_0.pdf</a>
 
 #### Type: document
 

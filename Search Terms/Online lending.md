@@ -1,6 +1,6 @@
 ---
 title: Online lending
-parent_order: 1
+parent_order: 2
 nav_order: 19
 layout: default
 
@@ -788,7 +788,7 @@ New threats to human security in the Anthropocene Demanding greater solidari
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a>
 
 #### Type: blog
 
@@ -805,7 +805,7 @@ New threats to human security in the Anthropocene Demanding greater solidari
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a>
+#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------</a>
 
 #### Type: blog
 

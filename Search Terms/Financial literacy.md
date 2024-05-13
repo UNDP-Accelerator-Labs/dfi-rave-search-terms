@@ -1,6 +1,6 @@
 ---
 title: Financial literacy
-parent_order: 1
+parent_order: 2
 nav_order: 8
 layout: default
 
@@ -209,26 +209,6 @@ The view
 
 #### Country: 
 
-#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
-
-#### Type: document
-
-#### Tags: ['Mobile banking', 'Village Banks', 'Digital Literacy', 'Digital Inclusion', 'Financial literacy', 'Peer-to-peer lending', 'Financial services', 'E-commerce', 'Smart contracts', 'Digital identity', 'Access to credit', 'Unbanked', 'E-wallets', 'Digital Wallets', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
-
-#### Snippets:
-- to those who lack could unlock numerous possibilities for Pakistan's socioeconomic development. Digital Literacy and skills are yet other significant
-<br/><br/><br/>
-
-
-## VOLUME 9 / ISSUE 3 | OCTOBER 2022
-DEVELOPMENT ADVOCATE
-Reimagining the Future of Work
-The view
-
-#### Date: 10 November, 2022
-
-#### Country: 
-
 #### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a>
 
 #### Type: document
@@ -254,6 +234,26 @@ Disclaim
 #### Type: document
 
 #### Tags: ['Mobile banking', 'Village Banks', 'Digital Literacy', 'Digital Inclusion', 'Financial literacy', 'Peer-to-peer lending', 'Financial services', 'E-commerce', 'Smart contracts', 'Digital identity', 'Unbanked', 'Digital Wallets', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
+
+#### Snippets:
+- to those who lack could unlock numerous possibilities for Pakistan's socioeconomic development. Digital Literacy and skills are yet other significant
+<br/><br/><br/>
+
+
+## VOLUME 9 / ISSUE 3 | OCTOBER 2022
+DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+The view
+
+#### Date: 10 November, 2022
+
+#### Country: 
+
+#### URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a>
+
+#### Type: document
+
+#### Tags: ['Mobile banking', 'Village Banks', 'Digital Literacy', 'Digital Inclusion', 'Financial literacy', 'Peer-to-peer lending', 'Financial services', 'E-commerce', 'Smart contracts', 'Digital identity', 'Access to credit', 'Unbanked', 'E-wallets', 'Digital Wallets', 'Online lending', 'Financial empowerment', 'Inclusive banking', 'Cryptocurrency', 'Fintech']
 
 #### Snippets:
 - to those who lack could unlock numerous possibilities for Pakistan's socioeconomic development. Digital Literacy and skills are yet other significant

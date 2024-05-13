@@ -1,6 +1,6 @@
 ---
 title: Digital identity
-parent_order: 1
+parent_order: 2
 nav_order: 14
 layout: default
 
@@ -433,7 +433,7 @@ New threats to human security in the Anthropocene Demanding greater solidari
 
 #### Country: Netherlands, Bangladesh, Ecuador, Guatemala, Ethiopia, Haiti, Morocco, Peru, Sweden, Algeria, Uganda, United Kingdom, Malaysia, El Salvador, Fiji, Vanuatu, Mexico, Namibia, Syria, Uzbekistan
 
-#### URL: <a href="https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5" target="_blank">https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5</a>
+#### URL: <a href="https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5?source=user_profile---------5----------------------------" target="_blank">https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5?source=user_profile---------5----------------------------</a>
 
 #### Type: blog
 
@@ -450,7 +450,7 @@ New threats to human security in the Anthropocene Demanding greater solidari
 
 #### Country: Netherlands, Bangladesh, Ecuador, Guatemala, Ethiopia, Haiti, Morocco, Peru, Sweden, Algeria, Uganda, United Kingdom, Malaysia, El Salvador, Fiji, Vanuatu, Mexico, Namibia, Syria, Uzbekistan
 
-#### URL: <a href="https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5?source=user_profile---------5----------------------------" target="_blank">https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5?source=user_profile---------5----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5" target="_blank">https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5</a>
 
 #### Type: blog
 
@@ -834,7 +834,7 @@ Funding & Delivery
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------</a>
+#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a>
 
 #### Type: blog
 
@@ -851,7 +851,7 @@ Funding & Delivery
 
 #### Country: 
 
-#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a>
+#### URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------</a>
 
 #### Type: blog
 
@@ -1313,14 +1313,14 @@ Representante Re
 <br/><br/><br/>
 
 
-## Skip to main content About us
-Funding and delivery About us
+## Skip to main content About Us
+Funding and Delivery Legal
 
 #### Date: 01 May, 2024
 
-#### Country: Suriname
+#### Country: Mozambique
 
-#### URL: <a href="https://www.undp.org/suriname/jobs" target="_blank">https://www.undp.org/suriname/jobs</a>
+#### URL: <a href="https://www.undp.org/mozambique/jobs" target="_blank">https://www.undp.org/mozambique/jobs</a>
 
 #### Type: webpage
 
@@ -1331,14 +1331,14 @@ Funding and delivery About us
 <br/><br/><br/>
 
 
-## Skip to main content About Us
-Funding and Delivery Legal
+## Skip to main content About us
+Funding and delivery About us
 
 #### Date: 01 May, 2024
 
-#### Country: Mozambique
+#### Country: Suriname
 
-#### URL: <a href="https://www.undp.org/mozambique/jobs" target="_blank">https://www.undp.org/mozambique/jobs</a>
+#### URL: <a href="https://www.undp.org/suriname/jobs" target="_blank">https://www.undp.org/suriname/jobs</a>
 
 #### Type: webpage
 
