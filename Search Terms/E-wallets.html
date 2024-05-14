@@ -1,0 +1,2786 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/dfi-rave-search-terms/public/imgs/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/dfi-rave-search-terms/public/imgs/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/dfi-rave-search-terms/public/imgs/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="/dfi-rave-search-terms/public/imgs/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/base-minimal.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-column.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/cta-link.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/global-header.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/language-switcher.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mega-menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mobile-nav.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/breadcrumbs.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/authors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-summary.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/content-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/chips.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/input-fields.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/buttons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/newsletter-signup.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/accordion.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/footer.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/author-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu-overflow.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar-data.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/page-hero.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/progress.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/fluid-image-size-carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/generic-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/search-expand.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/country-site-header.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/filter-and-search-bar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/multi-select.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/checkbox.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/radio.min.css">
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  />
+    
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/dfi-rave-search-terms/assets/css/style.css?v=">
+
+    <title>Semantic Analysis (DFI)</title>
+
+    <!-- OGP tags -->
+    <meta property="og:title" content="Semantic Analysis (DFI)">
+    <meta property="og:description" content="Semantic Analysis (DFI)">
+    
+    <meta property="og:image" content="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:secure_url" content="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>E-wallets</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="E-wallets" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="E-wallets" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"E-wallets","url":"/dfi-rave-search-terms/Search%20Terms/E-wallets.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+
+    <div class="generic-page">
+      <!-- START HEARDER -->
+      <header class="country-header country-load-animation run-animation">
+        <section class="header">
+          <div class="grid-container fluid">
+            <div class="grid-x grid-margin-x align-content-middle">
+              <div class="cell small-6 large-6 shrink align-self-middle top-left">
+                <a href="/dfi-rave-search-terms/" class="logo" tabindex="0" title="UNDP Logo homepage link">
+                  <img
+                    src="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+                    style="max-width: 30%; height: auto; margin-right: 1em;"
+                    alt="UNDP Logo"
+                  />
+                </a>
+                <div class="site-title" style="padding-left: 10em">
+                  <span><a href="#" title="UNDP homepage link">RAVE</a></span>
+                  <span><a href="#" title="UNDP homepage link">Semantic Analysis (DFI)</a></span>
+                </div>
+              </div>
+              <div class="cell small-1 large-1 align-content-middle top-center">
+                <nav class="menu">
+                  <ul class="">
+                    <li data-menu-id="headerlink1">
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              
+              <div class="cell small-5 large-auto top-right">
+                <div >
+                  <nav class="menu">
+                    <ul class="">
+                      <li data-menu-id="headerlink2">
+                        <a href="https://github.com/UNDP-Accelerator-Labs/dfi-rave-search-terms" target="_blank" >Contribute  </a>
+                      </li>
+                      <li>
+                        <button
+                          aria-expanded="false"
+                          id="google_translate_element"
+                          style="border: 0; background: none;"
+                        >
+                        </button>
+                      </li>
+                    </ul>
+                  </nav>
+                  
+                </div>
+            </div>
+            </div>
+          </div>
+        </section>
+      </header>
+      <!-- END HEADER -->
+
+        <!-- START SIDEBAR FOR MOBILE -->
+        <div class="grid-x">
+          <div class="cell small-12 sidebar-width">
+            <div class="column sidebar-mobile">
+              <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                <div class="grid-x">
+                  <div class="cell undefined">
+                    <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                    <div class="expand-search">
+                      <button class="expand-button">
+                        <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                      </button>
+                      <input type="text" aria-label="expand-search" id="search" />
+                      <button class="close-button">
+                        <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                      </button>
+                    </div>
+
+                    <ul>
+                      <li data-menu-id="headerlink2">
+                        <a href="https://github.com/UNDP-Accelerator-Labs/dfi-rave-search-terms" target="_blank" >Contribute  </a>
+                      </li>
+
+                      
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" /dfi-rave-search-terms/maps.html ">Geospatial Analysis</a>
+                                
+                                
+                                
+                                
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Search Terms</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Mobile%20banking.html">Mobile banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Microfinance.html">Microfinance</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Village%20Banks.html">Village Banks</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Lending%20Groups.html">Lending Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Saving%20Groups.html">Saving Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Literacy.html">Digital Literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Inclusion.html">Digital Inclusion</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20literacy.html">Financial literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Peer-to-peer%20lending.html">Peer-to-peer lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20services.html">Financial services</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-commerce.html">E-commerce</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Smart%20contracts.html">Smart contracts</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Remittances.html">Remittances</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20identity.html">Digital identity</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Access%20to%20credit.html">Access to credit</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Unbanked.html">Unbanked</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-wallets.html">E-wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Wallets.html">Digital Wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Online%20lending.html">Online lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20empowerment.html">Financial empowerment</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Inclusive%20banking.html">Inclusive banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Cryptocurrency.html">Cryptocurrency</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Fintech.html">Fintech</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <!-- END SIDEBAR FRO MOBILE -->
+        
+        <div class="grid-container fluid content-bottom">
+          <div class="grid-x margin-top-72">
+            
+            <!-- START SIDEBAR FOR DESKTOP -->
+            <div class="cell large-3 small-12 sidebar-width">
+              <div class="column sidebar-desktop">
+                <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                  <div class="grid-x">
+                    <div class="cell medium-12">
+
+                      <div class="expand-search">
+                        <button class="expand-button">
+                          <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                        </button>
+                        <input type="text" aria-label="expand-search" id="search" />
+                        <button class="close-button">
+                          <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                        </button>
+                      </div>
+
+                      <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                      <ul>
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" /dfi-rave-search-terms/maps.html ">Geospatial Analysis</a>
+                                
+                                
+                                
+                                
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Search Terms</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Mobile%20banking.html">Mobile banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Microfinance.html">Microfinance</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Village%20Banks.html">Village Banks</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Lending%20Groups.html">Lending Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Saving%20Groups.html">Saving Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Literacy.html">Digital Literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Inclusion.html">Digital Inclusion</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20literacy.html">Financial literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Peer-to-peer%20lending.html">Peer-to-peer lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20services.html">Financial services</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-commerce.html">E-commerce</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Smart%20contracts.html">Smart contracts</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Remittances.html">Remittances</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20identity.html">Digital identity</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Access%20to%20credit.html">Access to credit</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Unbanked.html">Unbanked</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-wallets.html">E-wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Wallets.html">Digital Wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Online%20lending.html">Online lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20empowerment.html">Financial empowerment</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Inclusive%20banking.html">Inclusive banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Cryptocurrency.html">Cryptocurrency</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Fintech.html">Fintech</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                      </ul>
+                    </div>
+                  </div>
+                </nav>
+
+                <!-- BEGGIN FILTERS -->
+                <div class="search-filter">
+                  <div class="select-wrapper">
+                    <div id="tag-div"></div>
+                    
+                    <div id="signature_solutions_div"></div>
+                    <div id="enablers_div"></div>
+                    <div id="rblac_priorities_div"></div>
+
+
+                    <div id="sdg-div"></div>
+                    
+                    <span class="active-filter">Active Filters:</span>
+                    <div class="selected-chips"></div>
+                    <button class="clear-search-filter">Clear All</button>
+                  </div>
+                </div>
+                <!-- END FILTER -->
+
+              </div>
+            </div>
+            <!-- END SIDEBAR FOR DESKTOP -->
+
+            <!-- BEGIN PAGE CONTENT -->
+            <div class="cell large-9 small-12 generic-content">
+              <div class="grid-x">
+                <div class="markdown-body">
+
+                  <!-- START BREADCRUMBS NAV -->
+                  <nav aria-label="breadcrumbs" data-viewport="true" class="breadcrumb">
+    <ul>
+        <li><a href="/dfi-rave-search-terms/" aria-label="Home">Home</a></li>
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+                <li><a href="/dfi-rave-search-terms/Search%20Terms/E-wallets.html" aria-label="Second-level">Search Terms</a></li>
+            
+        
+            
+        
+            
+        
+            
+        
+        <li aria-current="Page title">E-wallets</li>
+    </ul>
+</nav>
+                  <!-- END BREADCRUMBS NAV -->
+
+                  <div id="results"></div>
+                  <div id="content">
+                    <h2 id="rapport-dévaluation-de-lécosystème-de-la-finance-digitale-au-maroc-sdfe">Rapport d’évaluation de l’écosystème de la finance digitale au Maroc (SDFE)</h2>
+
+<h4 id="date-08-may-2023">Date: 08 May, 2023</h4>
+
+<h4 id="country-morocco">Country: Morocco</h4>
+
+<h4 id="url-httpswwwundporgfrmoroccopublicationsrapport-devaluation-de-lecosysteme-de-la-finance-digitale-au-maroc-sdfe">URL: <a href="https://www.undp.org/fr/morocco/publications/rapport-devaluation-de-lecosysteme-de-la-finance-digitale-au-maroc-sdfe" target="_blank">https://www.undp.org/fr/morocco/publications/rapport-devaluation-de-lecosysteme-de-la-finance-digitale-au-maroc-sdfe</a></h4>
+
+<h4 id="type-publications">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-remittances-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets">Snippets:</h4>
+<ul>
+  <li>chains. Table 5 - Analysis of the e-wallet features (UNDP analysis) e-wallet e-wallet e-wallet provided provided by Components features provided financial
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-finance-ecosystem-assessment-for-namibia">Digital finance ecosystem assessment for namibia</h2>
+
+<h4 id="date-24-january-2023">Date: 24 January, 2023</h4>
+
+<h4 id="country">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-01namibia20sdfe20assessment20and20strategy_finalpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-01/Namibia%20SDFE%20Assessment%20and%20Strategy_Final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-01/Namibia%20SDFE%20Assessment%20and%20Strategy_Final.pdf</a></h4>
+
+<h4 id="type-document">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-remittances-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-1">Snippets:</h4>
+<ul>
+  <li>the meaning of the Banking Institution Act 1998 and is not subject to any deposit protection. As such, e-money wallets could be construed to be limited to
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-readiness-assessment-suriname">Digital Readiness Assessment Suriname</h2>
+
+<h4 id="date-29-june-2022">Date: 29 June, 2022</h4>
+
+<h4 id="country-suriname">Country: Suriname</h4>
+
+<h4 id="url-httpswwwundporgsurinamepublicationsdigital-readiness-assessment-suriname">URL: <a href="https://www.undp.org/suriname/publications/digital-readiness-assessment-suriname" target="_blank">https://www.undp.org/suriname/publications/digital-readiness-assessment-suriname</a></h4>
+
+<h4 id="type-publications-1">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-2">Snippets:</h4>
+<ul>
+  <li>highlighted usage of their e-ID to access a small amount of
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="reconsidering-government-through-five-new-e-governance-ideas">Reconsidering Government through five new e-Governance ideas</h2>
+
+<h4 id="date-11-may-2020">Date: 11 May, 2020</h4>
+
+<h4 id="country-namibia">Country: Namibia</h4>
+
+<h4 id="url-httpswwwundporgnamibiablogreconsidering-government-through-five-new-e-governance-ideas">URL: <a href="https://www.undp.org/namibia/blog/reconsidering-government-through-five-new-e-governance-ideas" target="_blank">https://www.undp.org/namibia/blog/reconsidering-government-through-five-new-e-governance-ideas</a></h4>
+
+<h4 id="type-blog">Type: blog</h4>
+
+<h4 id="tags-e-wallets">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-3">Snippets:</h4>
+<ul>
+  <li>office, ministry of agency, the use of a personal computer in the home or office or on your mobile device. Idea 5: e-Governance allows for 24-7 Services
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-commerce-for-rural-development-a-response-to-covid-19-recovery">E-commerce for Rural Development: A Response to COVID-19 Recovery</h2>
+
+<h4 id="date-09-april-2021">Date: 09 April, 2021</h4>
+
+<h4 id="country-malaysia">Country: Malaysia</h4>
+
+<h4 id="url-httpswwwundporgmalaysiabloge-commerce-rural-development-response-covid-19-recovery">URL: <a href="https://www.undp.org/malaysia/blog/e-commerce-rural-development-response-covid-19-recovery" target="_blank">https://www.undp.org/malaysia/blog/e-commerce-rural-development-response-covid-19-recovery</a></h4>
+
+<h4 id="type-blog-1">Type: blog</h4>
+
+<h4 id="tags-e-commerce-unbanked-e-wallets">Tags: [‘E-commerce’, ‘Unbanked’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-4">Snippets:</h4>
+<ul>
+  <li>onset, we leveraged UNCDF’s networks of e-commerce and e-wallet partners (Boost, Lazada, Shopee, Celcom, Digi, Maxis, and Easy Parcel) to advise on the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="working-together-for-sustainable-development---results-2017-2018">Working Together for Sustainable Development - Results 2017-2018</h2>
+
+<h4 id="date-23-may-2019">Date: 23 May, 2019</h4>
+
+<h4 id="country-turkey">Country: Turkey</h4>
+
+<h4 id="url-httpswwwundporgturkiyepublicationsworking-together-sustainable-development-results-2017-2018">URL: <a href="https://www.undp.org/turkiye/publications/working-together-sustainable-development-results-2017-2018" target="_blank">https://www.undp.org/turkiye/publications/working-together-sustainable-development-results-2017-2018</a></h4>
+
+<h4 id="type-publications-2">Type: publications</h4>
+
+<h4 id="tags-village-banks-unbanked-e-wallets-inclusive-banking-fintech">Tags: [‘Village Banks’, ‘Unbanked’, ‘E-wallets’, ‘Inclusive banking’, ‘Fintech’]</h4>
+
+<h4 id="snippets-5">Snippets:</h4>
+<ul>
+  <li>for participatory, accountable and transparent services in national and international terms. The support for the e-Consulate system enhances e-
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+The view</p>
+
+<h4 id="date-10-november-2022">Date: 10 November, 2022</h4>
+
+<h4 id="country-1">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dapvol9-issue-320reimagining20the20future20of20workpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a></h4>
+
+<h4 id="type-document-1">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-6">Snippets:</h4>
+<ul>
+  <li>using advanced biometric verification systems. This application enabled the digital onboarding of 32 banks and financial institutions and fulfilled e-
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022-1">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+The view</p>
+
+<h4 id="date-10-november-2022-1">Date: 10 November, 2022</h4>
+
+<h4 id="country-2">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dap20vol2092c20issue20320reimagining20the20future20of20work20-20finalpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a></h4>
+
+<h4 id="type-document-2">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech-1">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-7">Snippets:</h4>
+<ul>
+  <li>using advanced biometric verification systems. This application enabled the digital onboarding of 32 banks and financial institutions and fulfilled e-
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="financial-service-solution">Financial Service Solution</h2>
+
+<h4 id="date-01-november-2023">Date: 01 November, 2023</h4>
+
+<h4 id="country-3">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid6455">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=6455" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=6455</a></h4>
+
+<h4 id="type-solution">Type: solution</h4>
+
+<h4 id="tags-financial-services-e-wallets-digital-wallets">Tags: [‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-8">Snippets:</h4>
+<ul>
+  <li>Wallet is a difital wallet that is integrated with a digital shared mared platform. It helps customers to access multiple products on one platform, e.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-health-insurance">e-Health Insurance</h2>
+
+<h4 id="date-16-january-2023">Date: 16 January, 2023</h4>
+
+<h4 id="country-4">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid4469">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=4469" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=4469</a></h4>
+
+<h4 id="type-solution-1">Type: solution</h4>
+
+<h4 id="tags-e-wallets-1">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-9">Snippets:</h4>
+<ul>
+  <li>e-Health Insurance Description The portal offers various e-services such as: electronic registration/deregistration of a family member; validation of the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="standards-frameworks-for-digital-transformation">Standards Frameworks for digital transformation</h2>
+
+<h4 id="date-15-december-2023">Date: 15 December, 2023</h4>
+
+<h4 id="country-kazakhstan">Country: Kazakhstan</h4>
+
+<h4 id="url-httpswwwundporgkazakhstanpublicationsstandards-frameworks-digital-transformation">URL: <a href="https://www.undp.org/kazakhstan/publications/standards-frameworks-digital-transformation" target="_blank">https://www.undp.org/kazakhstan/publications/standards-frameworks-digital-transformation</a></h4>
+
+<h4 id="type-publications-3">Type: publications</h4>
+
+<h4 id="tags-microfinance-financial-services-e-commerce-smart-contracts-access-to-credit-e-wallets-cryptocurrency">Tags: [‘Microfinance’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Access to credit’, ‘E-wallets’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-10">Snippets:</h4>
+<ul>
+  <li>of its people. The EGDI is a composite measure of three important dimensions of e-government, namely: provision of online services, telecommunication
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="beitrag-der-g20-zur-agenda-2030-in-zeiten-von-krisen-2019-2023">Beitrag der G20 zur Agenda 2030 in Zeiten von Krisen 2019-2023</h2>
+
+<h4 id="date-01-november-2023-1">Date: 01 November, 2023</h4>
+
+<h4 id="country-germany">Country: Germany</h4>
+
+<h4 id="url-httpswwwundporgdegermanypublicationsbeitrag-der-g20-zur-agenda-2030-zeiten-von-krisen-2019-2023">URL: <a href="https://www.undp.org/de/germany/publications/beitrag-der-g20-zur-agenda-2030-zeiten-von-krisen-2019-2023" target="_blank">https://www.undp.org/de/germany/publications/beitrag-der-g20-zur-agenda-2030-zeiten-von-krisen-2019-2023</a></h4>
+
+<h4 id="type-publications-4">Type: publications</h4>
+
+<h4 id="tags-microfinance-lending-groups-saving-groups-digital-literacy-digital-inclusion-peer-to-peer-lending-financial-services-smart-contracts-remittances-access-to-credit-unbanked-e-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency">Tags: [‘Microfinance’, ‘Lending Groups’, ‘Saving Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-11">Snippets:</h4>
+<ul>
+  <li>standards of EOI on request and Automatic Exchange of Information (AEOl), providing a compelling suite of international tax compliance tools. Exchanges
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="country-profiles-mapping-the-innovation-ecosystem-in-kenya">Country Profiles: Mapping the Innovation Ecosystem in Kenya</h2>
+
+<h4 id="date-09-february-2023">Date: 09 February, 2023</h4>
+
+<h4 id="country-kenya">Country: Kenya</h4>
+
+<h4 id="url-httpswwwundporgkenyapublicationscountry-profiles-mapping-innovation-ecosystem-kenya">URL: <a href="https://www.undp.org/kenya/publications/country-profiles-mapping-innovation-ecosystem-kenya" target="_blank">https://www.undp.org/kenya/publications/country-profiles-mapping-innovation-ecosystem-kenya</a></h4>
+
+<h4 id="type-publications-5">Type: publications</h4>
+
+<h4 id="tags-e-wallets-fintech">Tags: [‘E-wallets’, ‘Fintech’]</h4>
+
+<h4 id="snippets-12">Snippets:</h4>
+<ul>
+  <li>launched an e-governance system, which is an integrated system that helps all government agencies with all elements of their operations. All government
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-x-and-accelerator-lab-scale-e-commerce-in-uganda">Digital X and Accelerator Lab scale e-commerce in Uganda</h2>
+
+<h4 id="date-06-july-2021">Date: 06 July, 2021</h4>
+
+<h4 id="country-uganda">Country: Uganda</h4>
+
+<h4 id="url-httpswwwundporgugandablogdigital-x-and-accelerator-lab-scale-e-commerce-uganda">URL: <a href="https://www.undp.org/uganda/blog/digital-x-and-accelerator-lab-scale-e-commerce-uganda" target="_blank">https://www.undp.org/uganda/blog/digital-x-and-accelerator-lab-scale-e-commerce-uganda</a></h4>
+
+<h4 id="type-blog-2">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-lending-groups-peer-to-peer-lending-e-commerce-e-wallets-online-lending">Tags: [‘Mobile banking’, ‘Lending Groups’, ‘Peer-to-peer lending’, ‘E-commerce’, ‘E-wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-13">Snippets:</h4>
+<ul>
+  <li>Digital Skills for Vendors and Market Agents. E-commerce in Uganda
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="human-development-report-2019">Human Development Report 2019</h2>
+<p>Beyond income, beyond averages, beyond today:
+Inequalities in human</p>
+
+<h4 id="date-26-november-2019">Date: 26 November, 2019</h4>
+
+<h4 id="country-5">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07hdr2019pdfpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/hdr2019pdf.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/hdr2019pdf.pdf</a></h4>
+
+<h4 id="type-document-3">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-lending-groups-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-remittances-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Lending Groups’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-14">Snippets:</h4>
+<ul>
+  <li>plat- forms that allow users to send, receive and store mon- ey using a mobile phone—include Kenya’s M-Pesa and China’s Alipay. Mobile money has brought
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="partnerships-driving-e-commerce-development-for-informal-sector">Partnerships driving e-commerce development for informal sector</h2>
+
+<h4 id="date-14-september-2020">Date: 14 September, 2020</h4>
+
+<h4 id="country-uganda-tanzania-united-kingdom-united-states-of-america-egypt-south-korea-kenya-namibia-niger-nigeria-ghana-ivory-coast-cambodia-honduras">Country: Uganda, Tanzania, United Kingdom, United States of America, Egypt, South Korea, Kenya, Namibia, Niger, Nigeria, Ghana, Ivory Coast, Cambodia, Honduras</h4>
+
+<h4 id="url-httpswwwundporgugandablogpartnerships-driving-e-commerce-development-informal-sector">URL: <a href="https://www.undp.org/uganda/blog/partnerships-driving-e-commerce-development-informal-sector" target="_blank">https://www.undp.org/uganda/blog/partnerships-driving-e-commerce-development-informal-sector</a></h4>
+
+<h4 id="type-blog-3">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-financial-services-e-commerce-e-wallets-financial-empowerment-inclusive-banking">Tags: [‘Mobile banking’, ‘Financial services’, ‘E-commerce’, ‘E-wallets’, ‘Financial empowerment’, ‘Inclusive banking’]</h4>
+
+<h4 id="snippets-15">Snippets:</h4>
+<ul>
+  <li>had stimulating conversations on the role of e-commerce as a transformative digital technology with countries including Kenya, Namibia, Niger, Nigeria,
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-commerce-solutions-for-unbanked-rural-communities">E-commerce solutions for unbanked rural communities.</h2>
+
+<h4 id="date-01-november-2023-2">Date: 01 November, 2023</h4>
+
+<h4 id="country-6">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid6448">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=6448" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=6448</a></h4>
+
+<h4 id="type-solution-2">Type: solution</h4>
+
+<h4 id="tags-mobile-banking-village-banks-e-commerce-unbanked-e-wallets-online-lending-inclusive-banking">Tags: [‘Mobile banking’, ‘Village Banks’, ‘E-commerce’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Inclusive banking’]</h4>
+
+<h4 id="snippets-16">Snippets:</h4>
+<ul>
+  <li>E-commerce solutions for unbanked rural communities. Solution E-commerce solutions for unbanked rural communities. Innovation Solution Description E-
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="in-every-crisis-lies-an-opportunity--covid-19-is-triggering-a">In every crisis lies an opportunity’ — Covid-19 is triggering a</h2>
+
+<h4 id="date-01-may-2024">Date: 01 May, 2024</h4>
+
+<h4 id="country-azerbaijan">Country: Azerbaijan</h4>
+
+<h4 id="url-httpswwwundporgazerbaijanbloge28098-every-crisis-lies-opportunitye28099-e28094-covid-19-triggering-digital-healthcare-revolution-azerbaijan">URL: <a href="https://www.undp.org/azerbaijan/blog/%E2%80%98-every-crisis-lies-opportunity%E2%80%99-%E2%80%94-covid-19-triggering-digital-healthcare-revolution-azerbaijan" target="_blank">https://www.undp.org/azerbaijan/blog/%E2%80%98-every-crisis-lies-opportunity%E2%80%99-%E2%80%94-covid-19-triggering-digital-healthcare-revolution-azerbaijan</a></h4>
+
+<h4 id="type-blog-4">Type: blog</h4>
+
+<h4 id="tags-e-wallets-2">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-17">Snippets:</h4>
+<ul>
+  <li>needing to rely on often out-of-date sources.The new e-course platform will be especially helpful for medical professionals in rural areas and other
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="technological-change-and-the-future-of-jobs-harnessing-the-positive-po">TECHNOLOGICAL CHANGE AND THE FUTURE OF JOBS Harnessing the Positive Po</h2>
+
+<h4 id="date-18-september-2018">Date: 18 September, 2018</h4>
+
+<h4 id="country-7">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-022017_technological20change20and20the20future20of20jobs_en_digitalpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-02/2017_Technological%20Change%20and%20the%20Future%20of%20Jobs_en_digital.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-02/2017_Technological%20Change%20and%20the%20Future%20of%20Jobs_en_digital.pdf</a></h4>
+
+<h4 id="type-document-4">Type: document</h4>
+
+<h4 id="tags-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-financial-empowerment-fintech">Tags: [‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Fintech’]</h4>
+
+<h4 id="snippets-18">Snippets:</h4>
+<ul>
+  <li>and equip graduates with analytical, interpersonal, as well as computer and STEM skills. • Targeted vocational training using electronic platforms to align
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="leveraging-e-commerce-for-rural-development-and-covid-19-recovery-response-part-2">Leveraging e-commerce for rural development and COVID-19 recovery response (Part 2)</h2>
+
+<h4 id="date-14-february-2022">Date: 14 February, 2022</h4>
+
+<h4 id="country-malaysia-1">Country: Malaysia</h4>
+
+<h4 id="url-httpswwwundporgmalaysiablogleveraging-e-commerce-rural-development-and-covid-19-recovery-response-part-2">URL: <a href="https://www.undp.org/malaysia/blog/leveraging-e-commerce-rural-development-and-covid-19-recovery-response-part-2" target="_blank">https://www.undp.org/malaysia/blog/leveraging-e-commerce-rural-development-and-covid-19-recovery-response-part-2</a></h4>
+
+<h4 id="type-blog-5">Type: blog</h4>
+
+<h4 id="tags-e-commerce-e-wallets-digital-wallets-online-lending">Tags: [‘E-commerce’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-19">Snippets:</h4>
+<ul>
+  <li>of the Koondos! platform. Health and safety benefits of contactless trading, ease in delivery, and quicker receipt of revenue via e-wallet will be
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="aspiring-to-be-adept-lessons-from-a-covid-19-digital-cash-transfers-pilot">Aspiring to be ADEPT: Lessons from a COVID-19 digital cash transfers pilot</h2>
+
+<h4 id="date-22-february-2021">Date: 22 February, 2021</h4>
+
+<h4 id="country-philippines-france-uganda-spain-peoples-republic-of-china-united-kingdom">Country: Philippines, France, Uganda, Spain, People’s Republic of China, United Kingdom</h4>
+
+<h4 id="url-httpswwwundporgphilippinesnewsaspiring-be-adept-lessons-covid-19-digital-cash-transfers-pilot">URL: <a href="https://www.undp.org/philippines/news/aspiring-be-adept-lessons-covid-19-digital-cash-transfers-pilot" target="_blank">https://www.undp.org/philippines/news/aspiring-be-adept-lessons-covid-19-digital-cash-transfers-pilot</a></h4>
+
+<h4 id="type-news">Type: news</h4>
+
+<h4 id="tags-mobile-banking-digital-inclusion-financial-literacy-financial-services-digital-identity-e-wallets-digital-wallets-financial-empowerment">Tags: [‘Mobile banking’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Financial services’, ‘Digital identity’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-20">Snippets:</h4>
+<ul>
+  <li>digital wallets. Younger family members especially, stepped up to provide further technical support at home, which hints at the possibilities of using
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="circular-economy--optimising-private-sector-investment-in-mauritius">Circular Economy- Optimising private sector investment in Mauritius</h2>
+
+<h4 id="date-17-october-2021">Date: 17 October, 2021</h4>
+
+<h4 id="country-mauritius">Country: Mauritius</h4>
+
+<h4 id="url-httpswwwundporgmauritius-seychellespublicationscircular-economy-optimising-private-sector-investment-mauritius">URL: <a href="https://www.undp.org/mauritius-seychelles/publications/circular-economy-optimising-private-sector-investment-mauritius" target="_blank">https://www.undp.org/mauritius-seychelles/publications/circular-economy-optimising-private-sector-investment-mauritius</a></h4>
+
+<h4 id="type-publications-6">Type: publications</h4>
+
+<h4 id="tags-lending-groups-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-remittances-e-wallets-financial-empowerment-fintech">Tags: [‘Lending Groups’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘E-wallets’, ‘Financial empowerment’, ‘Fintech’]</h4>
+
+<h4 id="snippets-21">Snippets:</h4>
+<ul>
+  <li>Processing Facility for Used 4.9. E-waste E-waste also known as Waste Electrical and Electronic Equipment (WEEE) includes computers, laptops, printers,
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="arab-human-development-report-2022expanding-opportunities-for-an-inclusive-and-resilient-recovery">Arab Human Development Report 2022Expanding Opportunities for an Inclusive and Resilient Recovery</h2>
+
+<h4 id="date-28-june-2022">Date: 28 June, 2022</h4>
+
+<h4 id="country-8">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-06undp20arab20hdr20main20report20with20covers20no20embargo200628d_0pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-06/UNDP%20Arab%20HDR%20main%20report%20with%20covers%20no%20embargo%200628d_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-06/UNDP%20Arab%20HDR%20main%20report%20with%20covers%20no%20embargo%200628d_0.pdf</a></h4>
+
+<h4 id="type-document-5">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-literacy-digital-inclusion-financial-literacy-financial-services-remittances-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Financial services’, ‘Remittances’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-22">Snippets:</h4>
+<ul>
+  <li>opinion/ukrain -conflict-qatar-gas-bail-out-europe. Mazloum, A. 2022. “expanding Use of e-wallets in egypt: Strengthening the Social Contract one
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022-2">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+Disclaim</p>
+
+<h4 id="date-09-november-2022">Date: 09 November, 2022</h4>
+
+<h4 id="country-9">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dap-vol9-issue-3-reimagining-the-future-of-workpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP-vol9-Issue-3-Reimagining-the-Future-of-Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP-vol9-Issue-3-Reimagining-the-Future-of-Work.pdf</a></h4>
+
+<h4 id="type-document-6">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-financial-services-e-commerce-smart-contracts-digital-identity-unbanked-e-wallets-digital-wallets-online-lending-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-23">Snippets:</h4>
+<ul>
+  <li>This application enabled the digital onboarding of 32 banks and financial institutions and fulfilled e-KYC (Know Your Customer) requirements by providing
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="2022-special-report">2022 SPECIAL REPORT</h2>
+<p>New threats to human security in the Anthropocene Demanding greater solidari</p>
+
+<h4 id="date-06-february-2022">Date: 06 February, 2022</h4>
+
+<h4 id="country-10">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07srhs2022pdfpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/srhs2022pdf.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/srhs2022pdf.pdf</a></h4>
+
+<h4 id="type-document-7">Type: document</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-e-wallets-online-lending-cryptocurrency">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘E-wallets’, ‘Online lending’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-24">Snippets:</h4>
+<ul>
+  <li>of Cybernetics determined three essential pillars for a durable e-society: 4 • A unique mechanism for identifying all citizens based on an identity
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="future-tourism-regional-policy-dialogues---summary-report">Future Tourism Regional Policy Dialogues - Summary Report</h2>
+
+<h4 id="date-24-september-2021">Date: 24 September, 2021</h4>
+
+<h4 id="country-barbados">Country: Barbados</h4>
+
+<h4 id="url-httpswwwundporgbarbadospublicationsfuture-tourism-regional-policy-dialogues-summary-report">URL: <a href="https://www.undp.org/barbados/publications/future-tourism-regional-policy-dialogues-summary-report" target="_blank">https://www.undp.org/barbados/publications/future-tourism-regional-policy-dialogues-summary-report</a></h4>
+
+<h4 id="type-publications-7">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-digital-inclusion-financial-services-e-commerce-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Digital Inclusion’, ‘Financial services’, ‘E-commerce’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-25">Snippets:</h4>
+<ul>
+  <li>e Adigital currency is introduced in the Eastern Caribbean: the Dcash wallet will enable vulnerable groups to participate in the tourism value
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1">1</h2>
+<p>ANNUAL REPORT 2020
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+Contents
+FOREWORD BY ACHIM STEINER</p>
+
+<h4 id="date-01-june-2021">Date: 01 June, 2021</h4>
+
+<h4 id="country-11">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-05undp-annual-report-2020-enpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-05/UNDP-Annual-Report-2020-en.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-05/UNDP-Annual-Report-2020-en.pdf</a></h4>
+
+<h4 id="type-document-8">Type: document</h4>
+
+<h4 id="tags-financial-services-e-commerce-e-wallets">Tags: [‘Financial services’, ‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-26">Snippets:</h4>
+<ul>
+  <li>e-governance systems to ensure the continuity of essential public services. Working with its UN partners, we supported Bangladesh, Cameroon, Kenya,
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="tourism-diagnostic-report-saint-kitts-and-nevis">Tourism Diagnostic Report: Saint Kitts and Nevis</h2>
+
+<h4 id="date-16-august-2022">Date: 16 August, 2022</h4>
+
+<h4 id="country-barbados-1">Country: Barbados</h4>
+
+<h4 id="url-httpswwwundporgbarbadospublicationstourism-diagnostic-report-saint-kitts-and-nevis">URL: <a href="https://www.undp.org/barbados/publications/tourism-diagnostic-report-saint-kitts-and-nevis" target="_blank">https://www.undp.org/barbados/publications/tourism-diagnostic-report-saint-kitts-and-nevis</a></h4>
+
+<h4 id="type-publications-8">Type: publications</h4>
+
+<h4 id="tags-microfinance-digital-literacy-digital-inclusion-digital-identity-access-to-credit-e-wallets-digital-wallets-cryptocurrency-fintech">Tags: [‘Microfinance’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-27">Snippets:</h4>
+<ul>
+  <li>globally on the 2020 United Nations E-Government Survey and is considered among the higher performing group of SIDS countries for e-government
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-trains-rescuers-in-conflict-affected-eastern-ukraine-to-use-innovative-location-technology">UNDP trains rescuers in conflict-affected eastern Ukraine to use innovative location technology</h2>
+
+<h4 id="date-02-august-2021">Date: 02 August, 2021</h4>
+
+<h4 id="country-ukraine">Country: Ukraine</h4>
+
+<h4 id="url-httpswwwundporgukrainepress-releasesundp-trains-rescuers-conflict-affected-eastern-ukraine-use-innovative-location-technology">URL: <a href="https://www.undp.org/ukraine/press-releases/undp-trains-rescuers-conflict-affected-eastern-ukraine-use-innovative-location-technology" target="_blank">https://www.undp.org/ukraine/press-releases/undp-trains-rescuers-conflict-affected-eastern-ukraine-use-innovative-location-technology</a></h4>
+
+<h4 id="type-press-release">Type: press release</h4>
+
+<h4 id="tags-e-wallets-3">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-28">Snippets:</h4>
+<ul>
+  <li>Investment Bank (EIB), the U.S. Embassy in Ukraine, and the governments of Canada, Denmark, Germany, Japan, the Netherlands, Norway, Poland, Sweden &amp;
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-commerce-platform-for-digital-services">E-commerce Platform for digital services</h2>
+
+<h4 id="date-16-january-2023-1">Date: 16 January, 2023</h4>
+
+<h4 id="country-north-macedonia">Country: North Macedonia</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid4505">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=4505" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=4505</a></h4>
+
+<h4 id="type-solution-3">Type: solution</h4>
+
+<h4 id="tags-e-commerce-e-wallets-digital-wallets">Tags: [‘E-commerce’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-29">Snippets:</h4>
+<ul>
+  <li>E-commerce Platform for digital services Description This platform is a site that gathers various businesses on one stop. The association E-commerce in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="openness-to-innovation-has-proven-key-to-azerbaijans">Openness to innovation has proven key to Azerbaijan’s</h2>
+
+<h4 id="date-01-may-2024-1">Date: 01 May, 2024</h4>
+
+<h4 id="country-azerbaijan-1">Country: Azerbaijan</h4>
+
+<h4 id="url-httpswwwundporgazerbaijanblogopenness-innovation-has-proven-key-azerbaijans-response-pandemic-paving-way-digital-transformation-healthcare">URL: <a href="https://www.undp.org/azerbaijan/blog/openness-innovation-has-proven-key-azerbaijans-response-pandemic-paving-way-digital-transformation-healthcare" target="_blank">https://www.undp.org/azerbaijan/blog/openness-innovation-has-proven-key-azerbaijans-response-pandemic-paving-way-digital-transformation-healthcare</a></h4>
+
+<h4 id="type-blog-6">Type: blog</h4>
+
+<h4 id="tags-e-wallets-4">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-30">Snippets:</h4>
+<ul>
+  <li>for much wider application, the e-platform is rapidly expanding beyond its initial scope.Azerbaijan’s economic and engineering universities have already
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="solutions-mapping-during-a-pandemic-acclabgm-collaborations-in-covid-19-responses">Solutions Mapping During a Pandemic: AccLabGM collaborations in COVID-19 responses</h2>
+
+<h4 id="date-26-may-2020">Date: 26 May, 2020</h4>
+
+<h4 id="country-the-gambia">Country: The Gambia</h4>
+
+<h4 id="url-httpswwwundporggambiablogsolutions-mapping-during-pandemic-acclabgm-collaborations-covid-19-responses">URL: <a href="https://www.undp.org/gambia/blog/solutions-mapping-during-pandemic-acclabgm-collaborations-covid-19-responses" target="_blank">https://www.undp.org/gambia/blog/solutions-mapping-during-pandemic-acclabgm-collaborations-covid-19-responses</a></h4>
+
+<h4 id="type-blog-7">Type: blog</h4>
+
+<h4 id="tags-e-commerce-e-wallets">Tags: [‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-31">Snippets:</h4>
+<ul>
+  <li>by end of May. e-commerce solutions connecting buyers and sellers through web / online platforms: Solution 1 – Le Jumbo | lejumbo.com web platform for
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="financial-inclusion-and-digital-transition-community-scale-digital-bartering-or-commerce">Financial Inclusion and Digital Transition: Community Scale Digital Bartering or Commerce</h2>
+
+<h4 id="date-16-january-2023-2">Date: 16 January, 2023</h4>
+
+<h4 id="country-12">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid926">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=926" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=926</a></h4>
+
+<h4 id="type-solution-4">Type: solution</h4>
+
+<h4 id="tags-digital-inclusion-e-commerce-digital-identity-e-wallets-digital-wallets">Tags: [‘Digital Inclusion’, ‘E-commerce’, ‘Digital identity’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-32">Snippets:</h4>
+<ul>
+  <li>allow the movement of secondhand and new products, and offer great flexibility in terms of payment methods by incorporating electronic means, but also by
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="i">I</h2>
+<p>Mapping of the Kenyan Innovation Ecosystem - County Profiles
+The African Centre for Techno</p>
+
+<h4 id="date-09-february-2023-1">Date: 09 February, 2023</h4>
+
+<h4 id="country-13">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-03county20profilespdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-03/County%20Profiles.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-03/County%20Profiles.pdf</a></h4>
+
+<h4 id="type-document-9">Type: document</h4>
+
+<h4 id="tags-e-wallets-fintech-1">Tags: [‘E-wallets’, ‘Fintech’]</h4>
+
+<h4 id="snippets-33">Snippets:</h4>
+<ul>
+  <li>Systems: In 2006, the government of Kenya launched an e-governance system, which is an integrated system that helps all government agencies with all
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="connecting-informal-market-vendors-to-e-commerce-to-reach-consumers-in-the-wake-of-covid-19-and-beyond">Connecting informal market vendors to e-commerce to reach consumers in the wake of Covid-19 and beyond</h2>
+
+<h4 id="date-12-june-2020">Date: 12 June, 2020</h4>
+
+<h4 id="country-uganda-tanzania-united-states-of-america-egypt-portugal-poland-australia-bangladesh">Country: Uganda, Tanzania, United States of America, Egypt, Portugal, Poland, Australia, Bangladesh</h4>
+
+<h4 id="url-httpswwwundporgugandablogconnecting-informal-market-vendors-e-commerce-reach-consumers-wake-covid-19-and-beyond">URL: <a href="https://www.undp.org/uganda/blog/connecting-informal-market-vendors-e-commerce-reach-consumers-wake-covid-19-and-beyond" target="_blank">https://www.undp.org/uganda/blog/connecting-informal-market-vendors-e-commerce-reach-consumers-wake-covid-19-and-beyond</a></h4>
+
+<h4 id="type-blog-8">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-e-commerce-e-wallets-digital-wallets">Tags: [‘Mobile banking’, ‘E-commerce’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-34">Snippets:</h4>
+<ul>
+  <li>businesses for employment. Jumia’s e-commerce platform was identified because of its existing infrastructure and system to sustain supply chains. It
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="grenada-technology-and-innovation-hub-proposal">Grenada Technology and Innovation Hub Proposal</h2>
+
+<h4 id="date-30-april-2024">Date: 30 April, 2024</h4>
+
+<h4 id="country-barbados-2">Country: Barbados</h4>
+
+<h4 id="url-httpswwwundporgbarbadospublicationsgrenada-technology-and-innovation-hub-proposal">URL: <a href="https://www.undp.org/barbados/publications/grenada-technology-and-innovation-hub-proposal" target="_blank">https://www.undp.org/barbados/publications/grenada-technology-and-innovation-hub-proposal</a></h4>
+
+<h4 id="type-publications-9">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-financial-literacy-peer-to-peer-lending-e-commerce-smart-contracts-digital-identity-access-to-credit-e-wallets-online-lending-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Online lending’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-35">Snippets:</h4>
+<ul>
+  <li>medicine. e Support for an Incubator and venture capital programs supported by Grenada Development Bank (GDB) to convert promising research and
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ethnic-minority-women-accelerate-poverty-reduction">Ethnic minority women accelerate poverty reduction</h2>
+
+<h4 id="date-17-june-2019">Date: 17 June, 2019</h4>
+
+<h4 id="country-vietnam-singapore-italy-united-states-of-america-uganda">Country: Vietnam, Singapore, Italy, United States of America, Uganda</h4>
+
+<h4 id="url-httpswwwundporgvietnampublicationsethnic-minority-women-accelerate-poverty-reduction">URL: <a href="https://www.undp.org/vietnam/publications/ethnic-minority-women-accelerate-poverty-reduction" target="_blank">https://www.undp.org/vietnam/publications/ethnic-minority-women-accelerate-poverty-reduction</a></h4>
+
+<h4 id="type-publications-10">Type: publications</h4>
+
+<h4 id="tags-e-commerce-e-wallets-financial-empowerment">Tags: [‘E-commerce’, ‘E-wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-36">Snippets:</h4>
+<ul>
+  <li>solutions such as e-banking, e-payments, micro-insurance; ee Social media and other e-platforms for on- “© line learning, — skill training, peer to
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="bridging-the-digital-divide-in-ukraine-a-human-centric-approach">Bridging the Digital Divide in Ukraine: A human-centric approach</h2>
+
+<h4 id="date-20-january-2020">Date: 20 January, 2020</h4>
+
+<h4 id="country-ukraine-india-russia">Country: Ukraine, India, Russia</h4>
+
+<h4 id="url-httpswwwundporgukraineblogbridging-digital-divide-ukraine-human-centric-approach">URL: <a href="https://www.undp.org/ukraine/blog/bridging-digital-divide-ukraine-human-centric-approach" target="_blank">https://www.undp.org/ukraine/blog/bridging-digital-divide-ukraine-human-centric-approach</a></h4>
+
+<h4 id="type-blog-9">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-literacy-digital-identity-e-wallets">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Digital identity’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-37">Snippets:</h4>
+<ul>
+  <li>e-services most in demand by over 55s are: 1. utilities (digital personal offices, utilities payment apps, etc.); 2. medical (finding information about
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="should-rwanda-adopt-a-national-digital-currency">Should Rwanda adopt a national digital currency?</h2>
+
+<h4 id="date-01-may-2024-2">Date: 01 May, 2024</h4>
+
+<h4 id="country-rwanda">Country: Rwanda</h4>
+
+<h4 id="url-httpswwwundporgrwandashould-rwanda-adopt-national-digital-currency">URL: <a href="https://www.undp.org/rwanda/should-rwanda-adopt-national-digital-currency" target="_blank">https://www.undp.org/rwanda/should-rwanda-adopt-national-digital-currency</a></h4>
+
+<h4 id="type-webpage">Type: webpage</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-identity-e-wallets-digital-wallets-cryptocurrency">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital identity’, ‘E-wallets’, ‘Digital Wallets’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-38">Snippets:</h4>
+<ul>
+  <li>currency from the electronic currency currently in most bank accounts is that it never takes physical form. Right now, you could go to an ATM and turn
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="from-crisis-to-opportunityleveraging-digital-economy-tools-to-support-economic-recovery-of-palestinian-women-led-msmes">From Crisis to Opportunity:Leveraging Digital Economy Tools to Support Economic Recovery of Palestinian Women-led MSMEs</h2>
+
+<h4 id="date-23-july-2020">Date: 23 July, 2020</h4>
+
+<h4 id="country-14">Country:</h4>
+
+<h4 id="url-httpswwwundporgarab-statesblogcrisis-opportunityleveraging-digital-economy-tools-support-economic-recovery-palestinian-women-led-msmes">URL: <a href="https://www.undp.org/arab-states/blog/crisis-opportunityleveraging-digital-economy-tools-support-economic-recovery-palestinian-women-led-msmes" target="_blank">https://www.undp.org/arab-states/blog/crisis-opportunityleveraging-digital-economy-tools-support-economic-recovery-palestinian-women-led-msmes</a></h4>
+
+<h4 id="type-blog-10">Type: blog</h4>
+
+<h4 id="tags-peer-to-peer-lending-e-commerce-access-to-credit-e-wallets-digital-wallets-online-lending">Tags: [‘Peer-to-peer lending’, ‘E-commerce’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-39">Snippets:</h4>
+<ul>
+  <li>the forefront driving the expansion for the use of e-payments to address financial inclusion and work with local e-payment service providers to
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="boost-for-digital-health-as-azerbaijans-ministry-of-health-and-undp-team-up-with-equinor-in-tackling-covid-19">Boost for digital health as Azerbaijan’s Ministry of Health and UNDP team up with Equinor in tackling COVID-19</h2>
+
+<h4 id="date-05-march-2021">Date: 05 March, 2021</h4>
+
+<h4 id="country-azerbaijan-2">Country: Azerbaijan</h4>
+
+<h4 id="url-httpswwwundporgazerbaijanpress-releasesboost-digital-health-azerbaijane28099s-ministry-health-and-undp-team-equinor-tackling-covid-19">URL: <a href="https://www.undp.org/azerbaijan/press-releases/boost-digital-health-azerbaijan%E2%80%99s-ministry-health-and-undp-team-equinor-tackling-covid-19" target="_blank">https://www.undp.org/azerbaijan/press-releases/boost-digital-health-azerbaijan%E2%80%99s-ministry-health-and-undp-team-equinor-tackling-covid-19</a></h4>
+
+<h4 id="type-press-release-1">Type: press release</h4>
+
+<h4 id="tags-e-wallets-5">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-40">Snippets:</h4>
+<ul>
+  <li>the pandemic. The e-platform provides healthcare professionals with free online training courses and certification programmes and currently offers
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-service-national-portal">e-service National Portal</h2>
+
+<h4 id="date-16-january-2023-3">Date: 16 January, 2023</h4>
+
+<h4 id="country-united-states-of-america-north-macedonia">Country: United States of America, North Macedonia</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid4458">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=4458" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=4458</a></h4>
+
+<h4 id="type-solution-5">Type: solution</h4>
+
+<h4 id="tags-e-wallets-6">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-41">Snippets:</h4>
+<ul>
+  <li>utilize e-services from competent authorities and other entities that provide e-services via the Portal. The Portal is established and managed by the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="from-crisis-to-opportunityleveraging-digital-economy-tools-to-support-economic-recovery-of-palestinian-women-led-msmes-1">From Crisis to Opportunity:Leveraging Digital Economy Tools to Support Economic Recovery of Palestinian Women-led MSMEs</h2>
+
+<h4 id="date-01-july-2020">Date: 01 July, 2020</h4>
+
+<h4 id="country-15">Country:</h4>
+
+<h4 id="url-httpswwwundporgpappblogcrisis-opportunityleveraging-digital-economy-tools-support-economic-recovery-palestinian-women-led-msmes">URL: <a href="https://www.undp.org/papp/blog/crisis-opportunityleveraging-digital-economy-tools-support-economic-recovery-palestinian-women-led-msmes" target="_blank">https://www.undp.org/papp/blog/crisis-opportunityleveraging-digital-economy-tools-support-economic-recovery-palestinian-women-led-msmes</a></h4>
+
+<h4 id="type-blog-11">Type: blog</h4>
+
+<h4 id="tags-peer-to-peer-lending-e-commerce-access-to-credit-e-wallets-digital-wallets-online-lending-1">Tags: [‘Peer-to-peer lending’, ‘E-commerce’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-42">Snippets:</h4>
+<ul>
+  <li>the forefront driving the expansion for the use of e-payments to address financial inclusion and work with local e-payment service providers to
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="figure-1-wetlands-are-home-to-many-plants-animals-and">Figure 1: Wetlands are home to many plants, animals, and</h2>
+
+<h4 id="date-01-may-2024-3">Date: 01 May, 2024</h4>
+
+<h4 id="country-zimbabwe">Country: Zimbabwe</h4>
+
+<h4 id="url-httpswwwundporgzimbabweblogurban-development-and-wetland-conservation">URL: <a href="https://www.undp.org/zimbabwe/blog/urban-development-and-wetland-conservation" target="_blank">https://www.undp.org/zimbabwe/blog/urban-development-and-wetland-conservation</a></h4>
+
+<h4 id="type-blog-12">Type: blog</h4>
+
+<h4 id="tags-e-wallets-7">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-43">Snippets:</h4>
+<ul>
+  <li>e-learning platforms. Applications were reviewed by a panel of experts including the representatives from the World Health Organisation (WHO) to ensure
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="mobile-money-and-covid-19-what-can-we-learn-from-east-africa">Mobile Money and COVID-19: What can we learn from East Africa?</h2>
+
+<h4 id="date-16-july-2020">Date: 16 July, 2020</h4>
+
+<h4 id="country-16">Country:</h4>
+
+<h4 id="url-httpsacclabsmediumcommobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b">URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b</a></h4>
+
+<h4 id="type-blog-13">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-financial-literacy-financial-services-e-commerce-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency">Tags: [‘Mobile banking’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-44">Snippets:</h4>
+<ul>
+  <li>with disabilities, orphaned or vulnerable children. Mobile money as a bedrock for e-commerce platforms during the pandemic As I thought of Xavier and many
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="mobile-money-and-covid-19-what-can-we-learn-from-east-africa-1">Mobile Money and COVID-19: What can we learn from East Africa?</h2>
+
+<h4 id="date-16-july-2020-1">Date: 16 July, 2020</h4>
+
+<h4 id="country-17">Country:</h4>
+
+<h4 id="url-httpsacclabsmediumcommobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907bsourceuser_profile35-">URL: <a href="https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile---------35----------------------------" target="_blank">https://acclabs.medium.com/mobile-money-and-covid-19-what-can-we-learn-from-east-africa-5df456ca907b?source=user_profile———35—————————-</a></h4>
+
+<h4 id="type-blog-14">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-financial-literacy-financial-services-e-commerce-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-1">Tags: [‘Mobile banking’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-45">Snippets:</h4>
+<ul>
+  <li>with disabilities, orphaned or vulnerable children. Mobile money as a bedrock for e-commerce platforms during the pandemic As I thought of Xavier and many
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="rapport">RAPPORT</h2>
+<p>ANNUEL 2021
+Le PNUD au Burkina Faso
+Juillet 2022
+RAPPORT ANNUEL 2021 du PNUD au Burki</p>
+
+<h4 id="date-13-august-2022">Date: 13 August, 2022</h4>
+
+<h4 id="country-18">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-08undp-bf-rapport-annuel21-2022pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/undp-bf-rapport-annuel21-2022.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-08/undp-bf-rapport-annuel21-2022.pdf</a></h4>
+
+<h4 id="type-document-10">Type: document</h4>
+
+<h4 id="tags-financial-services-e-commerce-e-wallets-1">Tags: [‘Financial services’, ‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-46">Snippets:</h4>
+<ul>
+  <li>et internationales de l’e-commerce électronique (écosystème du commerce, institutions nationales, OSC, secteur privé, entreprises et financiers,…)
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="projet-de-stabilisation-régionale-intégrée-du-bassin-du-lac-tchad">PROJET DE STABILISATION RÉGIONALE INTÉGRÉE DU BASSIN DU LAC TCHAD</h2>
+
+<h4 id="date-01-may-2024-4">Date: 01 May, 2024</h4>
+
+<h4 id="country-chad-nigeria-cameroon-niger-bahrain-norway-france-japan">Country: Chad, Nigeria, Cameroon, Niger, Bahrain, Norway, France, Japan</h4>
+
+<h4 id="url-httpswwwundporgfrchadprojectsprojet-de-stabilisation-rc3a9gionale-intc3a9grc3a9e-du-bassin-du-lac-tchad">URL: <a href="https://www.undp.org/fr/chad/projects/projet-de-stabilisation-r%C3%A9gionale-int%C3%A9gr%C3%A9e-du-bassin-du-lac-tchad" target="_blank">https://www.undp.org/fr/chad/projects/projet-de-stabilisation-r%C3%A9gionale-int%C3%A9gr%C3%A9e-du-bassin-du-lac-tchad</a></h4>
+
+<h4 id="type-project">Type: project</h4>
+
+<h4 id="tags-e-wallets-8">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-47">Snippets:</h4>
+<ul>
+  <li>D?UN (E) CONSULTANT(E) NATIONAL(E) CHARGE (E )° DE LA CONCEPTION DES MESSAGES ET PROGRAMMES DE SENSIBILISATION SUR LA CONSOLIDATION DE LA PAIX ET LA
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-commerce-in-cabo-verde---a-mirage">E-Commerce in Cabo Verde - A Mirage</h2>
+
+<h4 id="date-03-october-2022">Date: 03 October, 2022</h4>
+
+<h4 id="country-19">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsbloge-commerce-cabo-verde-mirage">URL: <a href="https://www.undp.org/acceleratorlabs/blog/e-commerce-cabo-verde-mirage" target="_blank">https://www.undp.org/acceleratorlabs/blog/e-commerce-cabo-verde-mirage</a></h4>
+
+<h4 id="type-blog-15">Type: blog</h4>
+
+<h4 id="tags-peer-to-peer-lending-e-commerce-access-to-credit-e-wallets-digital-wallets-online-lending-2">Tags: [‘Peer-to-peer lending’, ‘E-commerce’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-48">Snippets:</h4>
+<ul>
+  <li>is external), Payoneer, Revolut, Pix, mPesa (African platform), which are intermediary digital wallets with banks, work with standard systems that
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="disrupting-traditional-informal-cross-border-trade-icbt-in-africas-borderlands">Disrupting traditional Informal Cross-border Trade (ICBT) in Africa’s borderlands</h2>
+
+<h4 id="date-08-october-2021">Date: 08 October, 2021</h4>
+
+<h4 id="country-20">Country:</h4>
+
+<h4 id="url-httpswwwundporgafricablogdisrupting-traditional-informal-cross-border-trade-icbt-africas-borderlands">URL: <a href="https://www.undp.org/africa/blog/disrupting-traditional-informal-cross-border-trade-icbt-africas-borderlands" target="_blank">https://www.undp.org/africa/blog/disrupting-traditional-informal-cross-border-trade-icbt-africas-borderlands</a></h4>
+
+<h4 id="type-blog-16">Type: blog</h4>
+
+<h4 id="tags-e-wallets-cryptocurrency">Tags: [‘E-wallets’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-49">Snippets:</h4>
+<ul>
+  <li>difficult to track trade actitives. The Ghana-Togo-Benin Team propose a simple electronic identification (eID) system to ease border crossings for
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="delivering-development-with-informal-traders-practice-makes-perfect-and-potential-pivots">Delivering Development with Informal Traders: Practice (makes Perfect) and Potential Pivots</h2>
+
+<h4 id="date-20-february-2022">Date: 20 February, 2022</h4>
+
+<h4 id="country-south-africa">Country: South Africa</h4>
+
+<h4 id="url-httpswwwundporgsouth-africablogdelivering-development-informal-traders-practice-makes-perfect-and-potential-pivots">URL: <a href="https://www.undp.org/south-africa/blog/delivering-development-informal-traders-practice-makes-perfect-and-potential-pivots" target="_blank">https://www.undp.org/south-africa/blog/delivering-development-informal-traders-practice-makes-perfect-and-potential-pivots</a></h4>
+
+<h4 id="type-blog-17">Type: blog</h4>
+
+<h4 id="tags-e-commerce-e-wallets-1">Tags: [‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-50">Snippets:</h4>
+<ul>
+  <li>primarily focused on the formal sector. We hypothesised that the majority of e-vouchers would be redeemed within the informal economy - and we were
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="mojaloop">Mojaloop</h2>
+
+<h4 id="date-01-may-2024-5">Date: 01 May, 2024</h4>
+
+<h4 id="country-21">Country:</h4>
+
+<h4 id="url-httpswwwundporgpolicy-centresingaporemojaloop">URL: <a href="https://www.undp.org/policy-centre/singapore/mojaloop" target="_blank">https://www.undp.org/policy-centre/singapore/mojaloop</a></h4>
+
+<h4 id="type-webpage-1">Type: webpage</h4>
+
+<h4 id="tags-mobile-banking-e-wallets-digital-wallets-online-lending">Tags: [‘Mobile banking’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-51">Snippets:</h4>
+<ul>
+  <li>Collaborated with Orange Group and MTN Group to set up mobile payment wallets in Africa. DOWNLOAD THE TOOL(link is external) BACK TO DIGITAL TOOLKIT
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="human-development-report-2016-human-development-for-everyone">Human Development Report 2016: Human Development for Everyone</h2>
+
+<h4 id="date-19-january-2017">Date: 19 January, 2017</h4>
+
+<h4 id="country-22">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07undp-hdr16-report-enpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/UNDP-HDR16-Report-EN.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/UNDP-HDR16-Report-EN.pdf</a></h4>
+
+<h4 id="type-document-11">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-saving-groups-digital-literacy-financial-literacy-peer-to-peer-lending-financial-services-smart-contracts-remittances-access-to-credit-unbanked-e-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Saving Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-52">Snippets:</h4>
+<ul>
+  <li>E-governance Digital identification systems, a new area of develop- ment for civil participation, have great potential. They have increased the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="blockchain-for-climate-action-investing-in-egypts-farmers-to-build-the-low-carbon-future-we-want">Blockchain for climate action: Investing in Egypt’s farmers to build the low carbon future we want</h2>
+
+<h4 id="date-07-november-2022">Date: 07 November, 2022</h4>
+
+<h4 id="country-egypt-ukraine">Country: Egypt, Ukraine</h4>
+
+<h4 id="url-httpswwwundporgegyptblogblockchain-climate-action-investing-egypts-farmers-build-low-carbon-future-we-want">URL: <a href="https://www.undp.org/egypt/blog/blockchain-climate-action-investing-egypts-farmers-build-low-carbon-future-we-want" target="_blank">https://www.undp.org/egypt/blog/blockchain-climate-action-investing-egypts-farmers-build-low-carbon-future-we-want</a></h4>
+
+<h4 id="type-blog-18">Type: blog</h4>
+
+<h4 id="tags-access-to-credit-e-wallets">Tags: [‘Access to credit’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-53">Snippets:</h4>
+<ul>
+  <li>ultimately pay for carbon credits. At the same time as EoL was being developed in Africa, a passionate French startup called H64(link is external), was
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="towards-a-plastic-free-southern-africa--the-case-of-two-kingdoms-lesotho-and-eswatini">Towards A Plastic Free Southern Africa – The Case of Two Kingdoms: Lesotho And Eswatini</h2>
+
+<h4 id="date-07-february-2022">Date: 07 February, 2022</h4>
+
+<h4 id="country-lesotho">Country: Lesotho</h4>
+
+<h4 id="url-httpswwwundporglesothonewstowards-plastic-free-southern-africa-case-two-kingdoms-lesotho-and-eswatini">URL: <a href="https://www.undp.org/lesotho/news/towards-plastic-free-southern-africa-case-two-kingdoms-lesotho-and-eswatini" target="_blank">https://www.undp.org/lesotho/news/towards-plastic-free-southern-africa-case-two-kingdoms-lesotho-and-eswatini</a></h4>
+
+<h4 id="type-news-1">Type: news</h4>
+
+<h4 id="tags-e-commerce-e-wallets-2">Tags: [‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-54">Snippets:</h4>
+<ul>
+  <li>Authority (EEA) in previous years, including a short experiment undertaken by the organization to introduce a levy of E1 on single-use plastic bags
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="pension-fund-e-services">Pension fund e-services</h2>
+
+<h4 id="date-16-january-2023-4">Date: 16 January, 2023</h4>
+
+<h4 id="country-united-states-of-america">Country: United States of America</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid4462">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=4462" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=4462</a></h4>
+
+<h4 id="type-solution-6">Type: solution</h4>
+
+<h4 id="tags-financial-services-e-wallets">Tags: [‘Financial services’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-55">Snippets:</h4>
+<ul>
+  <li>Pension fund e-services Description This site offers information with regard to the services you can receive from the pension fund. The site offers
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="namibian-service-innovators-rewarded">Namibian Service Innovators rewarded</h2>
+
+<h4 id="date-31-july-2020">Date: 31 July, 2020</h4>
+
+<h4 id="country-namibia-1">Country: Namibia</h4>
+
+<h4 id="url-httpswwwundporgnamibianewsnamibian-service-innovators-rewarded">URL: <a href="https://www.undp.org/namibia/news/namibian-service-innovators-rewarded" target="_blank">https://www.undp.org/namibia/news/namibian-service-innovators-rewarded</a></h4>
+
+<h4 id="type-news-2">Type: news</h4>
+
+<h4 id="tags-e-wallets-9">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-56">Snippets:</h4>
+<ul>
+  <li>App 2nd Prize – Kwafa E-Home Affairs. Kwafa is a platform where you can apply or renew your passport in the comfort of your own home. 2nd Prize Winner:
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-sri-lanka-proposed-areas-of-support-for-the-government-of-sri-lanka-in-combating-covid-19">UNDP Sri Lanka: Proposed areas of support for the Government of Sri Lanka in combating COVID-19</h2>
+
+<h4 id="date-06-may-2020">Date: 06 May, 2020</h4>
+
+<h4 id="country-sri-lanka">Country: Sri Lanka</h4>
+
+<h4 id="url-httpswwwundporgsrilankapublicationsundp-sri-lanka-proposed-areas-support-government-sri-lanka-combating-covid-19">URL: <a href="https://www.undp.org/srilanka/publications/undp-sri-lanka-proposed-areas-support-government-sri-lanka-combating-covid-19" target="_blank">https://www.undp.org/srilanka/publications/undp-sri-lanka-proposed-areas-support-government-sri-lanka-combating-covid-19</a></h4>
+
+<h4 id="type-publications-11">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-e-wallets-financial-empowerment-cryptocurrency">Tags: [‘Digital Literacy’, ‘Digital identity’, ‘E-wallets’, ‘Financial empowerment’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-57">Snippets:</h4>
+<ul>
+  <li>PROVIDE AN E-CABINET SOLUTION TOOL The Information System for Cabinet Sessions, better known as the e-Cabinet tool, streamlines the Government’s
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-mobility-for-quito">E-mobility for Quito</h2>
+
+<h4 id="date-16-january-2023-5">Date: 16 January, 2023</h4>
+
+<h4 id="country-ecuador">Country: Ecuador</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid4768">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=4768" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=4768</a></h4>
+
+<h4 id="type-solution-7">Type: solution</h4>
+
+<h4 id="tags-e-wallets-10">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-58">Snippets:</h4>
+<ul>
+  <li>e-bikes (for the bike sharing system), that will include: twelve (12) e-cargo bikes, three (3) e-buggies for passengers wanting to transfer quickly
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="solidarity---from-overcoming-crisis-to-sustainable-development">Solidarity - From Overcoming Crisis to Sustainable Development</h2>
+
+<h4 id="date-26-may-2023">Date: 26 May, 2023</h4>
+
+<h4 id="country-north-macedonia-1">Country: North Macedonia</h4>
+
+<h4 id="url-httpswwwundporgnorth-macedoniapublicationssolidarity-overcoming-crisis-sustainable-development">URL: <a href="https://www.undp.org/north-macedonia/publications/solidarity-overcoming-crisis-sustainable-development" target="_blank">https://www.undp.org/north-macedonia/publications/solidarity-overcoming-crisis-sustainable-development</a></h4>
+
+<h4 id="type-publications-12">Type: publications</h4>
+
+<h4 id="tags-lending-groups-saving-groups-peer-to-peer-lending-remittances-e-wallets-online-lending">Tags: [‘Lending Groups’, ‘Saving Groups’, ‘Peer-to-peer lending’, ‘Remittances’, ‘E-wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-59">Snippets:</h4>
+<ul>
+  <li>Loans. When expatriates make deposits in the domestic financial system, the available pool of loanable funds increases. Another option is to earmark
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="listening-to-ukrainian-business-during-the-pandemic">Listening to Ukrainian business during the pandemic</h2>
+
+<h4 id="date-16-october-2020">Date: 16 October, 2020</h4>
+
+<h4 id="country-ukraine-1">Country: Ukraine</h4>
+
+<h4 id="url-httpswwwundporgukrainebloglistening-ukrainian-business-during-pandemic">URL: <a href="https://www.undp.org/ukraine/blog/listening-ukrainian-business-during-pandemic" target="_blank">https://www.undp.org/ukraine/blog/listening-ukrainian-business-during-pandemic</a></h4>
+
+<h4 id="type-blog-19">Type: blog</h4>
+
+<h4 id="tags-e-wallets-11">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-60">Snippets:</h4>
+<ul>
+  <li>network and other business associations and launch a business development services e-system, E-BO. According to a survey conducted by the UNDP
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="evdeqalaz-launched">Evdeqal.az launched</h2>
+
+<h4 id="date-06-april-2020">Date: 06 April, 2020</h4>
+
+<h4 id="country-azerbaijan-italy">Country: Azerbaijan, Italy</h4>
+
+<h4 id="url-httpswwwundporgazerbaijanpress-releasesevdeqalaz-launched">URL: <a href="https://www.undp.org/azerbaijan/press-releases/evdeqalaz-launched" target="_blank">https://www.undp.org/azerbaijan/press-releases/evdeqalaz-launched</a></h4>
+
+<h4 id="type-press-release-2">Type: press release</h4>
+
+<h4 id="tags-e-commerce-e-wallets-3">Tags: [‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-61">Snippets:</h4>
+<ul>
+  <li>e-food and e-delivery. The platform also provides advice on social distancing and staying at home, and offers numerous e-learning resources
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-and-jumia-transform-informal-enterprises-in-uganda-through-inclusive-e-commerce-early-lessons-learned">UNDP and Jumia transform informal enterprises in Uganda through inclusive e-commerce: Early lessons learned</h2>
+
+<h4 id="date-29-july-2020">Date: 29 July, 2020</h4>
+
+<h4 id="country-uganda-france-united-states-of-america-egypt-poland">Country: Uganda, France, United States of America, Egypt, Poland</h4>
+
+<h4 id="url-httpswwwundporgugandablogundp-and-jumia-transform-informal-enterprises-uganda-through-inclusive-e-commerce-early-lessons-learned">URL: <a href="https://www.undp.org/uganda/blog/undp-and-jumia-transform-informal-enterprises-uganda-through-inclusive-e-commerce-early-lessons-learned" target="_blank">https://www.undp.org/uganda/blog/undp-and-jumia-transform-informal-enterprises-uganda-through-inclusive-e-commerce-early-lessons-learned</a></h4>
+
+<h4 id="type-blog-20">Type: blog</h4>
+
+<h4 id="tags-e-commerce-e-wallets-4">Tags: [‘E-commerce’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-62">Snippets:</h4>
+<ul>
+  <li>interest from informal market vendors to join the e-
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects">Digitalizing Informal Business: What Systems Mapping Reveals about Drivers and Effects</h2>
+
+<h4 id="date-07-march-2022">Date: 07 March, 2022</h4>
+
+<h4 id="country-23">Country:</h4>
+
+<h4 id="url-httpsacclabsmediumcomdigitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb">URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a></h4>
+
+<h4 id="type-blog-21">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-inclusion-e-commerce-remittances-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-cryptocurrency">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘E-commerce’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-63">Snippets:</h4>
+<ul>
+  <li>s e-commerce platform, leveraging market agents to fulfill orders and drivers to deliver them. Risk assessment and access to credit. Another impactful
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-1">Digitalizing Informal Business: What Systems Mapping Reveals about Drivers and Effects</h2>
+
+<h4 id="date-07-march-2022-1">Date: 07 March, 2022</h4>
+
+<h4 id="country-24">Country:</h4>
+
+<h4 id="url-httpsacclabsmediumcomdigitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fbsourceuser_profile17-">URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile———17—————————-</a></h4>
+
+<h4 id="type-blog-22">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-inclusion-e-commerce-remittances-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-cryptocurrency-1">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘E-commerce’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-64">Snippets:</h4>
+<ul>
+  <li>s e-commerce platform, leveraging market agents to fulfill orders and drivers to deliver them. Risk assessment and access to credit. Another impactful
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="why-we-need-grants-to-finance-start-ups">Why We Need Grants to Finance Start-ups</h2>
+
+<h4 id="date-30-december-2021">Date: 30 December, 2021</h4>
+
+<h4 id="country-eswatini-czech-republic">Country: Eswatini, Czech Republic</h4>
+
+<h4 id="url-httpswwwundporgeswatiniblogwhy-we-need-grants-finance-start-ups">URL: <a href="https://www.undp.org/eswatini/blog/why-we-need-grants-finance-start-ups" target="_blank">https://www.undp.org/eswatini/blog/why-we-need-grants-finance-start-ups</a></h4>
+
+<h4 id="type-blog-23">Type: blog</h4>
+
+<h4 id="tags-lending-groups-e-wallets-online-lending">Tags: [‘Lending Groups’, ‘E-wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-65">Snippets:</h4>
+<ul>
+  <li>and RSTP under the Pipeline Innovators and Entrepreneurs Programme, also known as Ematfuba Ami, has seen the success of at least two start-ups which
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-uganda-accelerator-lab-2020-in-retrospect">UNDP Uganda Accelerator Lab: 2020 in Retrospect</h2>
+
+<h4 id="date-03-february-2021">Date: 03 February, 2021</h4>
+
+<h4 id="country-uganda-1">Country: Uganda</h4>
+
+<h4 id="url-httpswwwundporgugandablogundp-uganda-accelerator-lab-2020-retrospect">URL: <a href="https://www.undp.org/uganda/blog/undp-uganda-accelerator-lab-2020-retrospect" target="_blank">https://www.undp.org/uganda/blog/undp-uganda-accelerator-lab-2020-retrospect</a></h4>
+
+<h4 id="type-blog-24">Type: blog</h4>
+
+<h4 id="tags-microfinance-e-commerce-e-wallets-fintech">Tags: [‘Microfinance’, ‘E-commerce’, ‘E-wallets’, ‘Fintech’]</h4>
+
+<h4 id="snippets-66">Snippets:</h4>
+<ul>
+  <li>into the national strategy on e-commerce, and points to an exciting future for the e-commerce sector in Uganda. We also saw our partnership with the National
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="food-forward-transforming-our-food-systems-to-make-peace-with-nature">Food Forward: Transforming our Food Systems to Make Peace with Nature</h2>
+
+<h4 id="date-15-october-2021">Date: 15 October, 2021</h4>
+
+<h4 id="country-south-africa-1">Country: South Africa</h4>
+
+<h4 id="url-httpswwwundporgsouth-africablogfood-forward-transforming-our-food-systems-make-peace-nature">URL: <a href="https://www.undp.org/south-africa/blog/food-forward-transforming-our-food-systems-make-peace-nature" target="_blank">https://www.undp.org/south-africa/blog/food-forward-transforming-our-food-systems-make-peace-nature</a></h4>
+
+<h4 id="type-blog-25">Type: blog</h4>
+
+<h4 id="tags-e-wallets-12">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-67">Snippets:</h4>
+<ul>
+  <li>assessments, and provide an e-voucher through a cloud-based transactional platform which could be redeemed at retailers or local informal traders. The use
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ota-contributes-to-local-fijian-communities">‘OTA’ contributes to local Fijian communities</h2>
+
+<h4 id="date-16-january-2023-6">Date: 16 January, 2023</h4>
+
+<h4 id="country-25">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid5688">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=5688" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=5688</a></h4>
+
+<h4 id="type-solution-8">Type: solution</h4>
+
+<h4 id="tags-e-wallets-13">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-68">Snippets:</h4>
+<ul>
+  <li>since. Recently, the project has opened up again. TravelOnline customers arriving in Fiji will each receive an Eco Beach bag upon arrival. Bags are
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="rural-resilience-in-egypt-exploring-finance-as-a-tool">Rural Resilience in Egypt: Exploring finance as a tool</h2>
+
+<h4 id="date-06-june-2023">Date: 06 June, 2023</h4>
+
+<h4 id="country-egypt">Country: Egypt</h4>
+
+<h4 id="url-httpswwwundporgegyptpublicationsrural-resilience-egypt-exploring-finance-tool">URL: <a href="https://www.undp.org/egypt/publications/rural-resilience-egypt-exploring-finance-tool" target="_blank">https://www.undp.org/egypt/publications/rural-resilience-egypt-exploring-finance-tool</a></h4>
+
+<h4 id="type-publications-13">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-saving-groups-financial-literacy-peer-to-peer-lending-financial-services-access-to-credit-unbanked-e-wallets-online-lending-financial-empowerment-inclusive-banking">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Saving Groups’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’]</h4>
+
+<h4 id="snippets-69">Snippets:</h4>
+<ul>
+  <li>her for withdrawing a small amount of EGP600 and how she decided afterwards to never step foot in a bank. However, some respondents expressed their
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="reforming-bhutans-civil-service-towards-a-future-ready-government">Reforming Bhutan’s civil service: Towards a future ready government</h2>
+
+<h4 id="date-15-january-2021">Date: 15 January, 2021</h4>
+
+<h4 id="country-bhutan-singapore-united-states-of-america-thailand-france-estonia-taiwan-canada">Country: Bhutan, Singapore, United States of America, Thailand, France, Estonia, Taiwan, Canada</h4>
+
+<h4 id="url-httpswwwundporgbhutannewsreforming-bhutans-civil-service-towards-future-ready-government">URL: <a href="https://www.undp.org/bhutan/news/reforming-bhutans-civil-service-towards-future-ready-government" target="_blank">https://www.undp.org/bhutan/news/reforming-bhutans-civil-service-towards-future-ready-government</a></h4>
+
+<h4 id="type-news-3">Type: news</h4>
+
+<h4 id="tags-e-wallets-14">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-70">Snippets:</h4>
+<ul>
+  <li>These e-engagement platforms provided a feedback loop for citizens to articulate their preferences, grievances, and other proposals that would help
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us">Skip to main content About us</h2>
+<p>Funding and delivery
+Legal</p>
+
+<h4 id="date-01-may-2024-6">Date: 01 May, 2024</h4>
+
+<h4 id="country-bahrain">Country: Bahrain</h4>
+
+<h4 id="url-httpswwwundporgbahrainabout-us">URL: <a href="https://www.undp.org/bahrain/about-us" target="_blank">https://www.undp.org/bahrain/about-us</a></h4>
+
+<h4 id="type-webpage-2">Type: webpage</h4>
+
+<h4 id="tags-microfinance-saving-groups-smart-contracts-unbanked-e-wallets">Tags: [‘Microfinance’, ‘Saving Groups’, ‘Smart contracts’, ‘Unbanked’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-71">Snippets:</h4>
+<ul>
+  <li>jointly partnered to support the eGovernment Authority in this endeavor. The e-Government Strategy strengthens support to citizens, businesses and
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="united-nations-development-programme">United Nations Development Programme</h2>
+<p>One United Nations Plaza
+New York, NY 10017
+www.undp.org
+Empo</p>
+
+<h4 id="date-28-october-2015">Date: 28 October, 2015</h4>
+
+<h4 id="country-26">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07humandevelopmentreport_enpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/HumanDevelopmentReport_EN.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/HumanDevelopmentReport_EN.pdf</a></h4>
+
+<h4 id="type-document-12">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-saving-groups-digital-literacy-financial-literacy-financial-services-e-commerce-smart-contracts-remittances-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Saving Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-72">Snippets:</h4>
+<ul>
+  <li>An Overview of Best Practices in E-Commerce/E-Retailing Projects.” Information Technologies and International Development 4(2): 43–60. Mandel, M.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="financial-inclusion-refresh">Financial Inclusion Refresh</h2>
+
+<h4 id="date-14-march-2022">Date: 14 March, 2022</h4>
+
+<h4 id="country-morocco-1">Country: Morocco</h4>
+
+<h4 id="url-httpswwwundporgfrmoroccopublicationsfinancial-inclusion-refresh">URL: <a href="https://www.undp.org/fr/morocco/publications/financial-inclusion-refresh" target="_blank">https://www.undp.org/fr/morocco/publications/financial-inclusion-refresh</a></h4>
+
+<h4 id="type-publications-14">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-inclusion-financial-literacy-financial-services-e-commerce-remittances-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Remittances’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Fintech’]</h4>
+
+<h4 id="snippets-73">Snippets:</h4>
+<ul>
+  <li>Are Now the Most Popular Payment Method in the World @ OTHER DIGITAL WALLETS USERS GOOGLE PAY AND USERS GooglePay was used more often for in-store
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="mobile-money-and-covid-19-what-can-we-learn-from-east-africa-2">Mobile Money and COVID-19: What can we learn from East Africa?</h2>
+
+<h4 id="date-16-july-2020-2">Date: 16 July, 2020</h4>
+
+<h4 id="country-27">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogmobile-money-and-covid-19-what-can-we-learn-east-africa">URL: <a href="https://www.undp.org/acceleratorlabs/blog/mobile-money-and-covid-19-what-can-we-learn-east-africa" target="_blank">https://www.undp.org/acceleratorlabs/blog/mobile-money-and-covid-19-what-can-we-learn-east-africa</a></h4>
+
+<h4 id="type-blog-26">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-peer-to-peer-lending-e-commerce-unbanked-e-wallets-digital-wallets-online-lending-inclusive-banking-cryptocurrency">Tags: [‘Mobile banking’, ‘Peer-to-peer lending’, ‘E-commerce’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-74">Snippets:</h4>
+<ul>
+  <li>link is external) and to achieve the SDGs(link is external). The Rise of Mobile Money in East Africa Mobile phone-based money transfer services have been
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-readiness-assessment">Digital Readiness Assessment</h2>
+
+<h4 id="date-24-january-2024">Date: 24 January, 2024</h4>
+
+<h4 id="country-north-macedonia-2">Country: North Macedonia</h4>
+
+<h4 id="url-httpswwwundporgnorth-macedoniapublicationsdigital-readiness-assessment">URL: <a href="https://www.undp.org/north-macedonia/publications/digital-readiness-assessment" target="_blank">https://www.undp.org/north-macedonia/publications/digital-readiness-assessment</a></h4>
+
+<h4 id="type-publications-15">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-e-commerce-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-fintech">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘E-commerce’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Fintech’]</h4>
+
+<h4 id="snippets-75">Snippets:</h4>
+<ul>
+  <li>Service, compliant with elDAS standards, is highlighted as a significant step towards e-government and digital transformation. Digital Payments Ecosystem:
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-1">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023">Date: 25 April, 2023</h4>
+
+<h4 id="country-28">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_5pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a></h4>
+
+<h4 id="type-document-13">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-financial-empowerment">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-76">Snippets:</h4>
+<ul>
+  <li>facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-2">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-1">Date: 25 April, 2023</h4>
+
+<h4 id="country-29">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_0pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a></h4>
+
+<h4 id="type-document-14">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-peer-to-peer-lending-financial-services-e-wallets-digital-wallets">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-77">Snippets:</h4>
+<ul>
+  <li>facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-3">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-2">Date: 25 April, 2023</h4>
+
+<h4 id="country-30">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_3pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a></h4>
+
+<h4 id="type-document-15">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-78">Snippets:</h4>
+<ul>
+  <li>facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-4">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-3">Date: 25 April, 2023</h4>
+
+<h4 id="country-31">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_1pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a></h4>
+
+<h4 id="type-document-16">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-financial-empowerment-1">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-79">Snippets:</h4>
+<ul>
+  <li>facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="kumanovo-e-municipality">Kumanovo e-municipality</h2>
+
+<h4 id="date-16-january-2023-7">Date: 16 January, 2023</h4>
+
+<h4 id="country-north-macedonia-united-states-of-america">Country: North Macedonia, United States of America</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid4484">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=4484" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=4484</a></h4>
+
+<h4 id="type-solution-9">Type: solution</h4>
+
+<h4 id="tags-e-wallets-15">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-80">Snippets:</h4>
+<ul>
+  <li>payment, real estate, access to public information, e-permissions, only to download them - Digitized process http://kumanovo.gov.mk/eopstina/ Location
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-annual-report-2022">UNDP Annual Report 2022</h2>
+
+<h4 id="date-20-april-2023">Date: 20 April, 2023</h4>
+
+<h4 id="country-turkey-1">Country: Turkey</h4>
+
+<h4 id="url-httpswwwundporgturkiyepublicationsundp-annual-report-2022">URL: <a href="https://www.undp.org/turkiye/publications/undp-annual-report-2022" target="_blank">https://www.undp.org/turkiye/publications/undp-annual-report-2022</a></h4>
+
+<h4 id="type-publications-16">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-services-digital-identity-unbanked-e-wallets-financial-empowerment-cryptocurrency">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘Digital identity’, ‘Unbanked’, ‘E-wallets’, ‘Financial empowerment’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-81">Snippets:</h4>
+<ul>
+  <li>Livelihood support for 20,000 businesses and individuals 9 million people gained : access to e-services “ =~ IEC) [Bo] (20) () Fadl [Be ba HALFWAY TO
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-council">e-council</h2>
+
+<h4 id="date-16-january-2023-8">Date: 16 January, 2023</h4>
+
+<h4 id="country-32">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid5469">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=5469" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=5469</a></h4>
+
+<h4 id="type-solution-10">Type: solution</h4>
+
+<h4 id="tags-e-wallets-16">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-82">Snippets:</h4>
+<ul>
+  <li>e-council Through e-council, the citizens can communicate with the council members, send a message, scheduale an appointment or ask a question. -
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="accelerating-local-biomimicry-a-100-day-journey-to-digital-honey">Accelerating Local Biomimicry: A 100-Day Journey to Digital Honey</h2>
+
+<h4 id="date-11-october-2021">Date: 11 October, 2021</h4>
+
+<h4 id="country-33">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogaccelerating-local-biomimicry-100-day-journey-digital-honey">URL: <a href="https://www.undp.org/acceleratorlabs/blog/accelerating-local-biomimicry-100-day-journey-digital-honey" target="_blank">https://www.undp.org/acceleratorlabs/blog/accelerating-local-biomimicry-100-day-journey-digital-honey</a></h4>
+
+<h4 id="type-blog-27">Type: blog</h4>
+
+<h4 id="tags-e-wallets-17">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-83">Snippets:</h4>
+<ul>
+  <li>the gamification. We used Odoo (an open-source ERP platform with a gamified learning management module), to create leaderboards, badges and experience (XP)
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-5">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-4">Date: 25 April, 2023</h4>
+
+<h4 id="country-34">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_4pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a></h4>
+
+<h4 id="type-document-17">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-1">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-84">Snippets:</h4>
+<ul>
+  <li>facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-6">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-5">Date: 25 April, 2023</h4>
+
+<h4 id="country-35">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_2pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a></h4>
+
+<h4 id="type-document-18">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-financial-empowerment-2">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-85">Snippets:</h4>
+<ul>
+  <li>facilities for priority repair Livelihood support for 20,000 businesses and individuals 9 million people gained access to e-services Scaling up support
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="diagnóstico-de-calidad-de-programas-y-actividades-de-servicios-de-cuidado-ciudad-de-oruro">Diagnóstico de calidad de programas y actividades de servicios de cuidado Ciudad de Oruro</h2>
+<p>Diagn</p>
+
+<h4 id="date-04-july-2022">Date: 04 July, 2022</h4>
+
+<h4 id="country-36">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-08oruro20cuidados20digital20altapdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/Oruro%20cuidados%20DIGITAL%20ALTA.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-08/Oruro%20cuidados%20DIGITAL%20ALTA.pdf</a></h4>
+
+<h4 id="type-document-19">Type: document</h4>
+
+<h4 id="tags-e-wallets-18">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-86">Snippets:</h4>
+<ul>
+  <li>bajo el Modelo de Excelencia (EFQM 2 ) El Modelo de Excelencia de la Fundación Europea para la Gestión de la Calidad (EFQM, por sus siglas en inglés)
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="covid19-ministry-of-health-and-undp-launch-e-learning-platform-for-healthcare-professionals-in-azerbaijan">COVID19: Ministry of Health and UNDP launch e-learning platform for healthcare professionals in Azerbaijan</h2>
+
+<h4 id="date-30-july-2020">Date: 30 July, 2020</h4>
+
+<h4 id="country-azerbaijan-3">Country: Azerbaijan</h4>
+
+<h4 id="url-httpswwwundporgazerbaijanpress-releasescovid19-ministry-health-and-undp-launch-e-learning-platform-healthcare-professionals-azerbaijan">URL: <a href="https://www.undp.org/azerbaijan/press-releases/covid19-ministry-health-and-undp-launch-e-learning-platform-healthcare-professionals-azerbaijan" target="_blank">https://www.undp.org/azerbaijan/press-releases/covid19-ministry-health-and-undp-launch-e-learning-platform-healthcare-professionals-azerbaijan</a></h4>
+
+<h4 id="type-press-release-3">Type: press release</h4>
+
+<h4 id="tags-e-wallets-19">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-87">Snippets:</h4>
+<ul>
+  <li>breakthroughs. In a few months from now, the e-platform will be expanded to offer additional e-courses in various medical disciplines, such as general
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="open-call-for-innovations-addressing-south-africas-water-challenges-water-access-and-provision-during-the-covid-19-pandemic">Open Call for Innovations addressing South Africa’s Water Challenges: water access and provision during the COVID 19 Pandemic</h2>
+
+<h4 id="date-01-august-2020">Date: 01 August, 2020</h4>
+
+<h4 id="country-south-africa-2">Country: South Africa</h4>
+
+<h4 id="url-httpswwwundporgsouth-africapress-releasesopen-call-innovations-addressing-south-africae28099s-water-challenges-water-access-and-provision-during-covid-19-pandemic">URL: <a href="https://www.undp.org/south-africa/press-releases/open-call-innovations-addressing-south-africa%E2%80%99s-water-challenges-water-access-and-provision-during-covid-19-pandemic" target="_blank">https://www.undp.org/south-africa/press-releases/open-call-innovations-addressing-south-africa%E2%80%99s-water-challenges-water-access-and-provision-during-covid-19-pandemic</a></h4>
+
+<h4 id="type-press-release-4">Type: press release</h4>
+
+<h4 id="tags-e-wallets-20">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-88">Snippets:</h4>
+<ul>
+  <li>3 September 2020. No late applications will be considered. The Completed EOI in PDF format should be emailed to Dr Manjusha Sunil on manjushas@wrc.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="engaging-the-bissau-guinean-diaspora-for-the-development-of-the-country">Engaging the Bissau-Guinean Diaspora for the Development of the Country</h2>
+
+<h4 id="date-09-february-2023-2">Date: 09 February, 2023</h4>
+
+<h4 id="country-guinea-bissau">Country: Guinea-Bissau</h4>
+
+<h4 id="url-httpswwwundporgguinea-bissaublogengaging-bissau-guinean-diaspora-development-country">URL: <a href="https://www.undp.org/guinea-bissau/blog/engaging-bissau-guinean-diaspora-development-country" target="_blank">https://www.undp.org/guinea-bissau/blog/engaging-bissau-guinean-diaspora-development-country</a></h4>
+
+<h4 id="type-blog-28">Type: blog</h4>
+
+<h4 id="tags-e-wallets-21">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-89">Snippets:</h4>
+<ul>
+  <li>company NOSi aiming to develop an e-portal for issuing criminal record certificates and SIGDAJ, will inform our work in this Diaspora Learning Cycle.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="how-innovation-hubs-are-driving-the-start-up-ecosystem-in-kenya">How Innovation Hubs are Driving the Start-up Ecosystem in Kenya</h2>
+
+<h4 id="date-09-february-2023-3">Date: 09 February, 2023</h4>
+
+<h4 id="country-kenya-1">Country: Kenya</h4>
+
+<h4 id="url-httpswwwundporgkenyapublicationshow-innovation-hubs-are-driving-start-ecosystem-kenya">URL: <a href="https://www.undp.org/kenya/publications/how-innovation-hubs-are-driving-start-ecosystem-kenya" target="_blank">https://www.undp.org/kenya/publications/how-innovation-hubs-are-driving-start-ecosystem-kenya</a></h4>
+
+<h4 id="type-publications-17">Type: publications</h4>
+
+<h4 id="tags-microfinance-lending-groups-e-wallets-financial-empowerment-fintech">Tags: [‘Microfinance’, ‘Lending Groups’, ‘E-wallets’, ‘Financial empowerment’, ‘Fintech’]</h4>
+
+<h4 id="snippets-90">Snippets:</h4>
+<ul>
+  <li>Oka bags Africa is one of the most successful start- ups to emerge from the hub. The start-up recycles used clothes, advertising materials and
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="making-public-transportation-more-accessible-with-technology">Making Public Transportation More Accessible with Technology</h2>
+
+<h4 id="date-19-december-2022">Date: 19 December, 2022</h4>
+
+<h4 id="country-mongolia">Country: Mongolia</h4>
+
+<h4 id="url-httpswwwundporgmongoliablogmaking-public-transportation-more-accessible-technology">URL: <a href="https://www.undp.org/mongolia/blog/making-public-transportation-more-accessible-technology" target="_blank">https://www.undp.org/mongolia/blog/making-public-transportation-more-accessible-technology</a></h4>
+
+<h4 id="type-blog-29">Type: blog</h4>
+
+<h4 id="tags-e-wallets-22">Tags: [‘E-wallets’]</h4>
+
+<h4 id="snippets-91">Snippets:</h4>
+<ul>
+  <li>in creating a safe, reliable, accessible, affordable, and convenient transportation system for Erdenet residents. App on Apple Store: https://apps.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="e-commerce-for-rural-development-greening-the-production-part-3">E-commerce for rural development: greening the production (Part 3)</h2>
+
+<h4 id="date-30-november-2022">Date: 30 November, 2022</h4>
+
+<h4 id="country-malaysia-united-states-of-america-south-korea-singapore-kyrgyzstan-indonesia">Country: Malaysia, United States of America, South Korea, Singapore, Kyrgyzstan, Indonesia</h4>
+
+<h4 id="url-httpswwwundporgmalaysiabloge-commerce-rural-development-greening-production-part-3">URL: <a href="https://www.undp.org/malaysia/blog/e-commerce-rural-development-greening-production-part-3" target="_blank">https://www.undp.org/malaysia/blog/e-commerce-rural-development-greening-production-part-3</a></h4>
+
+<h4 id="type-blog-30">Type: blog</h4>
+
+<h4 id="tags-e-commerce-e-wallets-digital-wallets-online-lending-fintech">Tags: [‘E-commerce’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Fintech’]</h4>
+
+<h4 id="snippets-92">Snippets:</h4>
+<ul>
+  <li>free 1Gb internet to eligible individuals, RM70 million in funds for SMEs to utilise e-commerce platforms, and RM1.2 billion investment fund for start-ups
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-next-frontier">The next frontier</h2>
+<p>Human development and the Anthropocene
+Human Development Report 2020
+The next f</p>
+
+<h4 id="date-09-january-2021">Date: 09 January, 2021</h4>
+
+<h4 id="country-37">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07hdr2020pdfpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/hdr2020pdf.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/hdr2020pdf.pdf</a></h4>
+
+<h4 id="type-document-20">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-digital-literacy-financial-literacy-peer-to-peer-lending-financial-services-unbanked-e-wallets-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Digital Literacy’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Unbanked’, ‘E-wallets’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-93">Snippets:</h4>
+<ul>
+  <li>Database, the Organisation for Economic Co‐operation and Development Inter‐Country Input‐Output database and the EXIOBASE database (Len‐ zen and
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="blockchain-for-climate-action-investing-in-egypts-farmers-to-build-the-low-carbon-future-we-want-1">Blockchain for climate action: Investing in Egypt’s farmers to build the low carbon future we want</h2>
+
+<h4 id="date-07-november-2022-1">Date: 07 November, 2022</h4>
+
+<h4 id="country-egypt-ukraine-pakistan">Country: Egypt, Ukraine, Pakistan</h4>
+
+<h4 id="url-httpswwwundporgarab-statesblogblockchain-climate-action-investing-egypts-farmers-build-low-carbon-future-we-want">URL: <a href="https://www.undp.org/arab-states/blog/blockchain-climate-action-investing-egypts-farmers-build-low-carbon-future-we-want" target="_blank">https://www.undp.org/arab-states/blog/blockchain-climate-action-investing-egypts-farmers-build-low-carbon-future-we-want</a></h4>
+
+<h4 id="type-blog-31">Type: blog</h4>
+
+<h4 id="tags-village-banks-access-to-credit-e-wallets">Tags: [‘Village Banks’, ‘Access to credit’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-94">Snippets:</h4>
+<ul>
+  <li>knowing how much buyers will ultimately pay for carbon credits. At the same time as EoL was being developed in Africa, a passionate French startup
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="lempowerment-par-le-digital--le-cas-des--ambassadrices-numériques--dans-le-tiers-secteur-au-maroc">L’empowerment par le digital : le cas des « ambassadrices numériques » dans le tiers-secteur au Maroc</h2>
+
+<h4 id="date-17-february-2023">Date: 17 February, 2023</h4>
+
+<h4 id="country-morocco-2">Country: Morocco</h4>
+
+<h4 id="url-httpswwwundporgfrmoroccopublicationslempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc">URL: <a href="https://www.undp.org/fr/morocco/publications/lempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc" target="_blank">https://www.undp.org/fr/morocco/publications/lempowerment-par-le-digital-le-cas-des-ambassadrices-numeriques-dans-le-tiers-secteur-au-maroc</a></h4>
+
+<h4 id="type-publications-18">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-lending-groups-digital-inclusion-financial-services-e-commerce-remittances-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-inclusive-banking-fintech">Tags: [‘Mobile banking’, ‘Lending Groups’, ‘Digital Inclusion’, ‘Financial services’, ‘E-commerce’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Inclusive banking’, ‘Fintech’]</h4>
+
+<h4 id="snippets-95">Snippets:</h4>
+<ul>
+  <li>sur le site du PNUD (wwwundp org). Emerging Business Factory (EBF) est le premier incubateur privé IT et Méclas dans la région de Marrakech-Safi
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="obstacle-course-to-receive-emergency-cash-transfers-in-ecuador">Obstacle Course to Receive Emergency Cash Transfers in Ecuador</h2>
+
+<h4 id="date-16-march-2021">Date: 16 March, 2021</h4>
+
+<h4 id="country-38">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogobstacle-course-receive-emergency-cash-transfers-ecuador">URL: <a href="https://www.undp.org/acceleratorlabs/blog/obstacle-course-receive-emergency-cash-transfers-ecuador" target="_blank">https://www.undp.org/acceleratorlabs/blog/obstacle-course-receive-emergency-cash-transfers-ecuador</a></h4>
+
+<h4 id="type-blog-32">Type: blog</h4>
+
+<h4 id="tags-access-to-credit-e-wallets-digital-wallets-online-lending">Tags: [‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-96">Snippets:</h4>
+<ul>
+  <li>not only in terms of having bank accounts but also in accessing electronic devices and having sufficient digital literacy to access online services.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="empresa-excelência-initiative-companies-of-excellency-recognizes">“EMPRESA EXCELÊNCIA” initiative (COMPANIES OF EXCELLENCY) recognizes…</h2>
+
+<h4 id="date-22-december-2023">Date: 22 December, 2023</h4>
+
+<h4 id="country-39">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid2110">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=2110" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=2110</a></h4>
+
+<h4 id="type-action-plan">Type: action plan</h4>
+
+<h4 id="tags-lending-groups-financial-services-access-to-credit-e-wallets-online-lending-inclusive-banking">Tags: [‘Lending Groups’, ‘Financial services’, ‘Access to credit’, ‘E-wallets’, ‘Online lending’, ‘Inclusive banking’]</h4>
+
+<h4 id="snippets-97">Snippets:</h4>
+<ul>
+  <li>which will enhance credibility near the system with greater capacity to meet financial commitments and generate consistent returns. Banks may
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="traditional-and-modern-ways-to-approach-covid-19-in-algeria">Traditional and modern ways to approach COVID-19 in Algeria</h2>
+
+<h4 id="date-15-june-2020">Date: 15 June, 2020</h4>
+
+<h4 id="country-40">Country:</h4>
+
+<h4 id="url-httpswwwundporgblogtraditional-and-modern-ways-approach-covid-19-algeria">URL: <a href="https://www.undp.org/blog/traditional-and-modern-ways-approach-covid-19-algeria" target="_blank">https://www.undp.org/blog/traditional-and-modern-ways-approach-covid-19-algeria</a></h4>
+
+<h4 id="type-blog-33">Type: blog</h4>
+
+<h4 id="tags-village-banks-e-wallets">Tags: [‘Village Banks’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-98">Snippets:</h4>
+<ul>
+  <li>of delivery services. Government support of e-payments are evolving rapidly to meet citizens’ demand. Algeria is a cash-based society. With the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="establishment-of-an-agrifintech-accelerator">Establishment of an AgriFinTech Accelerator</h2>
+
+<h4 id="date-26-january-2024">Date: 26 January, 2024</h4>
+
+<h4 id="country-41">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1856">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1856" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1856</a></h4>
+
+<h4 id="type-action-plan-1">Type: action plan</h4>
+
+<h4 id="tags-microfinance-peer-to-peer-lending-access-to-credit-unbanked-e-wallets-online-lending-financial-empowerment-inclusive-banking-fintech">Tags: [‘Microfinance’, ‘Peer-to-peer lending’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Fintech’]</h4>
+
+<h4 id="snippets-99">Snippets:</h4>
+<ul>
+  <li>institutions and the Eswatini FinTech Working Group (EFTWG) sought to pilot the AFA. The proposed AFA has been well received by stakeholders at large given its
+<br /><br /><br /></li>
+</ul>
+
+
+                  </div>
+
+                  <!-- BEGIN TAGS AND SDG CHIPS -->
+                  <!--  -->
+                  <!-- END TAGS AND CATEGORY CHIPS -->
+
+                </div>
+              </div>
+            </div>
+            <!-- END PAGE CONTENT -->
+
+          </div>
+        </div>
+
+        <!-- BEGIN PAGE FOOTER -->
+        <footer class="footer">
+  <div class="grid-x">
+    <div class="cell medium-10 medium-offset-1">
+      <div class="grid-x footer-head">
+        <div class="cell medium-5">
+          <div class="footer-logo">
+            <a>
+              <img
+                src="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_left_align_white_RGB.png"
+                alt="Logo"
+              />
+            </a>
+            <h5 class="" tabindex="0" data-viewport="false">
+              United Nations Development Programme
+            </h5>
+          </div>
+        </div>
+      </div>
+      <div class="grid-x grid-margin-x" data-accordion="mobile">
+        <div class="cell medium-8">
+          <div class="grid-x grid-margin-x footer-items">
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-1"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                What we do
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/aboutus"
+                >
+                  About us
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/our-work"
+                >
+                  Our work
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/partnerships-core-our-network"
+                >
+                  Partnerships: the core of our network
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/our-work/untapped"
+                >
+                  UNTAPPED
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/peoplepowered"
+                >
+                  Grassroots Energy Solutions
+                </a>
+              </div>
+            </div>
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-2"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                Where we are
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/our-locations"
+                >
+                  Our Locations
+                </a>
+              </div>
+            </div>
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-3"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                Our Learnings
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/globalpublications"
+                >
+                  Global Publications
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/localpublications"
+                >
+                  Country Publications
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/blog"
+                >
+                  Blog
+                </a>
+              </div>
+            </div>
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-4"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                News
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/news-updates"
+                >
+                  News center
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/events"
+                >
+                  Events
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/newsletters"
+                >
+                  Newsletters
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="cell medium-4">
+          <ul class="footer-links">
+            <li><a href="https://www.undp.org/acceleratorlabs">About Us</a></li>
+            <li>
+              <a href="https://www.undp.org/accountability/audit/investigations"
+                >Report Fraud, Abuse, Misconduct</a
+              >
+            </li>
+            <li>
+              <a href="https://www.undp.org/scam-alert">Scam Alert</a>
+            </li>
+            <li>
+              <a href="https://www.undp.org/copyright-terms-use"
+                >Terms Of Use</a
+              >
+            </li>
+          </ul>
+          <ul class="footer-icons">
+            <li>
+              <a
+                href="https://www.linkedin.com/company/undp-accelerator-labs"
+                class="linkedin"
+                title="LinkedIn"
+                >linkedIn</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/acceleratorlabs/"
+                class="instagram"
+                title="Instagram"
+                >instagram</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://twitter.com/UNDPAccLabs"
+                class="twitter"
+                title="Twitter"
+                >twitter</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <p tabindex="0">
+          © 2024 United Nations Development Programme
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+      </div>      
+
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/gsap.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/animation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/navigation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/undp.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/accordion.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/viewport.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/sidebar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/lang-switcher.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/scrolling-progressbar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/swiper.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/expand-search.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/filter-search-bar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/multi-select.min.js"></script>
+
+    <!-- <script src="/dfi-rave-search-terms/public/js/indexload.js"></script> -->
+    <script src="/dfi-rave-search-terms/assets/lunr-min.js"></script>
+    <script src="/dfi-rave-search-terms/assets/lunr-feed.js"></script>
+    <script>
+    $(document).ready(function(){
+      navigationInitialize();
+      navigationOverFlow();
+      navigationMultiLevelEdgeDetection();
+
+      accordion();
+      sidebarNav();
+      sidebarMenu();
+
+      langSwitch();
+
+      accordion('[data-accordion="mobile"]', '.footer-panel', 'active');
+      expandToSize('.pagehero-full');
+      swiper('.fluid-carousel', '.slide-content'); 
+
+      expandSearch()
+      multiSelect()
+      toggleFilter()
+    });
+
+    $(document).ready(function() {
+      var current = window.location.pathname;
+      $('li a').each(function() {
+          var $this = $(this);
+          if($this.attr('href') === current) {
+            $this.closest('li[aria-label="Sidebar heading"]').find('ul.accordion__panel').addClass('display-block-important');
+            $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
+          }
+          else {
+            $this.closest('ul.accordion__panel').css('display', 'none');
+          }
+      });
+  });
+    </script>
+  </body>
+</html>

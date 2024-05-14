@@ -1,0 +1,2803 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/dfi-rave-search-terms/public/imgs/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/dfi-rave-search-terms/public/imgs/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/dfi-rave-search-terms/public/imgs/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="/dfi-rave-search-terms/public/imgs/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/base-minimal.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-column.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/cta-link.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/global-header.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/language-switcher.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mega-menu.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/mobile-nav.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/breadcrumbs.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/authors.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/author-summary.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/content-card.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/chips.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/input-fields.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/buttons.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/newsletter-signup.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/accordion.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/footer.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/author-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/menu-overflow.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/sidebar-data.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/page-hero.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/progress.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/fluid-image-size-carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/templates/generic-page.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/search-expand.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/country-site-header.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/filter-and-search-bar.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/multi-select.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/checkbox.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/css/components/radio.min.css">
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+  />
+    
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/dfi-rave-search-terms/assets/css/style.css?v=">
+
+    <title>Semantic Analysis (DFI)</title>
+
+    <!-- OGP tags -->
+    <meta property="og:title" content="Semantic Analysis (DFI)">
+    <meta property="og:description" content="Semantic Analysis (DFI)">
+    
+    <meta property="og:image" content="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:secure_url" content="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Digital Literacy</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="Digital Literacy" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Digital Literacy" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Digital Literacy","url":"/dfi-rave-search-terms/Search%20Terms/Digital%20Literacy.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+
+    <div class="generic-page">
+      <!-- START HEARDER -->
+      <header class="country-header country-load-animation run-animation">
+        <section class="header">
+          <div class="grid-container fluid">
+            <div class="grid-x grid-margin-x align-content-middle">
+              <div class="cell small-6 large-6 shrink align-self-middle top-left">
+                <a href="/dfi-rave-search-terms/" class="logo" tabindex="0" title="UNDP Logo homepage link">
+                  <img
+                    src="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+                    style="max-width: 30%; height: auto; margin-right: 1em;"
+                    alt="UNDP Logo"
+                  />
+                </a>
+                <div class="site-title" style="padding-left: 10em">
+                  <span><a href="#" title="UNDP homepage link">RAVE</a></span>
+                  <span><a href="#" title="UNDP homepage link">Semantic Analysis (DFI)</a></span>
+                </div>
+              </div>
+              <div class="cell small-1 large-1 align-content-middle top-center">
+                <nav class="menu">
+                  <ul class="">
+                    <li data-menu-id="headerlink1">
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              
+              <div class="cell small-5 large-auto top-right">
+                <div >
+                  <nav class="menu">
+                    <ul class="">
+                      <li data-menu-id="headerlink2">
+                        <a href="https://github.com/UNDP-Accelerator-Labs/dfi-rave-search-terms" target="_blank" >Contribute  </a>
+                      </li>
+                      <li>
+                        <button
+                          aria-expanded="false"
+                          id="google_translate_element"
+                          style="border: 0; background: none;"
+                        >
+                        </button>
+                      </li>
+                    </ul>
+                  </nav>
+                  
+                </div>
+            </div>
+            </div>
+          </div>
+        </section>
+      </header>
+      <!-- END HEADER -->
+
+        <!-- START SIDEBAR FOR MOBILE -->
+        <div class="grid-x">
+          <div class="cell small-12 sidebar-width">
+            <div class="column sidebar-mobile">
+              <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                <div class="grid-x">
+                  <div class="cell undefined">
+                    <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                    <div class="expand-search">
+                      <button class="expand-button">
+                        <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                      </button>
+                      <input type="text" aria-label="expand-search" id="search" />
+                      <button class="close-button">
+                        <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                      </button>
+                    </div>
+
+                    <ul>
+                      <li data-menu-id="headerlink2">
+                        <a href="https://github.com/UNDP-Accelerator-Labs/dfi-rave-search-terms" target="_blank" >Contribute  </a>
+                      </li>
+
+                      
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" /dfi-rave-search-terms/maps.html ">Geospatial Analysis</a>
+                                
+                                
+                                
+                                
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Search Terms</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Mobile%20banking.html">Mobile banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Microfinance.html">Microfinance</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Village%20Banks.html">Village Banks</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Lending%20Groups.html">Lending Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Saving%20Groups.html">Saving Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Literacy.html">Digital Literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Inclusion.html">Digital Inclusion</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20literacy.html">Financial literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Peer-to-peer%20lending.html">Peer-to-peer lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20services.html">Financial services</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-commerce.html">E-commerce</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Smart%20contracts.html">Smart contracts</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Remittances.html">Remittances</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20identity.html">Digital identity</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Access%20to%20credit.html">Access to credit</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Unbanked.html">Unbanked</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-wallets.html">E-wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Wallets.html">Digital Wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Online%20lending.html">Online lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20empowerment.html">Financial empowerment</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Inclusive%20banking.html">Inclusive banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Cryptocurrency.html">Cryptocurrency</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Fintech.html">Fintech</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <!-- END SIDEBAR FRO MOBILE -->
+        
+        <div class="grid-container fluid content-bottom">
+          <div class="grid-x margin-top-72">
+            
+            <!-- START SIDEBAR FOR DESKTOP -->
+            <div class="cell large-3 small-12 sidebar-width">
+              <div class="column sidebar-desktop">
+                <nav role="navigation" aria-label="Sidebar" class="sidebar-accordion">
+                  <div class="grid-x">
+                    <div class="cell medium-12">
+
+                      <div class="expand-search">
+                        <button class="expand-button">
+                          <img src="https://design.undp.org/static/media/search-black.4642527c.svg" alt="search expand" />
+                        </button>
+                        <input type="text" aria-label="expand-search" id="search" />
+                        <button class="close-button">
+                          <img src="https://design.undp.org/static/media/times.cd26ac2e.svg" alt="search close" />
+                        </button>
+                      </div>
+
+                      <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
+                      <ul>
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" /dfi-rave-search-terms/maps.html ">Geospatial Analysis</a>
+                                
+                                
+                                
+                                
+                                
+                                </li>
+                            
+                            
+                            
+                                <li aria-label="Sidebar heading" >
+                                    <a  href=" # ">Search Terms</a>
+                                
+                                <button
+                                    tabindex="0"
+                                    aria-expanded="false"
+                                    aria-label="button"
+                                ></button>
+                                
+                                
+                                
+                                
+                                    <ul class="accordion__panel" style="display: block;" >
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Mobile%20banking.html">Mobile banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Microfinance.html">Microfinance</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Village%20Banks.html">Village Banks</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Lending%20Groups.html">Lending Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Saving%20Groups.html">Saving Groups</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Literacy.html">Digital Literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Inclusion.html">Digital Inclusion</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20literacy.html">Financial literacy</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Peer-to-peer%20lending.html">Peer-to-peer lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20services.html">Financial services</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-commerce.html">E-commerce</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Smart%20contracts.html">Smart contracts</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Remittances.html">Remittances</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20identity.html">Digital identity</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Access%20to%20credit.html">Access to credit</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Unbanked.html">Unbanked</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/E-wallets.html">E-wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Digital%20Wallets.html">Digital Wallets</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Online%20lending.html">Online lending</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Financial%20empowerment.html">Financial empowerment</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Inclusive%20banking.html">Inclusive banking</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Cryptocurrency.html">Cryptocurrency</a></li>
+                                    
+                                    <li >
+                                      <a  href="/dfi-rave-search-terms/Search%20Terms/Fintech.html">Fintech</a></li>
+                                    
+                                    </ul>
+                                
+                                </li>
+                            
+                            
+                      </ul>
+                    </div>
+                  </div>
+                </nav>
+
+                <!-- BEGGIN FILTERS -->
+                <div class="search-filter">
+                  <div class="select-wrapper">
+                    <div id="tag-div"></div>
+                    
+                    <div id="signature_solutions_div"></div>
+                    <div id="enablers_div"></div>
+                    <div id="rblac_priorities_div"></div>
+
+
+                    <div id="sdg-div"></div>
+                    
+                    <span class="active-filter">Active Filters:</span>
+                    <div class="selected-chips"></div>
+                    <button class="clear-search-filter">Clear All</button>
+                  </div>
+                </div>
+                <!-- END FILTER -->
+
+              </div>
+            </div>
+            <!-- END SIDEBAR FOR DESKTOP -->
+
+            <!-- BEGIN PAGE CONTENT -->
+            <div class="cell large-9 small-12 generic-content">
+              <div class="grid-x">
+                <div class="markdown-body">
+
+                  <!-- START BREADCRUMBS NAV -->
+                  <nav aria-label="breadcrumbs" data-viewport="true" class="breadcrumb">
+    <ul>
+        <li><a href="/dfi-rave-search-terms/" aria-label="Home">Home</a></li>
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+                <li><a href="/dfi-rave-search-terms/Search%20Terms/Digital%20Literacy.html" aria-label="Second-level">Search Terms</a></li>
+            
+        
+            
+        
+            
+        
+            
+        
+        <li aria-current="Page title">Digital Literacy</li>
+    </ul>
+</nav>
+                  <!-- END BREADCRUMBS NAV -->
+
+                  <div id="results"></div>
+                  <div id="content">
+                    <h2 id="digital-finance-ecosystem-assessment-for-namibia">Digital finance ecosystem assessment for namibia</h2>
+
+<h4 id="date-24-january-2023">Date: 24 January, 2023</h4>
+
+<h4 id="country">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-01namibia20sdfe20assessment20and20strategy_finalpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-01/Namibia%20SDFE%20Assessment%20and%20Strategy_Final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-01/Namibia%20SDFE%20Assessment%20and%20Strategy_Final.pdf</a></h4>
+
+<h4 id="type-document">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-remittances-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets">Snippets:</h4>
+<ul>
+  <li>within schools and only 40 percent of schools have access to the internet. Beyond schools, there is also little evidence of significant digital literacy
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-readiness-assessment-suriname">Digital Readiness Assessment Suriname</h2>
+
+<h4 id="date-29-june-2022">Date: 29 June, 2022</h4>
+
+<h4 id="country-suriname">Country: Suriname</h4>
+
+<h4 id="url-httpswwwundporgsurinamepublicationsdigital-readiness-assessment-suriname">URL: <a href="https://www.undp.org/suriname/publications/digital-readiness-assessment-suriname" target="_blank">https://www.undp.org/suriname/publications/digital-readiness-assessment-suriname</a></h4>
+
+<h4 id="type-publications">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-1">Snippets:</h4>
+<ul>
+  <li>across all of society, particularly in more marginalised groups. However, digital literacy can be wide-ranging - and it’s important to look beyond
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-changing-nature-of-work">The Changing Nature of Work</h2>
+
+<h4 id="date-22-april-2021">Date: 22 April, 2021</h4>
+
+<h4 id="country-turkey">Country: Turkey</h4>
+
+<h4 id="url-httpswwwundporgturkiyepublicationschanging-nature-work">URL: <a href="https://www.undp.org/turkiye/publications/changing-nature-work" target="_blank">https://www.undp.org/turkiye/publications/changing-nature-work</a></h4>
+
+<h4 id="type-publications-1">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-microfinance-lending-groups-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-smart-contracts-digital-identity-unbanked-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Smart contracts’, ‘Digital identity’, ‘Unbanked’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-2">Snippets:</h4>
+<ul>
+  <li>and ensuring quality work results. But digital literacy is more than the ability of employees to use software: it is also about understanding how to apply
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="bridging-the-digital-divide-in-ukraine-a-human-centric-approach">Bridging the Digital Divide in Ukraine: A human-centric approach</h2>
+
+<h4 id="date-20-january-2020">Date: 20 January, 2020</h4>
+
+<h4 id="country-ukraine-india-russia">Country: Ukraine, India, Russia</h4>
+
+<h4 id="url-httpswwwundporgukraineblogbridging-digital-divide-ukraine-human-centric-approach">URL: <a href="https://www.undp.org/ukraine/blog/bridging-digital-divide-ukraine-human-centric-approach" target="_blank">https://www.undp.org/ukraine/blog/bridging-digital-divide-ukraine-human-centric-approach</a></h4>
+
+<h4 id="type-blog">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-literacy-digital-identity-e-wallets">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Digital identity’, ‘E-wallets’]</h4>
+
+<h4 id="snippets-3">Snippets:</h4>
+<ul>
+  <li>The UNDP Accelerator Lab supported the research into digital literacy led by the Ministry of Digital Transformation. Digital literacy has long been
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="when-learning-goes-digital-reflections-on-urban-youth-living-in-poverty-in-malaysia">When learning goes digital: Reflections on urban youth living in poverty in Malaysia</h2>
+
+<h4 id="date-31-march-2021">Date: 31 March, 2021</h4>
+
+<h4 id="country-malaysia">Country: Malaysia</h4>
+
+<h4 id="url-httpswwwundporgmalaysiablogwhen-learning-goes-digital-reflections-urban-youth-living-poverty-malaysia">URL: <a href="https://www.undp.org/malaysia/blog/when-learning-goes-digital-reflections-urban-youth-living-poverty-malaysia" target="_blank">https://www.undp.org/malaysia/blog/when-learning-goes-digital-reflections-urban-youth-living-poverty-malaysia</a></h4>
+
+<h4 id="type-blog-1">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-literacy-inclusive-banking">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Inclusive banking’]</h4>
+
+<h4 id="snippets-4">Snippets:</h4>
+<ul>
+  <li>Ministry of Education also unveiled a digital learning platform, DELIMa (Digital Education Learning Initiative Malaysia) incorporating material from some
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-skills-assessment-the-first-building-block-of-the-digital-nation">Digital Skills Assessment: The first building block of the “Digital Nation”</h2>
+
+<h4 id="date-29-september-2021">Date: 29 September, 2021</h4>
+
+<h4 id="country-mongolia-uzbekistan-italy">Country: Mongolia, Uzbekistan, Italy</h4>
+
+<h4 id="url-httpswwwundporgmongoliablogdigital-skills-assessment-first-building-block-digital-nation">URL: <a href="https://www.undp.org/mongolia/blog/digital-skills-assessment-first-building-block-digital-nation" target="_blank">https://www.undp.org/mongolia/blog/digital-skills-assessment-first-building-block-digital-nation</a></h4>
+
+<h4 id="type-blog-2">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-digital-wallets">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-5">Snippets:</h4>
+<ul>
+  <li>government and civil society organizations to increase digital literacy for all. Lessening the digital divide is part of our commitment to help each
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="bridging-the-digital-divide-in-mongolia">Bridging the Digital Divide in Mongolia</h2>
+
+<h4 id="date-23-april-2021">Date: 23 April, 2021</h4>
+
+<h4 id="country-mongolia">Country: Mongolia</h4>
+
+<h4 id="url-httpswwwundporgmongoliablogbridging-digital-divide-mongolia">URL: <a href="https://www.undp.org/mongolia/blog/bridging-digital-divide-mongolia" target="_blank">https://www.undp.org/mongolia/blog/bridging-digital-divide-mongolia</a></h4>
+
+<h4 id="type-blog-3">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-6">Snippets:</h4>
+<ul>
+  <li>digital devices, and their affordability. One must overcome the primary challenge of access to obtain the “digital literacy” which can be best
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="iterating-a-mongolian-version-of-digital-literacy">Iterating a Mongolian version of Digital Literacy</h2>
+
+<h4 id="date-02-july-2021">Date: 02 July, 2021</h4>
+
+<h4 id="country-mongolia-burkina-faso">Country: Mongolia, Burkina Faso</h4>
+
+<h4 id="url-httpswwwundporgmongoliablogiterating-mongolian-version-digital-literacy">URL: <a href="https://www.undp.org/mongolia/blog/iterating-mongolian-version-digital-literacy" target="_blank">https://www.undp.org/mongolia/blog/iterating-mongolian-version-digital-literacy</a></h4>
+
+<h4 id="type-blog-4">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-digital-wallets">Tags: [‘Digital Literacy’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-7">Snippets:</h4>
+<ul>
+  <li>attitudes to learn, earn and thrive in modern digitalized societies. Exploring the “digital skills” beast Students, workers, and people of all ages and
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-inclusion--future-skills-pilot">Digital Inclusion &amp; Future Skills Pilot</h2>
+
+<h4 id="date-17-december-2023">Date: 17 December, 2023</h4>
+
+<h4 id="country-1">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1998">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1998" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1998</a></h4>
+
+<h4 id="type-action-plan">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-literacy">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’]</h4>
+
+<h4 id="snippets-8">Snippets:</h4>
+<ul>
+  <li>Therefore, rural and peri-urban communities are left behind, there is an unequal distribution of (digital) literacy and digital opportunities. As digitalization
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="arab-human-development-report-2022expanding-opportunities-for-an-inclusive-and-resilient-recovery">Arab Human Development Report 2022Expanding Opportunities for an Inclusive and Resilient Recovery</h2>
+
+<h4 id="date-28-june-2022">Date: 28 June, 2022</h4>
+
+<h4 id="country-2">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-06undp20arab20hdr20main20report20with20covers20no20embargo200628d_0pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-06/UNDP%20Arab%20HDR%20main%20report%20with%20covers%20no%20embargo%200628d_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-06/UNDP%20Arab%20HDR%20main%20report%20with%20covers%20no%20embargo%200628d_0.pdf</a></h4>
+
+<h4 id="type-document-1">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-literacy-digital-inclusion-financial-literacy-financial-services-remittances-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Financial services’, ‘Remittances’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-9">Snippets:</h4>
+<ul>
+  <li>in education, information, tracking patients, or government and parliamentary meetings. But the repercussions of shifting to digital learning will be
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="designing-the-uganda-national-digital-transformation-roadmap">Designing the Uganda National Digital Transformation Roadmap</h2>
+
+<h4 id="date-12-january-2024">Date: 12 January, 2024</h4>
+
+<h4 id="country-uganda">Country: Uganda</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid2195">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=2195" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=2195</a></h4>
+
+<h4 id="type-action-plan-1">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-1">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-10">Snippets:</h4>
+<ul>
+  <li>
+    <ol>
+      <li>Digital Literacy and Skilling: Recognizing the importance of digital skills in the digital age, we will focus on equipping our citizens with the necessary
+<br /><br /><br /></li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="undp-mongolia-and-the-ministry-of-digital-development-and-communication-partner-on-the-advancement-of-the-digital-nation-strategy">UNDP Mongolia and the Ministry of Digital Development and Communication partner on the advancement of the Digital Nation Strategy</h2>
+
+<h4 id="date-13-april-2022">Date: 13 April, 2022</h4>
+
+<h4 id="country-mongolia-1">Country: Mongolia</h4>
+
+<h4 id="url-httpswwwundporgmongoliapress-releasesundp-mongolia-and-ministry-digital-development-and-communication-partner-advancement-digital-nation-strategy">URL: <a href="https://www.undp.org/mongolia/press-releases/undp-mongolia-and-ministry-digital-development-and-communication-partner-advancement-digital-nation-strategy" target="_blank">https://www.undp.org/mongolia/press-releases/undp-mongolia-and-ministry-digital-development-and-communication-partner-advancement-digital-nation-strategy</a></h4>
+
+<h4 id="type-press-release">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-financial-literacy">Tags: [‘Digital Literacy’, ‘Financial literacy’]</h4>
+
+<h4 id="snippets-11">Snippets:</h4>
+<ul>
+  <li>support on further development of Digital Literacy Strategy, particularly in the areas of a) implementation of projects and programs to improve
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-great-disruptor-how-covid-19-is-nudging-ukraine-towards-rapid-digital-transformation">The Great Disruptor: How COVID-19 is nudging Ukraine towards rapid digital transformation</h2>
+
+<h4 id="date-07-july-2020">Date: 07 July, 2020</h4>
+
+<h4 id="country-ukraine-liberia-united-states-of-america-ethiopia-peru-united-kingdom">Country: Ukraine, Liberia, United States of America, Ethiopia, Peru, United Kingdom</h4>
+
+<h4 id="url-httpswwwundporgukrainebloggreat-disruptor-how-covid-19-nudging-ukraine-towards-rapid-digital-transformation">URL: <a href="https://www.undp.org/ukraine/blog/great-disruptor-how-covid-19-nudging-ukraine-towards-rapid-digital-transformation" target="_blank">https://www.undp.org/ukraine/blog/great-disruptor-how-covid-19-nudging-ukraine-towards-rapid-digital-transformation</a></h4>
+
+<h4 id="type-blog-5">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-identity">Tags: [‘Digital Literacy’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-12">Snippets:</h4>
+<ul>
+  <li>However, according to a nationwide study on digital literacy conducted at the end of 2019, some 38 percent of Ukrainians have digital literacy skills
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-next-frontier">The next frontier</h2>
+<p>Human development and the Anthropocene
+Human Development Report 2020
+The next f</p>
+
+<h4 id="date-09-january-2021">Date: 09 January, 2021</h4>
+
+<h4 id="country-3">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07hdr2020pdfpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/hdr2020pdf.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/hdr2020pdf.pdf</a></h4>
+
+<h4 id="type-document-2">Type: document</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-digital-literacy-financial-literacy-peer-to-peer-lending-financial-services-unbanked-e-wallets-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Digital Literacy’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Unbanked’, ‘E-wallets’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-13">Snippets:</h4>
+<ul>
+  <li>this case there is no information on learning achievements — for which literacy, however imperfectly, provided some. Recent evidence suggests that as
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="experimenting-learning-and-innovating-to-improve-digital-inclusivity-and-literacy-in-mongolia">Experimenting, learning, and innovating to improve digital inclusivity and literacy in Mongolia</h2>
+
+<h4 id="date-19-december-2022">Date: 19 December, 2022</h4>
+
+<h4 id="country-mongolia-2">Country: Mongolia</h4>
+
+<h4 id="url-httpswwwundporgmongoliablogexperimenting-learning-and-innovating-improve-digital-inclusivity-and-literacy-mongolia">URL: <a href="https://www.undp.org/mongolia/blog/experimenting-learning-and-innovating-improve-digital-inclusivity-and-literacy-mongolia" target="_blank">https://www.undp.org/mongolia/blog/experimenting-learning-and-innovating-improve-digital-inclusivity-and-literacy-mongolia</a></h4>
+
+<h4 id="type-blog-6">Type: blog</h4>
+
+<h4 id="tags-digital-literacy">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-14">Snippets:</h4>
+<ul>
+  <li>content on digital literacy. It featured video contents, educational and entertainment posts, and re-shares of already available contents, created by other
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="temps-incertains-vies-bouleverséesfaçonner-notre-avenir-dans-un-monde-en-mutation">Temps incertains, vies bouleverséesFaçonner notre avenir dans un monde en mutation</h2>
+<p>Temps incertain</p>
+
+<h4 id="date-27-december-2022">Date: 27 December, 2022</h4>
+
+<h4 id="country-4">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-02hdr2021-22frpdfpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-02/hdr2021-22frpdf.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-02/hdr2021-22frpdf.pdf</a></h4>
+
+<h4 id="type-document-3">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-remittances-digital-identity-cryptocurrency-fintech">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Remittances’, ‘Digital identity’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-15">Snippets:</h4>
+<ul>
+  <li>in the Context of Digitalization. Dans Handbook of Research on Multidisciplinary Approaches to Literacy in the Digital Age. Hershey : IGI Global.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="exploring-the-implication-of-digitalization-in-the-informal-sector">Exploring the implication of digitalization in the informal sector</h2>
+
+<h4 id="date-20-june-2022">Date: 20 June, 2022</h4>
+
+<h4 id="country-ethiopia">Country: Ethiopia</h4>
+
+<h4 id="url-httpswwwundporgethiopiablogexploring-implication-digitalization-informal-sector">URL: <a href="https://www.undp.org/ethiopia/blog/exploring-implication-digitalization-informal-sector" target="_blank">https://www.undp.org/ethiopia/blog/exploring-implication-digitalization-informal-sector</a></h4>
+
+<h4 id="type-blog-7">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-services-digital-identity-digital-wallets">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-16">Snippets:</h4>
+<ul>
+  <li>of how “going digital” affected business operations and results by answering learning questions like how have the informal businesses been using “
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="podcast-solutions-cast--episode-5-exploring-systemic-design-in-development-space">[Podcast] Solutions Cast | Episode 5: Exploring systemic design in development space</h2>
+
+<h4 id="date-01-may-2024">Date: 01 May, 2024</h4>
+
+<h4 id="country-pakistan">Country: Pakistan</h4>
+
+<h4 id="url-httpswwwundporgpakistanpodcast-solutions-cast-episode-5-exploring-systemic-design-development-space">URL: <a href="https://www.undp.org/pakistan/podcast-solutions-cast-episode-5-exploring-systemic-design-development-space" target="_blank">https://www.undp.org/pakistan/podcast-solutions-cast-episode-5-exploring-systemic-design-development-space</a></h4>
+
+<h4 id="type-webpage">Type: webpage</h4>
+
+<h4 id="tags-digital-literacy-1">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-17">Snippets:</h4>
+<ul>
+  <li>where did this idea come from. I mean there is so much training now about digital literacy. The area where you are providing digital literacy, do they
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="offline-pedia-contenido-académico-de-calidad-para-zonas-rurales-y-sin-acceso-a-internet">Offline-Pedia: contenido académico de calidad para zonas rurales y sin acceso a internet</h2>
+
+<h4 id="date-01-february-2023">Date: 01 February, 2023</h4>
+
+<h4 id="country-5">Country:</h4>
+
+<h4 id="url-httpssolutionssdg-innovation-commonsorgenviewpadid5926">URL: <a href="https://solutions.sdg-innovation-commons.org/en/view/pad?id=5926" target="_blank">https://solutions.sdg-innovation-commons.org/en/view/pad?id=5926</a></h4>
+
+<h4 id="type-solution">Type: solution</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion">Tags: [‘Digital Literacy’, ‘Digital Inclusion’]</h4>
+
+<h4 id="snippets-18">Snippets:</h4>
+<ul>
+  <li>digital education thematic_areas: digital gap
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+Disclaim</p>
+
+<h4 id="date-08-november-2022">Date: 08 November, 2022</h4>
+
+<h4 id="country-6">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dap20vol209-issue3-reimagining20the20future20of20workpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209-Issue3-Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209-Issue3-Reimagining%20the%20Future%20of%20Work.pdf</a></h4>
+
+<h4 id="type-document-4">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-unbanked-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Unbanked’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-19">Snippets:</h4>
+<ul>
+  <li>to those who lack could unlock numerous possibilities for Pakistan’s socioeconomic development. Digital Literacy and skills are yet other significant
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022-1">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+The view</p>
+
+<h4 id="date-10-november-2022">Date: 10 November, 2022</h4>
+
+<h4 id="country-7">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dapvol9-issue-320reimagining20the20future20of20workpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAPVol9-Issue-3%20Reimagining%20the%20Future%20of%20Work.pdf</a></h4>
+
+<h4 id="type-document-5">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-20">Snippets:</h4>
+<ul>
+  <li>to those who lack could unlock numerous possibilities for Pakistan’s socioeconomic development. Digital Literacy and skills are yet other significant
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022-2">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+The view</p>
+
+<h4 id="date-10-november-2022-1">Date: 10 November, 2022</h4>
+
+<h4 id="country-8">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dap20vol2092c20issue20320reimagining20the20future20of20work20-20finalpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP%20Vol%209%2C%20Issue%203%20Reimagining%20the%20Future%20of%20Work%20-%20final.pdf</a></h4>
+
+<h4 id="type-document-6">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-digital-identity-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech-1">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-21">Snippets:</h4>
+<ul>
+  <li>to those who lack could unlock numerous possibilities for Pakistan’s socioeconomic development. Digital Literacy and skills are yet other significant
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="exploring-with-false-information">Exploring with False information</h2>
+
+<h4 id="date-21-december-2023">Date: 21 December, 2023</h4>
+
+<h4 id="country-9">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1917">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1917" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1917</a></h4>
+
+<h4 id="type-action-plan-2">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-2">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-22">Snippets:</h4>
+<ul>
+  <li>literacy of people in Jordan, ensuring they have the skills necessary to navigate and critically assess information in the digital age? To what stage(
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="mind-the-gap--how-to-avoid-the-digital-divide-so-transformation-benefits-all">Mind the gap – how to avoid the digital divide so transformation benefits all</h2>
+
+<h4 id="date-07-october-2021">Date: 07 October, 2021</h4>
+
+<h4 id="country-serbia-italy-botswana-thailand">Country: Serbia, Italy, Botswana, Thailand</h4>
+
+<h4 id="url-httpswwwundporgserbiablogmind-gap-e28093-how-avoid-digital-divide-so-transformation-benefits-all">URL: <a href="https://www.undp.org/serbia/blog/mind-gap-%E2%80%93-how-avoid-digital-divide-so-transformation-benefits-all" target="_blank">https://www.undp.org/serbia/blog/mind-gap-%E2%80%93-how-avoid-digital-divide-so-transformation-benefits-all</a></h4>
+
+<h4 id="type-blog-8">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-2">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-23">Snippets:</h4>
+<ul>
+  <li>on the margins. The gap between people in access to digital infrastructure, ability to afford digital devices and services and digital literacy hampers
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-digitale-strategie-2022-2025">UNDP Digitale Strategie 2022-2025</h2>
+
+<h4 id="date-10-february-2022">Date: 10 February, 2022</h4>
+
+<h4 id="country-germany">Country: Germany</h4>
+
+<h4 id="url-httpswwwundporgdegermanypublicationsundp-digitale-strategie-2022-2025">URL: <a href="https://www.undp.org/de/germany/publications/undp-digitale-strategie-2022-2025" target="_blank">https://www.undp.org/de/germany/publications/undp-digitale-strategie-2022-2025</a></h4>
+
+<h4 id="type-publications-2">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-inclusion-smart-contracts-digital-identity-digital-wallets-inclusive-banking-cryptocurrency">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Smart contracts’, ‘Digital identity’, ‘Digital Wallets’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-24">Snippets:</h4>
+<ul>
+  <li>advancements. Digital society: A society in which digital
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects">Digitalizing Informal Business: What Systems Mapping Reveals about Drivers and Effects</h2>
+
+<h4 id="date-07-march-2022">Date: 07 March, 2022</h4>
+
+<h4 id="country-10">Country:</h4>
+
+<h4 id="url-httpsacclabsmediumcomdigitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fbsourceuser_profile17-">URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile---------17----------------------------" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb?source=user_profile———17—————————-</a></h4>
+
+<h4 id="type-blog-9">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-inclusion-e-commerce-remittances-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-cryptocurrency">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘E-commerce’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-25">Snippets:</h4>
+<ul>
+  <li>of how this dynamic can emerge. Increasing digital literacy. Digital literacy is still low in many developing countries, so digitalization has the potential
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-1">Digitalizing Informal Business: What Systems Mapping Reveals about Drivers and Effects</h2>
+
+<h4 id="date-07-march-2022-1">Date: 07 March, 2022</h4>
+
+<h4 id="country-11">Country:</h4>
+
+<h4 id="url-httpsacclabsmediumcomdigitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb">URL: <a href="https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb" target="_blank">https://acclabs.medium.com/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-fc80dd5366fb</a></h4>
+
+<h4 id="type-blog-10">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-inclusion-e-commerce-remittances-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-cryptocurrency-1">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘E-commerce’, ‘Remittances’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-26">Snippets:</h4>
+<ul>
+  <li>of how this dynamic can emerge. Increasing digital literacy. Digital literacy is still low in many developing countries, so digitalization has the potential
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us">Skip to main content About us</h2>
+<p>Our work
+Partnerships: the core of our</p>
+
+<h4 id="date-01-may-2024-1">Date: 01 May, 2024</h4>
+
+<h4 id="country-12">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsour-workinformality">URL: <a href="https://www.undp.org/acceleratorlabs/our-work/informality" target="_blank">https://www.undp.org/acceleratorlabs/our-work/informality</a></h4>
+
+<h4 id="type-webpage-1">Type: webpage</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-e-commerce-digital-identity-access-to-credit-digital-wallets-online-lending">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘E-commerce’, ‘Digital identity’, ‘Access to credit’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-27">Snippets:</h4>
+<ul>
+  <li>driven services, is a well-known example of how this dynamic can emerge. Increasing digital literacy. Digital literacy is still low in many developing
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="guinea-bissau-covid-19-pandemic-socio-economic-response-plan">Guinea-Bissau COVID-19 Pandemic Socio-economic Response Plan</h2>
+
+<h4 id="date-15-december-2021">Date: 15 December, 2021</h4>
+
+<h4 id="country-guinea-bissau">Country: Guinea-Bissau</h4>
+
+<h4 id="url-httpswwwundporgguinea-bissaupublicationsguinea-bissau-covid-19-pandemic-socio-economic-response-plan">URL: <a href="https://www.undp.org/guinea-bissau/publications/guinea-bissau-covid-19-pandemic-socio-economic-response-plan" target="_blank">https://www.undp.org/guinea-bissau/publications/guinea-bissau-covid-19-pandemic-socio-economic-response-plan</a></h4>
+
+<h4 id="type-publications-3">Type: publications</h4>
+
+<h4 id="tags-mobile-banking-microfinance-village-banks-lending-groups-digital-literacy-digital-inclusion-peer-to-peer-lending-financial-services-e-commerce-smart-contracts-remittances-access-to-credit-unbanked-digital-wallets-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘Digital Wallets’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-28">Snippets:</h4>
+<ul>
+  <li>the digital divide, including through the introduction of digital literacy programmes and access to digitalization by those who are most disadvantaged.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="inclusive-imaginaries_report_cover">Inclusive Imaginaries_Report_Cover</h2>
+
+<h4 id="date-09-august-2022">Date: 09 August, 2022</h4>
+
+<h4 id="country-13">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-10undp-rbap-inclusive-imaginaries-report-2022_0pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-10/UNDP-RBAP-INCLUSIVE-IMAGINARIES-REPORT-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-10/UNDP-RBAP-INCLUSIVE-IMAGINARIES-REPORT-2022_0.pdf</a></h4>
+
+<h4 id="type-document-7">Type: document</h4>
+
+<h4 id="tags-digital-literacy-3">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-29">Snippets:</h4>
+<ul>
+  <li>Digital infrastructure that works with existing physical infrastructure Digital divide and accessibility issues that further exacerbates statelessness
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-transformation-and-people-with-disabilities">Digital Transformation and People with Disabilities</h2>
+
+<h4 id="date-13-december-2023">Date: 13 December, 2023</h4>
+
+<h4 id="country-thailand-italy">Country: Thailand, Italy</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1952">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1952" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1952</a></h4>
+
+<h4 id="type-action-plan-3">Type: action plan</h4>
+
+<h4 id="tags-saving-groups-digital-literacy">Tags: [‘Saving Groups’, ‘Digital Literacy’]</h4>
+
+<h4 id="snippets-30">Snippets:</h4>
+<ul>
+  <li>current digital era, digital literacy is increasingly crucial for
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="biodiversity-conservation-and-local-engagement-a-collaborative-approach-in">Biodiversity Conservation and Local Engagement: A Collaborative Approach in…</h2>
+
+<h4 id="date-25-december-2023">Date: 25 December, 2023</h4>
+
+<h4 id="country-14">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1857">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1857" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1857</a></h4>
+
+<h4 id="type-action-plan-4">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-4">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-31">Snippets:</h4>
+<ul>
+  <li>and environmental challanges? 4. How to reduce the existing data literacy gap through data innovation and digitalization? To what stage(s) in the learning
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-changing-nature-of-work-30-signals-to-consider-for-a-sustainable-future">The Changing Nature of Work: 30 signals to consider for a sustainable future</h2>
+
+<h4 id="date-28-july-2021">Date: 28 July, 2021</h4>
+
+<h4 id="country-15">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogchanging-nature-work-30-signals-consider-sustainable-future-13">URL: <a href="https://www.undp.org/acceleratorlabs/blog/changing-nature-work-30-signals-consider-sustainable-future-13" target="_blank">https://www.undp.org/acceleratorlabs/blog/changing-nature-work-30-signals-consider-sustainable-future-13</a></h4>
+
+<h4 id="type-blog-11">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-5">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-32">Snippets:</h4>
+<ul>
+  <li>quality work results. But digital literacy is more than the ability of employees to use software: it is also about understanding how to apply
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ensuring-equitable-digital-futures-for-everyone">Ensuring Equitable Digital Futures for Everyone</h2>
+
+<h4 id="date-15-february-2022">Date: 15 February, 2022</h4>
+
+<h4 id="country-libya">Country: Libya</h4>
+
+<h4 id="url-httpswwwundporglibyapress-releasesensuring-equitable-digital-futures-everyone">URL: <a href="https://www.undp.org/libya/press-releases/ensuring-equitable-digital-futures-everyone" target="_blank">https://www.undp.org/libya/press-releases/ensuring-equitable-digital-futures-everyone</a></h4>
+
+<h4 id="type-press-release-1">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-3">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-33">Snippets:</h4>
+<ul>
+  <li>to clean energy. Digital technology can advance democracy and human rights by boosting civic engagement and political participation, for instance. Or
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-readiness-assessment">Digital Readiness Assessment</h2>
+
+<h4 id="date-24-january-2024">Date: 24 January, 2024</h4>
+
+<h4 id="country-north-macedonia">Country: North Macedonia</h4>
+
+<h4 id="url-httpswwwundporgnorth-macedoniapublicationsdigital-readiness-assessment">URL: <a href="https://www.undp.org/north-macedonia/publications/digital-readiness-assessment" target="_blank">https://www.undp.org/north-macedonia/publications/digital-readiness-assessment</a></h4>
+
+<h4 id="type-publications-4">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-e-commerce-digital-identity-access-to-credit-e-wallets-digital-wallets-online-lending-fintech">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘E-commerce’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Fintech’]</h4>
+
+<h4 id="snippets-34">Snippets:</h4>
+<ul>
+  <li>SYSTEMATIC PHASE 1. Digital Literacy Skills Discrepancy: The data reveals a significant gap in digital skills between North Macedonia and the European
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-about-us">Skip to main content About Us About us</h2>
+<p>The secret to success</p>
+
+<h4 id="date-01-may-2024-2">Date: 01 May, 2024</h4>
+
+<h4 id="country-16">Country:</h4>
+
+<h4 id="url-httpswwwundporgsgtechcentredigitalisation">URL: <a href="https://www.undp.org/sgtechcentre/digitalisation" target="_blank">https://www.undp.org/sgtechcentre/digitalisation</a></h4>
+
+<h4 id="type-webpage-2">Type: webpage</h4>
+
+<h4 id="tags-saving-groups-digital-literacy-digital-inclusion-digital-identity">Tags: [‘Saving Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-35">Snippets:</h4>
+<ul>
+  <li>our focus on mainstreaming digital. Digital is not something to be separated or siloed. It is a foundation to meeting the needs of people. It is
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="putting-inclusiveness-at-the-heart-of-digitalization">Putting Inclusiveness at the Heart of Digitalization</h2>
+
+<h4 id="date-24-february-2021">Date: 24 February, 2021</h4>
+
+<h4 id="country-mongolia-3">Country: Mongolia</h4>
+
+<h4 id="url-httpswwwundporgmongoliablogputting-inclusiveness-heart-digitalization">URL: <a href="https://www.undp.org/mongolia/blog/putting-inclusiveness-heart-digitalization" target="_blank">https://www.undp.org/mongolia/blog/putting-inclusiveness-heart-digitalization</a></h4>
+
+<h4 id="type-blog-12">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-6">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-36">Snippets:</h4>
+<ul>
+  <li>in digital transformation and improving digital literacy by providing human-centered insights on the issues and looking into the challenges through the eyes
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-annual-report-2022">UNDP Annual Report 2022</h2>
+
+<h4 id="date-20-april-2023">Date: 20 April, 2023</h4>
+
+<h4 id="country-turkey-1">Country: Turkey</h4>
+
+<h4 id="url-httpswwwundporgturkiyepublicationsundp-annual-report-2022">URL: <a href="https://www.undp.org/turkiye/publications/undp-annual-report-2022" target="_blank">https://www.undp.org/turkiye/publications/undp-annual-report-2022</a></h4>
+
+<h4 id="type-publications-5">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-financial-services-digital-identity-unbanked-e-wallets-financial-empowerment-cryptocurrency">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘Digital identity’, ‘Unbanked’, ‘E-wallets’, ‘Financial empowerment’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-37">Snippets:</h4>
+<ul>
+  <li>to adapt and to use digital effectively, systematically and sustainably— if and when purposefully planned and implemented at a national level. But without
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digital-transformation-and-people-with-disabilities-1">Digital Transformation and People with Disabilities</h2>
+
+<h4 id="date-19-may-2023">Date: 19 May, 2023</h4>
+
+<h4 id="country-17">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1549">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1549" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1549</a></h4>
+
+<h4 id="type-action-plan-5">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-7">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-38">Snippets:</h4>
+<ul>
+  <li>as digital literacy has become increasingly important in various industries. Due to differences in learning methods, it is challenging for them to access
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="campaign-url-copy-twitter-0-tweets-subscribe-past-issues-rss">Campaign URL Copy Twitter 0 tweets Subscribe Past Issues RSS</h2>
+
+<h4 id="date-01-may-2024-3">Date: 01 May, 2024</h4>
+
+<h4 id="country-18">Country:</h4>
+
+<h4 id="url-httpswwwundporgpolicy-centresingaporeissue-4-technology-and-innovation-service-citizen">URL: <a href="https://www.undp.org/policy-centre/singapore/issue-4-technology-and-innovation-service-citizen" target="_blank">https://www.undp.org/policy-centre/singapore/issue-4-technology-and-innovation-service-citizen</a></h4>
+
+<h4 id="type-webpage-3">Type: webpage</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-smart-contracts-digital-identity">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Smart contracts’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-39">Snippets:</h4>
+<ul>
+  <li>and literacy are also a priority for many of our UNDP Country Offices. This includes basic digital literacy, but also supporting and driving digital
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="volume-9--issue-3--october-2022-3">VOLUME 9 / ISSUE 3 | OCTOBER 2022</h2>
+<p>DEVELOPMENT ADVOCATE
+Reimagining the Future of Work
+Disclaim</p>
+
+<h4 id="date-09-november-2022">Date: 09 November, 2022</h4>
+
+<h4 id="country-19">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-11dap-vol9-issue-3-reimagining-the-future-of-workpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP-vol9-Issue-3-Reimagining-the-Future-of-Work.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-11/DAP-vol9-Issue-3-Reimagining-the-Future-of-Work.pdf</a></h4>
+
+<h4 id="type-document-8">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-digital-literacy-digital-inclusion-financial-literacy-financial-services-e-commerce-smart-contracts-digital-identity-unbanked-e-wallets-digital-wallets-online-lending-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Digital identity’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-40">Snippets:</h4>
+<ul>
+  <li>approach for growth and development. Going digital means ‘no one is left behind’ – it requires addressing the digital divide. Digital leaders must
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ensuring-equitable-digital-futures-for-everyone-1">Ensuring equitable digital futures for everyone</h2>
+
+<h4 id="date-15-february-2022-1">Date: 15 February, 2022</h4>
+
+<h4 id="country-moldova">Country: Moldova</h4>
+
+<h4 id="url-httpswwwundporgmoldovapress-releasesensuring-equitable-digital-futures-everyone">URL: <a href="https://www.undp.org/moldova/press-releases/ensuring-equitable-digital-futures-everyone" target="_blank">https://www.undp.org/moldova/press-releases/ensuring-equitable-digital-futures-everyone</a></h4>
+
+<h4 id="type-press-release-2">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-digital-wallets-1">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-41">Snippets:</h4>
+<ul>
+  <li>supporting 100 million people to escape poverty and assisting 500 million people to gain access to clean energy. Digital technology can advance
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="empowering-urban-poor-communities">Empowering Urban Poor Communities</h2>
+
+<h4 id="date-22-december-2023">Date: 22 December, 2023</h4>
+
+<h4 id="country-indonesia-uganda">Country: Indonesia, Uganda</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid2032">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=2032" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=2032</a></h4>
+
+<h4 id="type-action-plan-6">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-digital-wallets-1">Tags: [‘Digital Literacy’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-42">Snippets:</h4>
+<ul>
+  <li>to understand the current digital and spending habits of the communities in question.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="united-nations-development-programme">United Nations Development Programme</h2>
+<p>One United Nations Plaza
+New York, NY 10017
+www.undp.org
+Empo</p>
+
+<h4 id="date-28-october-2015">Date: 28 October, 2015</h4>
+
+<h4 id="country-20">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07humandevelopmentreport_enpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/HumanDevelopmentReport_EN.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/HumanDevelopmentReport_EN.pdf</a></h4>
+
+<h4 id="type-document-9">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-saving-groups-digital-literacy-financial-literacy-financial-services-e-commerce-smart-contracts-remittances-access-to-credit-unbanked-e-wallets-digital-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Saving Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Financial services’, ‘E-commerce’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Digital Wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-43">Snippets:</h4>
+<ul>
+  <li>Literacy rate Population with at least some secondary education Gross enrolment ratio Primary school dropout rate Education quality Public expenditure
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="2022-special-report">2022 SPECIAL REPORT</h2>
+<p>New threats to human security in the Anthropocene Demanding greater solidari</p>
+
+<h4 id="date-06-february-2022">Date: 06 February, 2022</h4>
+
+<h4 id="country-21">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07srhs2022pdfpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/srhs2022pdf.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/srhs2022pdf.pdf</a></h4>
+
+<h4 id="type-document-10">Type: document</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-e-wallets-online-lending-cryptocurrency">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘E-wallets’, ‘Online lending’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-44">Snippets:</h4>
+<ul>
+  <li>unequal. Digital technologies create opportunities for access to educa- tion, breaking cycles of poverty and social needs for children and young people.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="unlocking-the-potential-of-free-connectivity-in-public-spaces">Unlocking the potential of free connectivity in public spaces</h2>
+
+<h4 id="date-28-september-2023">Date: 28 September, 2023</h4>
+
+<h4 id="country-22">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogunlocking-potential-free-connectivity-public-spaces">URL: <a href="https://www.undp.org/acceleratorlabs/blog/unlocking-potential-free-connectivity-public-spaces" target="_blank">https://www.undp.org/acceleratorlabs/blog/unlocking-potential-free-connectivity-public-spaces</a></h4>
+
+<h4 id="type-blog-13">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-8">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-45">Snippets:</h4>
+<ul>
+  <li>perseverance from all participants. Therefore, I am convinced that these initial findings emphasize the importance of persistent digital literacy programs
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="moving-from-access-to-accessibility-the-deception-of-the-digital-divide-in-development">Moving from Access to Accessibility: The Deception of the Digital Divide in Development</h2>
+
+<h4 id="date-10-february-2021">Date: 10 February, 2021</h4>
+
+<h4 id="country-south-africa-france-united-states-of-america-netherlands">Country: South Africa, France, United States of America, Netherlands</h4>
+
+<h4 id="url-httpswwwundporgsouth-africablogmoving-access-accessibility-deception-digital-divide-development">URL: <a href="https://www.undp.org/south-africa/blog/moving-access-accessibility-deception-digital-divide-development" target="_blank">https://www.undp.org/south-africa/blog/moving-access-accessibility-deception-digital-divide-development</a></h4>
+
+<h4 id="type-blog-14">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-4">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-46">Snippets:</h4>
+<ul>
+  <li>and digital literacy in ways that promote success for communities and individuals trying to navigate and participate in the digital world. To foster
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ensuring-equitable-digital-futures-for-everyone-2">Ensuring Equitable Digital Futures for Everyone</h2>
+
+<h4 id="date-15-february-2022-2">Date: 15 February, 2022</h4>
+
+<h4 id="country-somalia-united-states-of-america">Country: Somalia, United States of America</h4>
+
+<h4 id="url-httpswwwundporgsomaliapress-releasesensuring-equitable-digital-futures-everyone">URL: <a href="https://www.undp.org/somalia/press-releases/ensuring-equitable-digital-futures-everyone" target="_blank">https://www.undp.org/somalia/press-releases/ensuring-equitable-digital-futures-everyone</a></h4>
+
+<h4 id="type-press-release-3">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-5">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-47">Snippets:</h4>
+<ul>
+  <li>to escape poverty and assisting 500 million people to gain access to clean energy. Digital technology can advance democracy and human rights by boosting
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-digital-economy">Informal businesses and the shift to digital: What we learned from small enterprises joining the digital economy</h2>
+
+<h4 id="date-29-august-2023">Date: 29 August, 2023</h4>
+
+<h4 id="country-23">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsbloginformal-businesses-and-shift-digital-what-we-learned-small-enterprises-joining-digital-economy">URL: <a href="https://www.undp.org/acceleratorlabs/blog/informal-businesses-and-shift-digital-what-we-learned-small-enterprises-joining-digital-economy" target="_blank">https://www.undp.org/acceleratorlabs/blog/informal-businesses-and-shift-digital-what-we-learned-small-enterprises-joining-digital-economy</a></h4>
+
+<h4 id="type-blog-15">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-e-commerce-digital-identity">Tags: [‘Digital Literacy’, ‘E-commerce’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-48">Snippets:</h4>
+<ul>
+  <li>80 percent of respondents report that digital tools have been of at least some help. Around 65 percent report using them to find new customers;
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="from-ideas-to-impact-how-innovation-is-promoting-digital-skills-for-youth-for-economic-progress">From ideas to impact: how innovation is promoting digital skills for youth for economic progress</h2>
+
+<h4 id="date-20-april-2023-1">Date: 20 April, 2023</h4>
+
+<h4 id="country-kazakhstan">Country: Kazakhstan</h4>
+
+<h4 id="url-httpswwwundporgkazakhstanblogideas-impact-how-innovation-promoting-digital-skills-youth-economic-progress">URL: <a href="https://www.undp.org/kazakhstan/blog/ideas-impact-how-innovation-promoting-digital-skills-youth-economic-progress" target="_blank">https://www.undp.org/kazakhstan/blog/ideas-impact-how-innovation-promoting-digital-skills-youth-economic-progress</a></h4>
+
+<h4 id="type-blog-16">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-1">Tags: [‘Digital Literacy’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-49">Snippets:</h4>
+<ul>
+  <li>about creating an impact.As a digital advocate, it was important for me to make sure that a digital agenda is included in Knowledge Week as a cross-
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-1">Skip to main content About us</h2>
+<p>Our leadership
+Funding and</p>
+
+<h4 id="date-01-may-2024-4">Date: 01 May, 2024</h4>
+
+<h4 id="country-mongolia-4">Country: Mongolia</h4>
+
+<h4 id="url-httpswwwundporgmongoliasustainable-development-goals">URL: <a href="https://www.undp.org/mongolia/sustainable-development-goals" target="_blank">https://www.undp.org/mongolia/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-4">Type: webpage</h4>
+
+<h4 id="tags-microfinance-village-banks-digital-literacy-financial-literacy-remittances">Tags: [‘Microfinance’, ‘Village Banks’, ‘Digital Literacy’, ‘Financial literacy’, ‘Remittances’]</h4>
+
+<h4 id="snippets-50">Snippets:</h4>
+<ul>
+  <li>areas. 103 million 103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-undp-in-djibouti">Skip to main content UNDP in Djibouti</h2>
+<p>Leadership
+Partnerships</p>
+
+<h4 id="date-01-may-2024-5">Date: 01 May, 2024</h4>
+
+<h4 id="country-djibouti">Country: Djibouti</h4>
+
+<h4 id="url-httpswwwundporgdjiboutisustainable-development-goals">URL: <a href="https://www.undp.org/djibouti/sustainable-development-goals" target="_blank">https://www.undp.org/djibouti/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-5">Type: webpage</h4>
+
+<h4 id="tags-microfinance-village-banks-digital-literacy-financial-literacy-financial-services-financial-empowerment">Tags: [‘Microfinance’, ‘Village Banks’, ‘Digital Literacy’, ‘Financial literacy’, ‘Financial services’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-51">Snippets:</h4>
+<ul>
+  <li>youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and adolescents are not achieving
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-2">Skip to main content About us</h2>
+<p>Legal framework About us
+UNDP</p>
+
+<h4 id="date-01-may-2024-6">Date: 01 May, 2024</h4>
+
+<h4 id="country-liberia">Country: Liberia</h4>
+
+<h4 id="url-httpswwwundporgliberiasustainable-development-goals">URL: <a href="https://www.undp.org/liberia/sustainable-development-goals" target="_blank">https://www.undp.org/liberia/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-6">Type: webpage</h4>
+
+<h4 id="tags-microfinance-digital-literacy-financial-literacy-financial-empowerment-inclusive-banking">Tags: [‘Microfinance’, ‘Digital Literacy’, ‘Financial literacy’, ‘Financial empowerment’, ‘Inclusive banking’]</h4>
+
+<h4 id="snippets-52">Snippets:</h4>
+<ul>
+  <li>million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and adolescents are not achieving
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digitalization">Digitalization</h2>
+
+<h4 id="date-16-march-2022">Date: 16 March, 2022</h4>
+
+<h4 id="country-24">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1029">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1029" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1029</a></h4>
+
+<h4 id="type-action-plan-7">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-1">Tags: [‘Digital Literacy’, ‘Digital Inclusion’]</h4>
+
+<h4 id="snippets-53">Snippets:</h4>
+<ul>
+  <li>instance, the Lab will use the Digital Readiness Assessment, a survey-based tool to provide rapid, high-level insights into a country’s digital
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ensuring-equitable-digital-futures-for-everyone-3">Ensuring Equitable Digital Futures for Everyone</h2>
+
+<h4 id="date-25-february-2022">Date: 25 February, 2022</h4>
+
+<h4 id="country-uzbekistan-uganda-kazakhstan">Country: Uzbekistan, Uganda, Kazakhstan</h4>
+
+<h4 id="url-httpswwwundporguzbekistanpress-releasesensuring-equitable-digital-futures-everyone">URL: <a href="https://www.undp.org/uzbekistan/press-releases/ensuring-equitable-digital-futures-everyone" target="_blank">https://www.undp.org/uzbekistan/press-releases/ensuring-equitable-digital-futures-everyone</a></h4>
+
+<h4 id="type-press-release-4">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-6">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-54">Snippets:</h4>
+<ul>
+  <li>Digital technology can advance democracy and human rights by boosting civic engagement and political participation, for instance. Or consider
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="conectando-con-nuevas-capacidades-una-canasta-básica-digital-parte-2">Conectando con nuevas capacidades: una canasta básica digital (Parte 2)</h2>
+
+<h4 id="date-25-july-2022">Date: 25 July, 2022</h4>
+
+<h4 id="country-el-salvador">Country: El Salvador</h4>
+
+<h4 id="url-httpswwwundporgesel-salvadorblogconectando-con-nuevas-capacidades-una-canasta-basica-digital-parte-2">URL: <a href="https://www.undp.org/es/el-salvador/blog/conectando-con-nuevas-capacidades-una-canasta-basica-digital-parte-2" target="_blank">https://www.undp.org/es/el-salvador/blog/conectando-con-nuevas-capacidades-una-canasta-basica-digital-parte-2</a></h4>
+
+<h4 id="type-blog-17">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-wallets">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-55">Snippets:</h4>
+<ul>
+  <li>digitales son importantes métricas de inclusión. En esta segunda publicación, narro los principales hallazgos de dos experimentos relacionados con el reto de
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-digital-economy-1">Informal businesses and the shift to digital: what we learned from small enterprises joining the digital economy</h2>
+
+<h4 id="date-30-august-2023">Date: 30 August, 2023</h4>
+
+<h4 id="country-netherlands-bangladesh-ecuador-guatemala-ethiopia-haiti-morocco-peru-sweden-algeria-uganda-united-kingdom-malaysia-el-salvador-fiji-vanuatu-mexico-namibia-syria-uzbekistan">Country: Netherlands, Bangladesh, Ecuador, Guatemala, Ethiopia, Haiti, Morocco, Peru, Sweden, Algeria, Uganda, United Kingdom, Malaysia, El Salvador, Fiji, Vanuatu, Mexico, Namibia, Syria, Uzbekistan</h4>
+
+<h4 id="url-httpsacclabsmediumcominformal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5sourceuser_profile5-">URL: <a href="https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5?source=user_profile---------5----------------------------" target="_blank">https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5?source=user_profile———5—————————-</a></h4>
+
+<h4 id="type-blog-18">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-2">Tags: [‘Digital Literacy’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-56">Snippets:</h4>
+<ul>
+  <li>benefits of the digitalization of micro and small enterprises. Female entrepreneurs and entrepreneurs with weaker digital skills find themselves at a
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-digital-economy-2">Informal businesses and the shift to digital: what we learned from small enterprises joining the digital economy</h2>
+
+<h4 id="date-30-august-2023-1">Date: 30 August, 2023</h4>
+
+<h4 id="country-netherlands-bangladesh-ecuador-guatemala-ethiopia-haiti-morocco-peru-sweden-algeria-uganda-united-kingdom-malaysia-el-salvador-fiji-vanuatu-mexico-namibia-syria-uzbekistan-1">Country: Netherlands, Bangladesh, Ecuador, Guatemala, Ethiopia, Haiti, Morocco, Peru, Sweden, Algeria, Uganda, United Kingdom, Malaysia, El Salvador, Fiji, Vanuatu, Mexico, Namibia, Syria, Uzbekistan</h4>
+
+<h4 id="url-httpsacclabsmediumcominformal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5">URL: <a href="https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5" target="_blank">https://acclabs.medium.com/informal-businesses-and-the-shift-to-digital-what-we-learned-from-small-enterprises-joining-the-ff684b9c37c5</a></h4>
+
+<h4 id="type-blog-19">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-3">Tags: [‘Digital Literacy’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-57">Snippets:</h4>
+<ul>
+  <li>benefits of the digitalization of micro and small enterprises. Female entrepreneurs and entrepreneurs with weaker digital skills find themselves at a
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="open-government-data-policies-and-practices-select-country-cases">Open [Government] Data Policies and Practices: select country cases</h2>
+
+<h4 id="date-16-march-2023">Date: 16 March, 2023</h4>
+
+<h4 id="country-kazakhstan-1">Country: Kazakhstan</h4>
+
+<h4 id="url-httpswwwundporgkazakhstanpublicationsopen-government-data-policies-and-practices-select-country-cases">URL: <a href="https://www.undp.org/kazakhstan/publications/open-government-data-policies-and-practices-select-country-cases" target="_blank">https://www.undp.org/kazakhstan/publications/open-government-data-policies-and-practices-select-country-cases</a></h4>
+
+<h4 id="type-publications-6">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-7">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-58">Snippets:</h4>
+<ul>
+  <li>potential global power of digital technology and help one another to become even better digital governments, faster and more efficiently through sharing
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="designing-the-uganda-national-digital-transformation-roadmap-1">Designing the Uganda National Digital Transformation Roadmap</h2>
+
+<h4 id="date-19-october-2023">Date: 19 October, 2023</h4>
+
+<h4 id="country-25">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1870">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1870" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1870</a></h4>
+
+<h4 id="type-action-plan-8">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-2">Tags: [‘Digital Literacy’, ‘Digital Inclusion’]</h4>
+
+<h4 id="snippets-59">Snippets:</h4>
+<ul>
+  <li>curb cybercrime? · Are the schools ready for the digital skilling programme? To what stage(s) in the learning cycle does your learning question relate?
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-3">Skip to main content About us</h2>
+<p>Leadership
+Legal Framework</p>
+
+<h4 id="date-01-may-2024-7">Date: 01 May, 2024</h4>
+
+<h4 id="country-26">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-0723384kuwait_vnr_finalpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/23384Kuwait_VNR_FINAL.PDF" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/23384Kuwait_VNR_FINAL.PDF</a></h4>
+
+<h4 id="type-webpage-7">Type: webpage</h4>
+
+<h4 id="tags-microfinance-digital-literacy-financial-literacy-financial-empowerment">Tags: [‘Microfinance’, ‘Digital Literacy’, ‘Financial literacy’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-60">Snippets:</h4>
+<ul>
+  <li>103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and adolescents are
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023">Date: 25 April, 2023</h4>
+
+<h4 id="country-27">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_4pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_4.pdf</a></h4>
+
+<h4 id="type-document-11">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-61">Snippets:</h4>
+<ul>
+  <li>implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-1">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-1">Date: 25 April, 2023</h4>
+
+<h4 id="country-28">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_2pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_2.pdf</a></h4>
+
+<h4 id="type-document-12">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-financial-empowerment">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-62">Snippets:</h4>
+<ul>
+  <li>implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-2">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-2">Date: 25 April, 2023</h4>
+
+<h4 id="country-29">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_0pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_0.pdf</a></h4>
+
+<h4 id="type-document-13">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-peer-to-peer-lending-financial-services-e-wallets-digital-wallets">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Peer-to-peer lending’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-63">Snippets:</h4>
+<ul>
+  <li>implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-센터-개요">Skip to main content 센터 개요</h2>
+<p>조직 센터 개요
+UNDP 서울정책센터는 UN의 국제 개발</p>
+
+<h4 id="date-01-may-2024-8">Date: 01 May, 2024</h4>
+
+<h4 id="country-30">Country:</h4>
+
+<h4 id="url-httpswwwundporgkoseoul-policy-centresustainable-development-goals">URL: <a href="https://www.undp.org/ko/seoul-policy-centre/sustainable-development-goals" target="_blank">https://www.undp.org/ko/seoul-policy-centre/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-8">Type: webpage</h4>
+
+<h4 id="tags-microfinance-lending-groups-digital-literacy-financial-literacy-remittances">Tags: [‘Microfinance’, ‘Lending Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Remittances’]</h4>
+
+<h4 id="snippets-64">Snippets:</h4>
+<ul>
+  <li>103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and adolescents are
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="human-development-report-2016-human-development-for-everyone">Human Development Report 2016: Human Development for Everyone</h2>
+
+<h4 id="date-19-january-2017">Date: 19 January, 2017</h4>
+
+<h4 id="country-31">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2022-07undp-hdr16-report-enpdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-07/UNDP-HDR16-Report-EN.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2022-07/UNDP-HDR16-Report-EN.pdf</a></h4>
+
+<h4 id="type-document-14">Type: document</h4>
+
+<h4 id="tags-mobile-banking-village-banks-lending-groups-saving-groups-digital-literacy-financial-literacy-peer-to-peer-lending-financial-services-smart-contracts-remittances-access-to-credit-unbanked-e-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency-fintech">Tags: [‘Mobile banking’, ‘Village Banks’, ‘Lending Groups’, ‘Saving Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-65">Snippets:</h4>
+<ul>
+  <li>read and write: The global literacy rate among people ages 15–24 was 91 percent in 2015, up from 83 percent in 1995. The gap in literacy between young men
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-4">Skip to main content About us</h2>
+<p>Leadership
+Legal Framework</p>
+
+<h4 id="date-01-may-2024-9">Date: 01 May, 2024</h4>
+
+<h4 id="country-kuwait">Country: Kuwait</h4>
+
+<h4 id="url-httpswwwundporgkuwaitsustainable-development-goals">URL: <a href="https://www.undp.org/kuwait/sustainable-development-goals" target="_blank">https://www.undp.org/kuwait/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-9">Type: webpage</h4>
+
+<h4 id="tags-microfinance-digital-literacy-financial-literacy">Tags: [‘Microfinance’, ‘Digital Literacy’, ‘Financial literacy’]</h4>
+
+<h4 id="snippets-66">Snippets:</h4>
+<ul>
+  <li>103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and adolescents are
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-3">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-3">Date: 25 April, 2023</h4>
+
+<h4 id="country-32">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_5pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_5.pdf</a></h4>
+
+<h4 id="type-document-15">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-financial-empowerment-1">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-67">Snippets:</h4>
+<ul>
+  <li>implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-4">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-4">Date: 25 April, 2023</h4>
+
+<h4 id="country-33">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_3pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_3.pdf</a></h4>
+
+<h4 id="type-document-16">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-1">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-68">Snippets:</h4>
+<ul>
+  <li>implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="1-5">1</h2>
+<p>ANNUAL REPORT 2022
+UNITED NATIONS
+DEVELOPMENT PROGRAMME
+23
+HOPEFUL/4
+ALREADY HERE/12
+MADE POSSI</p>
+
+<h4 id="date-25-april-2023-5">Date: 25 April, 2023</h4>
+
+<h4 id="country-34">Country:</h4>
+
+<h4 id="url-httpswwwundporgsitesgfileszskgke326files2023-04annual-report-2022_1pdf">URL: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf" target="_blank">https://www.undp.org/sites/g/files/zskgke326/files/2023-04/Annual-Report-2022_1.pdf</a></h4>
+
+<h4 id="type-document-17">Type: document</h4>
+
+<h4 id="tags-lending-groups-digital-literacy-digital-inclusion-financial-services-e-wallets-digital-wallets-financial-empowerment-2">Tags: [‘Lending Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Financial services’, ‘E-wallets’, ‘Digital Wallets’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-69">Snippets:</h4>
+<ul>
+  <li>implemented at a national level. But without intentional efforts to be inclusive and uphold rights, digitalization can reinforce existing inequities in
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-5">Skip to main content About Us</h2>
+<p>Funding and Delivery Legal</p>
+
+<h4 id="date-01-may-2024-10">Date: 01 May, 2024</h4>
+
+<h4 id="country-mozambique">Country: Mozambique</h4>
+
+<h4 id="url-httpswwwundporgmozambiquesustainable-development-goals">URL: <a href="https://www.undp.org/mozambique/sustainable-development-goals" target="_blank">https://www.undp.org/mozambique/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-10">Type: webpage</h4>
+
+<h4 id="tags-microfinance-digital-literacy-financial-literacy-remittances">Tags: [‘Microfinance’, ‘Digital Literacy’, ‘Financial literacy’, ‘Remittances’]</h4>
+
+<h4 id="snippets-70">Snippets:</h4>
+<ul>
+  <li>age live in conflict-affected areas. 103 million 103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="sumar-esfuerzos-para-multiplicar-lo-que-está-bien-el-segundo-año-del-co_lab-en-números">Sumar esfuerzos para multiplicar lo que está bien. El segundo año del Co_Lab en números</h2>
+
+<h4 id="date-01-may-2024-11">Date: 01 May, 2024</h4>
+
+<h4 id="country-argentina">Country: Argentina</h4>
+
+<h4 id="url-httpswwwundporgesargentinablogsumar-esfuerzos-para-multiplicar-lo-que-esta-bien-el-segundo-ano-del-co-lab-en-numeros">URL: <a href="https://www.undp.org/es/argentina/blog/sumar-esfuerzos-para-multiplicar-lo-que-esta-bien-el-segundo-ano-del-co-lab-en-numeros" target="_blank">https://www.undp.org/es/argentina/blog/sumar-esfuerzos-para-multiplicar-lo-que-esta-bien-el-segundo-ano-del-co-lab-en-numeros</a></h4>
+
+<h4 id="type-blog-20">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-digital-wallets-2">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-71">Snippets:</h4>
+<ul>
+  <li>digitales representaron un desafío clave porque se volvieron la condición necesaria para acceder a muchos recursos. Aunque las operaciones digitales estaban
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-6">Skip to main content About us</h2>
+<p>Funding and delivery
+Legal</p>
+
+<h4 id="date-01-may-2024-12">Date: 01 May, 2024</h4>
+
+<h4 id="country-nigeria">Country: Nigeria</h4>
+
+<h4 id="url-httpswwwundporgnigeriasustainable-development-goals">URL: <a href="https://www.undp.org/nigeria/sustainable-development-goals" target="_blank">https://www.undp.org/nigeria/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-11">Type: webpage</h4>
+
+<h4 id="tags-digital-literacy-financial-literacy-financial-services-remittances-financial-empowerment">Tags: [‘Digital Literacy’, ‘Financial literacy’, ‘Financial services’, ‘Remittances’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-72">Snippets:</h4>
+<ul>
+  <li>school age live in conflict-affected areas. 103 million 103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women.
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="smart-cities-portfolio-integrating-digital-twin-and-open-innovation-for-su">Smart Cities Portfolio: Integrating Digital Twin and Open Innovation for Su…</h2>
+
+<h4 id="date-06-december-2023">Date: 06 December, 2023</h4>
+
+<h4 id="country-35">Country:</h4>
+
+<h4 id="url-httpslearningplanssdg-innovation-commonsorgenviewpadid1919">URL: <a href="https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1919" target="_blank">https://learningplans.sdg-innovation-commons.org/en/view/pad?id=1919</a></h4>
+
+<h4 id="type-action-plan-9">Type: action plan</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-smart-contracts">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Smart contracts’]</h4>
+
+<h4 id="snippets-73">Snippets:</h4>
+<ul>
+  <li>to digital twin technology and its impact on urban planning. Value: Enhances the understanding of complex data and trends, making it easier for
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="by-asking-one-gets-to-san-sebastian">By asking one gets to San Sebastian</h2>
+
+<h4 id="date-01-may-2024-13">Date: 01 May, 2024</h4>
+
+<h4 id="country-bolivia-spain-italy-united-states-of-america-canada-argentina">Country: Bolivia, Spain, Italy, United States of America, Canada, Argentina</h4>
+
+<h4 id="url-httpswwwundporgesboliviablogasking-one-gets-san-sebastian">URL: <a href="https://www.undp.org/es/bolivia/blog/asking-one-gets-san-sebastian" target="_blank">https://www.undp.org/es/bolivia/blog/asking-one-gets-san-sebastian</a></h4>
+
+<h4 id="type-blog-21">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-digital-wallets-online-lending">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-74">Snippets:</h4>
+<ul>
+  <li>a place: San Sebastian”. Can digital tools play a role in Digital Inclusion and in closing the technological gap of the inhabitants of a neighborhood?
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="building-a-resilient-education-system-with-digital-solutions-in-eswatini">Building a resilient education system with digital solutions in Eswatini</h2>
+
+<h4 id="date-20-august-2020">Date: 20 August, 2020</h4>
+
+<h4 id="country-eswatini">Country: Eswatini</h4>
+
+<h4 id="url-httpswwwundporgeswatiniblogbuilding-resilient-education-system-digital-solutions-eswatini">URL: <a href="https://www.undp.org/eswatini/blog/building-resilient-education-system-digital-solutions-eswatini" target="_blank">https://www.undp.org/eswatini/blog/building-resilient-education-system-digital-solutions-eswatini</a></h4>
+
+<h4 id="type-blog-22">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-9">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-75">Snippets:</h4>
+<ul>
+  <li>raised several pertinent questions. Are digital technologies enough to build a resilient educational system for Eswatini? What role can partners such
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="tourism-diagnostic-report-saint-kitts-and-nevis">Tourism Diagnostic Report: Saint Kitts and Nevis</h2>
+
+<h4 id="date-16-august-2022">Date: 16 August, 2022</h4>
+
+<h4 id="country-barbados">Country: Barbados</h4>
+
+<h4 id="url-httpswwwundporgbarbadospublicationstourism-diagnostic-report-saint-kitts-and-nevis">URL: <a href="https://www.undp.org/barbados/publications/tourism-diagnostic-report-saint-kitts-and-nevis" target="_blank">https://www.undp.org/barbados/publications/tourism-diagnostic-report-saint-kitts-and-nevis</a></h4>
+
+<h4 id="type-publications-7">Type: publications</h4>
+
+<h4 id="tags-microfinance-digital-literacy-digital-inclusion-digital-identity-access-to-credit-e-wallets-digital-wallets-cryptocurrency-fintech">Tags: [‘Microfinance’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Access to credit’, ‘E-wallets’, ‘Digital Wallets’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-76">Snippets:</h4>
+<ul>
+  <li>per 100 inhabitants. While it is difficult to assess digital skills without the assessment of individuals, the lack of online selling could be
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="reinventing-development-work-the-role-of-digital-transformation">Reinventing development work: the role of Digital Transformation</h2>
+
+<h4 id="date-12-april-2021">Date: 12 April, 2021</h4>
+
+<h4 id="country-guinea-bissau-united-states-of-america-angola-cape-verde-são-tomé-and-príncipe-mozambique-portugal-south-korea">Country: Guinea-Bissau, United States of America, Angola, Cape Verde, São Tomé and Príncipe, Mozambique, Portugal, South Korea</h4>
+
+<h4 id="url-httpswwwundporgguinea-bissaublogreinventing-development-work-role-digital-transformation">URL: <a href="https://www.undp.org/guinea-bissau/blog/reinventing-development-work-role-digital-transformation" target="_blank">https://www.undp.org/guinea-bissau/blog/reinventing-development-work-role-digital-transformation</a></h4>
+
+<h4 id="type-blog-23">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-10">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-77">Snippets:</h4>
+<ul>
+  <li>of societal life. New technologies related to digital
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-អំពីយើង-អំពីយើង">Skip to main content អំពីយើង អំពីយើង</h2>
+<p>ស្វែងយល់បន្ថែមអំពីយូអិ</p>
+
+<h4 id="date-30-april-2024">Date: 30 April, 2024</h4>
+
+<h4 id="country-cambodia">Country: Cambodia</h4>
+
+<h4 id="url-httpswwwundporgkmcambodiasustainable-development-goals">URL: <a href="https://www.undp.org/km/cambodia/sustainable-development-goals" target="_blank">https://www.undp.org/km/cambodia/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-12">Type: webpage</h4>
+
+<h4 id="tags-microfinance-village-banks-lending-groups-digital-literacy-financial-literacy-peer-to-peer-lending-remittances-online-lending">Tags: [‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Peer-to-peer lending’, ‘Remittances’, ‘Online lending’]</h4>
+
+<h4 id="snippets-78">Snippets:</h4>
+<ul>
+  <li>live in conflict-affected areas. 103 million 103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="beitrag-der-g20-zur-agenda-2030-in-zeiten-von-krisen-2019-2023">Beitrag der G20 zur Agenda 2030 in Zeiten von Krisen 2019-2023</h2>
+
+<h4 id="date-01-november-2023">Date: 01 November, 2023</h4>
+
+<h4 id="country-germany-1">Country: Germany</h4>
+
+<h4 id="url-httpswwwundporgdegermanypublicationsbeitrag-der-g20-zur-agenda-2030-zeiten-von-krisen-2019-2023">URL: <a href="https://www.undp.org/de/germany/publications/beitrag-der-g20-zur-agenda-2030-zeiten-von-krisen-2019-2023" target="_blank">https://www.undp.org/de/germany/publications/beitrag-der-g20-zur-agenda-2030-zeiten-von-krisen-2019-2023</a></h4>
+
+<h4 id="type-publications-8">Type: publications</h4>
+
+<h4 id="tags-microfinance-lending-groups-saving-groups-digital-literacy-digital-inclusion-peer-to-peer-lending-financial-services-smart-contracts-remittances-access-to-credit-unbanked-e-wallets-online-lending-financial-empowerment-inclusive-banking-cryptocurrency">Tags: [‘Microfinance’, ‘Lending Groups’, ‘Saving Groups’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Peer-to-peer lending’, ‘Financial services’, ‘Smart contracts’, ‘Remittances’, ‘Access to credit’, ‘Unbanked’, ‘E-wallets’, ‘Online lending’, ‘Financial empowerment’, ‘Inclusive banking’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-79">Snippets:</h4>
+<ul>
+  <li>attention to those vulnerable to school closure, while also improving the digital literacy skills of all learners, with a specific focus on youth,
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-7">Skip to main content About us</h2>
+<p>Funding and delivery
+Legal</p>
+
+<h4 id="date-01-may-2024-14">Date: 01 May, 2024</h4>
+
+<h4 id="country-eritrea">Country: Eritrea</h4>
+
+<h4 id="url-httpswwwundporgeritreasustainable-development-goals">URL: <a href="https://www.undp.org/eritrea/sustainable-development-goals" target="_blank">https://www.undp.org/eritrea/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-13">Type: webpage</h4>
+
+<h4 id="tags-microfinance-village-banks-lending-groups-digital-literacy-financial-literacy-remittances-online-lending-financial-empowerment">Tags: [‘Microfinance’, ‘Village Banks’, ‘Lending Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Remittances’, ‘Online lending’, ‘Financial empowerment’]</h4>
+
+<h4 id="snippets-80">Snippets:</h4>
+<ul>
+  <li>worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10 children and adolescents are not achieving a
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="sustainable-and-digital-agriculture">Sustainable and Digital Agriculture</h2>
+
+<h4 id="date-01-may-2024-15">Date: 01 May, 2024</h4>
+
+<h4 id="country-36">Country:</h4>
+
+<h4 id="url-httpswwwundporgsgtechcentresustainable-and-digital-agriculture-1">URL: <a href="https://www.undp.org/sgtechcentre/sustainable-and-digital-agriculture-1" target="_blank">https://www.undp.org/sgtechcentre/sustainable-and-digital-agriculture-1</a></h4>
+
+<h4 id="type-webpage-14">Type: webpage</h4>
+
+<h4 id="tags-digital-literacy-11">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-81">Snippets:</h4>
+<ul>
+  <li>breakdown of quantifiable benefits of various digital farming technologies and inform them of the best methods through which these technologies
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="photo-credit-darkhanbaatar-baasanjav">Photo credit: Darkhanbaatar Baasanjav</h2>
+<p>Across the world,</p>
+
+<h4 id="date-30-april-2024-1">Date: 30 April, 2024</h4>
+
+<h4 id="country-mongolia-netherlands">Country: Mongolia, Netherlands</h4>
+
+<h4 id="url-httpswwwundporgmongoliapress-releasesinnovating-public-sector">URL: <a href="https://www.undp.org/mongolia/press-releases/innovating-public-sector" target="_blank">https://www.undp.org/mongolia/press-releases/innovating-public-sector</a></h4>
+
+<h4 id="type-press-release-5">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-12">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-82">Snippets:</h4>
+<ul>
+  <li>Microsoft Digital Literacy contents and incorporating Web Content Accessibility Guidelines (WCAG) to popular local websites and applications. As part of the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-8">Skip to main content About Us</h2>
+<p>Our Team
+Legal Framework
+Funding</p>
+
+<h4 id="date-01-may-2024-16">Date: 01 May, 2024</h4>
+
+<h4 id="country-37">Country:</h4>
+
+<h4 id="url-httpswwwundporgsouth-sudansustainable-development-goals">URL: <a href="https://www.undp.org/south-sudan/sustainable-development-goals" target="_blank">https://www.undp.org/south-sudan/sustainable-development-goals</a></h4>
+
+<h4 id="type-webpage-15">Type: webpage</h4>
+
+<h4 id="tags-microfinance-saving-groups-digital-literacy-financial-literacy-smart-contracts-remittances-cryptocurrency-fintech">Tags: [‘Microfinance’, ‘Saving Groups’, ‘Digital Literacy’, ‘Financial literacy’, ‘Smart contracts’, ‘Remittances’, ‘Cryptocurrency’, ‘Fintech’]</h4>
+
+<h4 id="snippets-83">Snippets:</h4>
+<ul>
+  <li>affected areas. 103 million 103 million youth worldwide lack basic literacy skills, and more than 60 percent of them are women. 6 of 10 6 out of 10
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="géographie-cultures-et-informalité-à-lère-du-digital">Géographie, cultures et informalité à l’ère du digital</h2>
+
+<h4 id="date-28-april-2022">Date: 28 April, 2022</h4>
+
+<h4 id="country-guinea">Country: Guinea</h4>
+
+<h4 id="url-httpswwwundporgfrguineabloggeographie-cultures-et-informalite-lere-du-digital">URL: <a href="https://www.undp.org/fr/guinea/blog/geographie-cultures-et-informalite-lere-du-digital" target="_blank">https://www.undp.org/fr/guinea/blog/geographie-cultures-et-informalite-lere-du-digital</a></h4>
+
+<h4 id="type-blog-24">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-digital-wallets-3">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-84">Snippets:</h4>
+<ul>
+  <li>culturels). Cette cartographie implique des perceptions diverses du digital. Pour les ruraux, le digital doit-être une valeur, c’est-à-dire un canal
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="widening-opportunity-with-accessibility">Widening Opportunity with Accessibility</h2>
+
+<h4 id="date-19-may-2022">Date: 19 May, 2022</h4>
+
+<h4 id="country-thailand">Country: Thailand</h4>
+
+<h4 id="url-httpswwwundporgthailandblogwidening-opportunity-accessibility">URL: <a href="https://www.undp.org/thailand/blog/widening-opportunity-accessibility" target="_blank">https://www.undp.org/thailand/blog/widening-opportunity-accessibility</a></h4>
+
+<h4 id="type-blog-25">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-13">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-85">Snippets:</h4>
+<ul>
+  <li>to fully and equally participate in meetings. Digital technology also creates new job opportunities for which several people with disabilities have
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="con-un-poco-de-ayuda-de-mis-vecinos">Con un poco de ayuda de mis vecinos</h2>
+
+<h4 id="date-03-february-2022">Date: 03 February, 2022</h4>
+
+<h4 id="country-argentina-1">Country: Argentina</h4>
+
+<h4 id="url-httpswwwundporgesargentinapublicationscon-un-poco-de-ayuda-de-mis-vecinos-0">URL: <a href="https://www.undp.org/es/argentina/publications/con-un-poco-de-ayuda-de-mis-vecinos-0" target="_blank">https://www.undp.org/es/argentina/publications/con-un-poco-de-ayuda-de-mis-vecinos-0</a></h4>
+
+<h4 id="type-publications-9">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-digital-wallets-4">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-86">Snippets:</h4>
+<ul>
+  <li>de herramientas digitales y 16,7% por ambos motivos), lo cual da cuenta de las problematicas asociadas al fomento en la poblacion de Concepcién
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-sri-lanka-proposed-areas-of-support-for-the-government-of-sri-lanka-in-combating-covid-19">UNDP Sri Lanka: Proposed areas of support for the Government of Sri Lanka in combating COVID-19</h2>
+
+<h4 id="date-06-may-2020">Date: 06 May, 2020</h4>
+
+<h4 id="country-sri-lanka">Country: Sri Lanka</h4>
+
+<h4 id="url-httpswwwundporgsrilankapublicationsundp-sri-lanka-proposed-areas-support-government-sri-lanka-combating-covid-19">URL: <a href="https://www.undp.org/srilanka/publications/undp-sri-lanka-proposed-areas-support-government-sri-lanka-combating-covid-19" target="_blank">https://www.undp.org/srilanka/publications/undp-sri-lanka-proposed-areas-support-government-sri-lanka-combating-covid-19</a></h4>
+
+<h4 id="type-publications-10">Type: publications</h4>
+
+<h4 id="tags-digital-literacy-digital-identity-e-wallets-financial-empowerment-cryptocurrency">Tags: [‘Digital Literacy’, ‘Digital identity’, ‘E-wallets’, ‘Financial empowerment’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-87">Snippets:</h4>
+<ul>
+  <li>support implementation of digital interventions that facilitate remote learning for schools, universities, vocational training institutes, and find digital
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="looking-ahead-how-will-covid-19-shape-the-future-of-work-in-kenya">Looking ahead: how will COVID-19 shape the future of work in Kenya?</h2>
+
+<h4 id="date-16-july-2020">Date: 16 July, 2020</h4>
+
+<h4 id="country-kenya">Country: Kenya</h4>
+
+<h4 id="url-httpswwwundporgkenyabloglooking-ahead-how-will-covid-19-shape-future-work-kenya">URL: <a href="https://www.undp.org/kenya/blog/looking-ahead-how-will-covid-19-shape-future-work-kenya" target="_blank">https://www.undp.org/kenya/blog/looking-ahead-how-will-covid-19-shape-future-work-kenya</a></h4>
+
+<h4 id="type-blog-26">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-wallets-cryptocurrency">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Wallets’, ‘Cryptocurrency’]</h4>
+
+<h4 id="snippets-88">Snippets:</h4>
+<ul>
+  <li>using digital platforms Technology is one of the ways in which learning is becoming democratized: e-learning is easily scaleable, complements ‘
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ensuring-equitable-digital-futures-for-everyone-4">Ensuring Equitable Digital Futures for Everyone</h2>
+
+<h4 id="date-16-february-2022">Date: 16 February, 2022</h4>
+
+<h4 id="country-kazakhstan-united-states-of-america">Country: Kazakhstan, United States of America</h4>
+
+<h4 id="url-httpswwwundporgkazakhstanpress-releasesensuring-equitable-digital-futures-everyone">URL: <a href="https://www.undp.org/kazakhstan/press-releases/ensuring-equitable-digital-futures-everyone" target="_blank">https://www.undp.org/kazakhstan/press-releases/ensuring-equitable-digital-futures-everyone</a></h4>
+
+<h4 id="type-press-release-6">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-8">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-89">Snippets:</h4>
+<ul>
+  <li>500 million people to gain access to clean energy. Digital technology can advance democracy and human rights by boosting civic engagement and political
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="ensuring-equitable-digital-futures-for-everyone-5">Ensuring Equitable Digital Futures for Everyone</h2>
+
+<h4 id="date-16-february-2022-1">Date: 16 February, 2022</h4>
+
+<h4 id="country-saudi-arabia-united-states-of-america">Country: Saudi Arabia, United States of America</h4>
+
+<h4 id="url-httpswwwundporgsaudi-arabiapress-releasesensuring-equitable-digital-futures-everyone">URL: <a href="https://www.undp.org/saudi-arabia/press-releases/ensuring-equitable-digital-futures-everyone" target="_blank">https://www.undp.org/saudi-arabia/press-releases/ensuring-equitable-digital-futures-everyone</a></h4>
+
+<h4 id="type-press-release-7">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-9">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-90">Snippets:</h4>
+<ul>
+  <li>500 million people to gain access to clean energy. Digital technology can advance democracy and human rights by boosting civic engagement and political
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="skip-to-main-content-about-us-about-us-1">Skip to main content About Us About us</h2>
+<p>The secret to success</p>
+
+<h4 id="date-01-may-2024-17">Date: 01 May, 2024</h4>
+
+<h4 id="country-38">Country:</h4>
+
+<h4 id="url-httpswwwundporgpolicy-centresingaporesustainable-and-digital-agriculture">URL: <a href="https://www.undp.org/policy-centre/singapore/sustainable-and-digital-agriculture" target="_blank">https://www.undp.org/policy-centre/singapore/sustainable-and-digital-agriculture</a></h4>
+
+<h4 id="type-webpage-16">Type: webpage</h4>
+
+<h4 id="tags-digital-literacy-fintech">Tags: [‘Digital Literacy’, ‘Fintech’]</h4>
+
+<h4 id="snippets-91">Snippets:</h4>
+<ul>
+  <li>of quantifiable benefits of various digital farming technologies and inform them of the best methods through which these technologies should be
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="home-guinea-bissau-e-justice-in-guinea-bissau---learning-what">Home Guinea-Bissau E-Justice in Guinea-Bissau - learning what</h2>
+
+<h4 id="date-30-april-2024-2">Date: 30 April, 2024</h4>
+
+<h4 id="country-guinea-bissau-1">Country: Guinea-Bissau</h4>
+
+<h4 id="url-httpswwwundporgguinea-bissaubloge-justice-guinea-bissau-learning-what-works-or-not">URL: <a href="https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-learning-what-works-or-not" target="_blank">https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-learning-what-works-or-not</a></h4>
+
+<h4 id="type-blog-27">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-identity-10">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital identity’]</h4>
+
+<h4 id="snippets-92">Snippets:</h4>
+<ul>
+  <li>survey showed that 92% of the staff never had received any digital training in their work place. After digital training and equipment were received, the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects-2">Digitalizing Informal Business: What Systems Mapping Reveals about Drivers and Effects</h2>
+
+<h4 id="date-07-march-2022-2">Date: 07 March, 2022</h4>
+
+<h4 id="country-39">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogdigitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects">URL: <a href="https://www.undp.org/acceleratorlabs/blog/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects" target="_blank">https://www.undp.org/acceleratorlabs/blog/digitalizing-informal-business-what-systems-mapping-reveals-about-drivers-and-effects</a></h4>
+
+<h4 id="type-blog-28">Type: blog</h4>
+
+<h4 id="tags-mobile-banking-digital-literacy-digital-inclusion-peer-to-peer-lending-e-commerce-remittances-digital-wallets-online-lending">Tags: [‘Mobile banking’, ‘Digital Literacy’, ‘Digital Inclusion’, ‘Peer-to-peer lending’, ‘E-commerce’, ‘Remittances’, ‘Digital Wallets’, ‘Online lending’]</h4>
+
+<h4 id="snippets-93">Snippets:</h4>
+<ul>
+  <li>are advised to support efforts to increase digital literacy(link is external), build infrastructure, and integrate digital products and familiar
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-changing-nature-of-work-30-signals-to-consider-for-a-sustainable-future-1">The Changing Nature of Work: 30 signals to consider for a sustainable future</h2>
+
+<h4 id="date-28-july-2021-1">Date: 28 July, 2021</h4>
+
+<h4 id="country-40">Country:</h4>
+
+<h4 id="url-httpswwwundporgacceleratorlabsblogchanging-nature-work-30-signals-consider-sustainable-future-4">URL: <a href="https://www.undp.org/acceleratorlabs/blog/changing-nature-work-30-signals-consider-sustainable-future-4" target="_blank">https://www.undp.org/acceleratorlabs/blog/changing-nature-work-30-signals-consider-sustainable-future-4</a></h4>
+
+<h4 id="type-blog-29">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-digital-inclusion-digital-wallets-1">Tags: [‘Digital Literacy’, ‘Digital Inclusion’, ‘Digital Wallets’]</h4>
+
+<h4 id="snippets-94">Snippets:</h4>
+<ul>
+  <li>divide lies in gaps in physical access to the Internet and other technologies, as well in digital technology skills and use. Companies must adopt digital
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="2019-kazakhstan-human-development-report">2019 Kazakhstan Human Development Report</h2>
+
+<h4 id="date-28-january-2020">Date: 28 January, 2020</h4>
+
+<h4 id="country-kazakhstan-2">Country: Kazakhstan</h4>
+
+<h4 id="url-httpswwwundporgkazakhstanpublications2019-kazakhstan-human-development-report">URL: <a href="https://www.undp.org/kazakhstan/publications/2019-kazakhstan-human-development-report" target="_blank">https://www.undp.org/kazakhstan/publications/2019-kazakhstan-human-development-report</a></h4>
+
+<h4 id="type-publications-11">Type: publications</h4>
+
+<h4 id="tags-microfinance-digital-literacy">Tags: [‘Microfinance’, ‘Digital Literacy’]</h4>
+
+<h4 id="snippets-95">Snippets:</h4>
+<ul>
+  <li>information technology and open data can promote greater citizen engagement, transparency, reduction of information inequality among urban residents,
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="undp-kyrgyzstan-seeks-for-volunteers-for-youth-programme-2021">UNDP Kyrgyzstan seeks for volunteers for “Youth Programme 2021”</h2>
+
+<h4 id="date-29-april-2021">Date: 29 April, 2021</h4>
+
+<h4 id="country-kyrgyzstan">Country: Kyrgyzstan</h4>
+
+<h4 id="url-httpswwwundporgkyrgyzstanpress-releasesundp-kyrgyzstan-seeks-volunteers-e2809cyouth-programme-2021e2809d">URL: <a href="https://www.undp.org/kyrgyzstan/press-releases/undp-kyrgyzstan-seeks-volunteers-%E2%80%9Cyouth-programme-2021%E2%80%9D" target="_blank">https://www.undp.org/kyrgyzstan/press-releases/undp-kyrgyzstan-seeks-volunteers-%E2%80%9Cyouth-programme-2021%E2%80%9D</a></h4>
+
+<h4 id="type-press-release-8">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-14">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-96">Snippets:</h4>
+<ul>
+  <li>analysis Media &amp; Digital literacy (Tech-savviness)
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="innokg-challenge-winners-digital-learning-for-deaf-kids-online-doctors-and-english-learning-platform">InnoKg Challenge Winners: Digital learning for deaf kids, online doctors and English learning platform</h2>
+
+<h4 id="date-11-june-2020">Date: 11 June, 2020</h4>
+
+<h4 id="country-kyrgyzstan-azerbaijan-united-states-of-america">Country: Kyrgyzstan, Azerbaijan, United States of America</h4>
+
+<h4 id="url-httpswwwundporgkyrgyzstanpress-releasesinnokg-challenge-winners-digital-learning-deaf-kids-online-doctors-and-english-learning-platform">URL: <a href="https://www.undp.org/kyrgyzstan/press-releases/innokg-challenge-winners-digital-learning-deaf-kids-online-doctors-and-english-learning-platform" target="_blank">https://www.undp.org/kyrgyzstan/press-releases/innokg-challenge-winners-digital-learning-deaf-kids-online-doctors-and-english-learning-platform</a></h4>
+
+<h4 id="type-press-release-9">Type: press release</h4>
+
+<h4 id="tags-digital-literacy-15">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-97">Snippets:</h4>
+<ul>
+  <li>digital resources for children with hearing impairment in pre-school preparation for school will include materials such as: ABCs for pre-school hearing
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="transforming-the-future-of-work-for-gender-equality-initiative">Transforming the Future of Work for Gender Equality Initiative</h2>
+
+<h4 id="date-01-may-2024-18">Date: 01 May, 2024</h4>
+
+<h4 id="country-41">Country:</h4>
+
+<h4 id="url-httpswwwundporgasia-pacifictransforming-future-work-gender-equality-initiative">URL: <a href="https://www.undp.org/asia-pacific/transforming-future-work-gender-equality-initiative" target="_blank">https://www.undp.org/asia-pacific/transforming-future-work-gender-equality-initiative</a></h4>
+
+<h4 id="type-webpage-17">Type: webpage</h4>
+
+<h4 id="tags-digital-literacy-16">Tags: [‘Digital Literacy’]</h4>
+
+<h4 id="snippets-98">Snippets:</h4>
+<ul>
+  <li>is looking to see how rapid digital literacy training for women living with disabilities can be utilized by institutions in other parts of the
+<br /><br /><br /></li>
+</ul>
+
+<h2 id="the-window-of-opportunities-how-digitalization-in-the-informal-economy-can-transform-the-future-for-haiti-and-bangladesh">The window of opportunities: How Digitalization in the Informal Economy can Transform the Future for Haiti and Bangladesh</h2>
+
+<h4 id="date-03-november-2022">Date: 03 November, 2022</h4>
+
+<h4 id="country-bangladesh-haiti-cyprus-france-ukraine">Country: Bangladesh, Haiti, Cyprus, France, Ukraine</h4>
+
+<h4 id="url-httpswwwundporgbangladeshblogwindow-opportunities-how-digitalization-informal-economy-can-transform-future-haiti-and-bangladesh">URL: <a href="https://www.undp.org/bangladesh/blog/window-opportunities-how-digitalization-informal-economy-can-transform-future-haiti-and-bangladesh" target="_blank">https://www.undp.org/bangladesh/blog/window-opportunities-how-digitalization-informal-economy-can-transform-future-haiti-and-bangladesh</a></h4>
+
+<h4 id="type-blog-30">Type: blog</h4>
+
+<h4 id="tags-digital-literacy-e-commerce">Tags: [‘Digital Literacy’, ‘E-commerce’]</h4>
+
+<h4 id="snippets-99">Snippets:</h4>
+<ul>
+  <li>though a limited number, have learned how digitalization can improve lives and livelihoods if employees acquire new skills. Digitalization can make a
+<br /><br /><br /></li>
+</ul>
+
+
+                  </div>
+
+                  <!-- BEGIN TAGS AND SDG CHIPS -->
+                  <!--  -->
+                  <!-- END TAGS AND CATEGORY CHIPS -->
+
+                </div>
+              </div>
+            </div>
+            <!-- END PAGE CONTENT -->
+
+          </div>
+        </div>
+
+        <!-- BEGIN PAGE FOOTER -->
+        <footer class="footer">
+  <div class="grid-x">
+    <div class="cell medium-10 medium-offset-1">
+      <div class="grid-x footer-head">
+        <div class="cell medium-5">
+          <div class="footer-logo">
+            <a>
+              <img
+                src="/dfi-rave-search-terms/public/imgs/UNDP_accelerator_labs_logo_vertical_left_align_white_RGB.png"
+                alt="Logo"
+              />
+            </a>
+            <h5 class="" tabindex="0" data-viewport="false">
+              United Nations Development Programme
+            </h5>
+          </div>
+        </div>
+      </div>
+      <div class="grid-x grid-margin-x" data-accordion="mobile">
+        <div class="cell medium-8">
+          <div class="grid-x grid-margin-x footer-items">
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-1"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                What we do
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/aboutus"
+                >
+                  About us
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/our-work"
+                >
+                  Our work
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/partnerships-core-our-network"
+                >
+                  Partnerships: the core of our network
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/our-work/untapped"
+                >
+                  UNTAPPED
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/peoplepowered"
+                >
+                  Grassroots Energy Solutions
+                </a>
+              </div>
+            </div>
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-2"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                Where we are
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/our-locations"
+                >
+                  Our Locations
+                </a>
+              </div>
+            </div>
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-3"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                Our Learnings
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/globalpublications"
+                >
+                  Global Publications
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/localpublications"
+                >
+                  Country Publications
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/blog"
+                >
+                  Blog
+                </a>
+              </div>
+            </div>
+            <div class="cell footer-item">
+              <button
+                type="button"
+                id="footer-item-4"
+                class="footer-heading desktop-event-none"
+                tabindex="0"
+                aria-controls="footer-panel-1"
+                aria-expanded="false"
+              >
+                News
+              </button>
+              <div
+                id="footer-panel-1"
+                class="footer-panel desktop-visible"
+                aria-label="footer-item-1"
+                aria-hidden="false"
+                role="region"
+              >
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/news-updates"
+                >
+                  News center
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/events"
+                >
+                  Events
+                </a>
+                <a
+                  class="footer-menu-item light"
+                  href="https://www.undp.org/acceleratorlabs/newsletters"
+                >
+                  Newsletters
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="cell medium-4">
+          <ul class="footer-links">
+            <li><a href="https://www.undp.org/acceleratorlabs">About Us</a></li>
+            <li>
+              <a href="https://www.undp.org/accountability/audit/investigations"
+                >Report Fraud, Abuse, Misconduct</a
+              >
+            </li>
+            <li>
+              <a href="https://www.undp.org/scam-alert">Scam Alert</a>
+            </li>
+            <li>
+              <a href="https://www.undp.org/copyright-terms-use"
+                >Terms Of Use</a
+              >
+            </li>
+          </ul>
+          <ul class="footer-icons">
+            <li>
+              <a
+                href="https://www.linkedin.com/company/undp-accelerator-labs"
+                class="linkedin"
+                title="LinkedIn"
+                >linkedIn</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/acceleratorlabs/"
+                class="instagram"
+                title="Instagram"
+                >instagram</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://twitter.com/UNDPAccLabs"
+                class="twitter"
+                title="Twitter"
+                >twitter</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <p tabindex="0">
+          © 2024 United Nations Development Programme
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+      </div>      
+
+
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/gsap.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/animation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/navigation.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/undp.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/accordion.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/viewport.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/sidebar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/lang-switcher.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/scrolling-progressbar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/swiper.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/expand-search.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/filter-search-bar.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/multi-select.min.js"></script>
+
+    <!-- <script src="/dfi-rave-search-terms/public/js/indexload.js"></script> -->
+    <script src="/dfi-rave-search-terms/assets/lunr-min.js"></script>
+    <script src="/dfi-rave-search-terms/assets/lunr-feed.js"></script>
+    <script>
+    $(document).ready(function(){
+      navigationInitialize();
+      navigationOverFlow();
+      navigationMultiLevelEdgeDetection();
+
+      accordion();
+      sidebarNav();
+      sidebarMenu();
+
+      langSwitch();
+
+      accordion('[data-accordion="mobile"]', '.footer-panel', 'active');
+      expandToSize('.pagehero-full');
+      swiper('.fluid-carousel', '.slide-content'); 
+
+      expandSearch()
+      multiSelect()
+      toggleFilter()
+    });
+
+    $(document).ready(function() {
+      var current = window.location.pathname;
+      $('li a').each(function() {
+          var $this = $(this);
+          if($this.attr('href') === current) {
+            $this.closest('li[aria-label="Sidebar heading"]').find('ul.accordion__panel').addClass('display-block-important');
+            $this.closest('li[aria-label="Sidebar heading"]').addClass('active');
+          }
+          else {
+            $this.closest('ul.accordion__panel').css('display', 'none');
+          }
+      });
+  });
+    </script>
+  </body>
+</html>
